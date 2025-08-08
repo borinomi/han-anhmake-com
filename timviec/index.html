@@ -755,6 +755,8 @@
     let longPressTimer = null;
     let longPressDelay = 500; // 0.5 seconds
     let longPressTriggered = false;
+    let touchStartPos = null;
+    let isScrolling = false;
 
     // Load posts from JavaScript data file
     function loadPosts() {
@@ -1003,6 +1005,7 @@
         
         // Touch events for long press detection
         card.addEventListener('touchstart', (e) => handleTouchStart(e, postId), { passive: true });
+        card.addEventListener('touchmove', (e) => handleTouchMove(e, postId), { passive: true });
         card.addEventListener('touchend', (e) => handleTouchEnd(e, postId), { passive: true });
         card.addEventListener('touchcancel', () => clearLongPressTimer(), { passive: true });
         
@@ -1019,8 +1022,16 @@
     function handleTouchStart(event, postId) {
       clearLongPressTimer();
       longPressTriggered = false;
+      isScrolling = false;
+      
+      // 터치 시작 위치 저장
+      touchStartPos = {
+        x: event.touches[0].clientX,
+        y: event.touches[0].clientY
+      };
+      
       longPressTimer = setTimeout(() => {
-        if (!isSelectionMode) {
+        if (!isSelectionMode && !isScrolling) {
           longPressTriggered = true;
           navigator.vibrate && navigator.vibrate(50); // Haptic feedback
           enterSelectionMode(postId);
@@ -1028,8 +1039,30 @@
       }, longPressDelay);
     }
     
+    function handleTouchMove(event, postId) {
+      if (touchStartPos) {
+        const currentPos = {
+          x: event.touches[0].clientX,
+          y: event.touches[0].clientY
+        };
+        
+        // 10픽셀 이상 움직이면 스크롤로 간주
+        const distance = Math.sqrt(
+          Math.pow(currentPos.x - touchStartPos.x, 2) + 
+          Math.pow(currentPos.y - touchStartPos.y, 2)
+        );
+        
+        if (distance > 10) {
+          isScrolling = true;
+          clearLongPressTimer();
+        }
+      }
+    }
+    
     function handleTouchEnd(event, postId) {
       clearLongPressTimer();
+      touchStartPos = null;
+      isScrolling = false;
     }
     
     function handleMouseDown(event, postId) {
