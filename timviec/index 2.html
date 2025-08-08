@@ -503,8 +503,6 @@
       max-height: 80vh;
       object-fit: contain;
       border-radius: 0.5rem;
-      transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), opacity 0.2s ease;
-      will-change: transform, opacity;
     }
     
     .modal-close {
@@ -638,8 +636,6 @@
         object-fit: contain;
         border-radius: 0;
         touch-action: pan-y;        /* 세로 스크롤 허용, 가로는 제스처용 */
-        transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), opacity 0.2s ease;
-        will-change: transform, opacity;
       }
       /* 모바일에선 좌우 버튼 숨기고 스와이프 쓰는 게 깔끔 */
       .modal-nav {
@@ -1389,39 +1385,14 @@
       document.body.style.width = '';
       window.scrollTo(0, __lockScrollY);
     }
-    function showImageAt(i, direction = 0) {
+    function showImageAt(i) {
       if (!currentImages || currentImages.length === 0) return;
-      
-      const imageEl = document.getElementById('modal-image');
-      const newIndex = (i + currentImages.length) % currentImages.length;
-      
-      // 스와이프 방향에 따른 애니메이션
-      if (direction !== 0 && currentImages.length > 1) {
-        // 페이드 아웃
-        imageEl.style.opacity = '0';
-        imageEl.style.transform = `translateX(${direction > 0 ? '-20px' : '20px'})`;
-        
-        setTimeout(() => {
-          currentImageIndex = newIndex;
-          imageEl.src = currentImages[currentImageIndex];
-          
-          // 페이드 인
-          requestAnimationFrame(() => {
-            imageEl.style.opacity = '1';
-            imageEl.style.transform = 'translateX(0)';
-          });
-        }, 150);
-      } else {
-        // 즉시 변경 (초기 로드 시)
-        currentImageIndex = newIndex;
-        imageEl.src = currentImages[currentImageIndex];
-        imageEl.style.opacity = '1';
-        imageEl.style.transform = 'translateX(0)';
-      }
+      currentImageIndex = (i + currentImages.length) % currentImages.length;
+      document.getElementById('modal-image').src = currentImages[currentImageIndex];
     }
 
-    function showNext() { showImageAt(currentImageIndex + 1, 1); }
-    function showPrev() { showImageAt(currentImageIndex - 1, -1); }
+    function showNext() { showImageAt(currentImageIndex + 1); }
+    function showPrev() { showImageAt(currentImageIndex - 1); }
 
     function openImageModal(images, index) {
       currentImages = images;
@@ -1590,16 +1561,11 @@
       const dy = t.clientY - touchStartY;
 
       // 가로 스와이프만 처리(세로 스크롤과 구분)
-      if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 50) {
-        e.preventDefault(); // 가로 제스처일 땐 기본 스크롤 막기
+      if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 30) {
+        e.preventDefault();            // 가로 제스처일 땐 기본 스크롤 막기
         swiped = true;
-        
-        // 부드러운 스와이프를 위해 방향 정보 전달
-        if (dx < 0) {
-          showNext(); // 왼쪽으로 밀면 다음
-        } else {
-          showPrev(); // 오른쪽으로 밀면 이전
-        }
+        if (dx < 0) showNext();        // 왼쪽으로 밀면 다음
+        else showPrev();               // 오른쪽으로 밀면 이전
       }
     }, { passive: false });
 
