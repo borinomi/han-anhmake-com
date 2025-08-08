@@ -70,7 +70,8 @@
     
     .header-buttons {
       display: flex;
-      justify-content: center;
+      justify-content: space-between;
+      align-items: center;
       gap: 0.5rem;
       margin-bottom: 0.75rem;
     }
@@ -90,10 +91,9 @@
     }
     
     .date-filter-container {
-      position: absolute;
+      position: relative;
       padding: 0.4rem 0.8rem;
-      justify-content: center;
-      align-items: center;
+      margin-left: 0;
     }
     
     .btn {
@@ -670,16 +670,16 @@
             Filtered <span id="filtered-count">0</span>
           </div>
         </div>
-        <div class="date-filter-container">
-          <select id="date-filter" class="form-input compact">
-            <option value="all">Tất cả thời gian</option>
-            <option value="today">Hôm nay</option>
-            <option value="this_week">Tuần này</option>
-            <option value="this_month">Tháng này</option>
-            <option value="custom">Tùy chỉnh</option>
-          </select>
-        </div>
         <div class="header-buttons">
+          <div class="date-filter-container">
+            <select id="date-filter" class="form-input compact">
+              <option value="all">Tất cả thời gian</option>
+              <option value="today">Hôm nay</option>
+              <option value="this_week">Tuần này</option>
+              <option value="this_month">Tháng này</option>
+              <option value="custom">Tùy chỉnh</option>
+            </select>
+          </div>
           <button id="share-zalo-btn" class="btn btn-zalo">💬 Chia sẻ / Zalo</button>
         </div>
         
