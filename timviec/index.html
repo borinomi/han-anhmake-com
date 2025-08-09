@@ -93,6 +93,19 @@
       margin-top: 0.5rem;
     }
     
+    /* Compact header: keep only search row visible */
+    .header.compact .header-buttons,
+    .header.compact .header-stats,
+    .header.compact h1 {
+      display: none !important;
+    }
+    .header.compact .header-content {
+      padding: 0.5rem;
+    }
+    .header.compact .search-filters {
+      margin-top: 0;
+    }
+    
     .search-input-container {
       position: relative;
       flex: 1;
@@ -852,6 +865,23 @@
       document.getElementById('filtered-count').textContent = filteredPosts.length;
     }
 
+    // Toggle compact header (show only search row when scrolled)
+    function updateHeaderCompact() {
+      const headerEl = document.querySelector('.header');
+      if (!headerEl) return;
+      // When selection mode is active, always expand header fully
+      if (isSelectionMode) {
+        headerEl.classList.remove('compact');
+        return;
+      }
+      // Compact when scrolled away from top
+      if (window.scrollY > 80) {
+        headerEl.classList.add('compact');
+      } else {
+        headerEl.classList.remove('compact');
+      }
+    }
+
     // Render posts (infinite scroll)
     function renderPosts(reset = false) {
       const container = document.getElementById('posts-container');
@@ -932,6 +962,8 @@
       isSelectionMode = true;
       document.body.classList.add('selection-mode');
       document.getElementById('selection-bar').classList.remove('hidden');
+      // Ensure header is fully expanded in selection mode
+      updateHeaderCompact();
       
       // Select the first post that triggered selection mode
       if (firstPostId) {
@@ -946,6 +978,8 @@
       isSelectionMode = false;
       document.body.classList.remove('selection-mode');
       document.getElementById('selection-bar').classList.add('hidden');
+      // Recalculate header compact state after exiting selection mode
+      updateHeaderCompact();
       
       // Clear all selections
       selectedPosts.clear();
@@ -1448,6 +1482,9 @@
     document.addEventListener('DOMContentLoaded', function() {
       // Initialize the app
       initializeApp();
+      // Initialize header compact state and bind scroll listener
+      updateHeaderCompact();
+      window.addEventListener('scroll', updateHeaderCompact, { passive: true });
       
       // Enhanced mobile touch handling
       let touchStartY = 0;
