@@ -763,7 +763,7 @@
   </div>
 
   <!-- Load data before main script -->
-  <script src="vietnam_data.js"></script>
+  <script src="data.js"></script>
   <script>
     // Vietnam Reports - Mobile-optimized JavaScript
     let allPosts = [];
@@ -789,7 +789,7 @@
 
     // Load posts from JavaScript data file
     function loadPosts() {
-      // Check if data is already loaded from vietnam_data.js
+      // Check if data is already loaded from data.js
       if (window.vietnamPostsData && Array.isArray(window.vietnamPostsData)) {
         return Promise.resolve(window.vietnamPostsData);
       }
@@ -808,11 +808,11 @@
                 python3 json_to_js_converter.py
               </code>
               <p style="margin-top: 0.5rem; font-size: 0.9rem;">
-                This will create <strong>vietnam_data.js</strong> from your <strong>processed_posts.json</strong>
+                This will create <strong>data.js</strong> from your <strong>processed_posts.json</strong>
               </p>
             </div>
             <p style="font-size: 0.875rem; color: #666;">
-              For Cloudflare hosting, upload both <strong>vietnam.html</strong> and <strong>vietnam_data.js</strong> together.
+              For Cloudflare hosting, upload both <strong>vietnam.html</strong> and <strong>data.js</strong> together.
             </p>
           </div>
         </div>
