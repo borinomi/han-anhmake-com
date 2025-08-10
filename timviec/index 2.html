@@ -1,0 +1,1642 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vietnam Reports - Mobile View</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #e7f3ff;
+      color: #333;
+      line-height: 1.4;
+    }
+    
+    .loading-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      flex-direction: column;
+    }
+    
+    .spinner {
+      width: 32px;
+      height: 32px;
+      border: 3px solid #e2e8f0;
+      border-top: 3px solid #3b82f6;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin-bottom: 16px;
+    }
+    
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    
+    .header {
+      background: white;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      border-bottom: 1px solid #e0e0e0;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    
+    .header-content {
+      padding: 0.75rem;
+      text-align: center;
+    }
+    
+    .header h1 {
+      font-size: 1.25rem;
+      font-weight: 600;
+      color: #111;
+      margin-bottom: 0.5rem;
+    }
+    
+    .header-stats {
+      font-size: 0.75rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+    
+    .header-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 0.5rem;
+      margin-bottom: 0.75rem;
+    }
+    
+    .search-filters {
+      display: flex;
+      gap: 0.5rem;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 0.5rem;
+    }
+    
+    .search-input-container {
+      position: relative;
+      flex: 1;
+      min-width: 0;
+    }
+    
+    .date-filter-container {
+      position: absolute;
+      padding: 0.4rem 0.8rem;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .btn {
+      padding: 0.5rem 1rem;
+      border: none;
+      border-radius: 0.5rem;
+      font-size: 0.875rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+      touch-action: manipulation;
+    }
+    
+    .btn-zalo {
+      background: #0068ff;
+      color: white;
+      flex: 1;
+      max-width: 200px;
+    }
+    
+    .btn-zalo:hover {
+      background: #0052cc;
+    }
+    
+    .btn-zalo:disabled {
+      background: #9ca3af;
+      cursor: not-allowed;
+    }
+    
+    .compact-btn {
+      padding: 0.4rem 0.8rem;
+      font-size: 0.85rem;
+      border-radius: 0.4rem;
+      white-space: nowrap;
+    }
+    
+    .main-content {
+      padding: 0.75rem;
+    }
+    
+    .form-input {
+      width: 100%;
+      padding: 0.5rem;
+      border: 1px solid #ddd;
+      border-radius: 0.5rem;
+      font-size: 0.9rem;
+      background: #fafafa;
+    }
+    
+    .form-input.compact {
+      padding: 0.4rem;
+      font-size: 0.85rem;
+    }
+    
+    .form-input:focus {
+      outline: none;
+      border-color: #0068ff;
+      background: white;
+    }
+    
+    .search-clear-btn {
+      position: absolute;
+      right: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      font-size: 18px;
+      color: #999;
+      cursor: pointer;
+      display: none;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .search-clear-btn.visible {
+      display: flex;
+    }
+    
+    .search-clear-btn:hover {
+      background-color: #f0f0f0;
+    }
+    
+    .custom-date-range {
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 0.5rem;
+      padding: 0.5rem;
+      gap: 0.5rem;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      z-index: 101;
+    }
+    
+    .custom-date-range.show {
+      display: flex;
+    }
+    
+    .header .custom-date-range {
+      margin-top: 0.5rem;
+      position: relative;
+      top: auto;
+      left: auto;
+      right: auto;
+      border: none;
+      box-shadow: none;
+      padding: 0;
+    }
+    
+    .posts-container {
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+    }
+    
+    .post-card {
+      background: white;
+      border-radius: 0.75rem;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      padding: 0.75rem;
+      position: relative;
+    }
+    
+    .post-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.75rem;
+      margin-bottom: 1.25rem;
+    }
+    
+    .group-thumbnail {
+      width: 40px;
+      height: 40px;
+      border-radius: 8px;
+      object-fit: cover;
+      flex-shrink: 0;
+      cursor: pointer;
+    }
+    
+    .post-header-info {
+      flex: 1;
+    }
+    
+    .post-group-name {
+      font-weight: 600;
+      color: #111;
+      font-size: 0.9rem;
+      margin-bottom: 0.25rem;
+    }
+    
+    .post-author {
+      font-weight: 500;
+      color: #666;
+      font-size: 0.85rem;
+    }
+    
+    .post-author-time {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+    
+    .post-time {
+      font-size: 0.75rem;
+      color: #666;
+    }
+    
+    .post-message {
+      color: #333;
+      margin-bottom: 0.5rem;
+      line-height: 1.5;
+
+      word-break: break-word;
+      font-size: 0.9rem;
+      cursor: pointer;
+      height: auto;
+      max-height: 150px;
+      overflow: hidden;
+      position: relative;
+      text-indent: 0;
+      padding-left: 0;
+      margin-left: 0;
+    }
+    
+    .post-message.expanded {
+      max-height: none;
+    }
+    
+    .post-media {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+    
+    .media-item {
+      width: 100%;
+      aspect-ratio: 1;
+      border-radius: 0.5rem;
+      object-fit: cover;
+      cursor: pointer;
+    }
+    
+    .media-overlay {
+      position: relative;
+    }
+    
+    .media-overlay .media-more {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.6);
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      border-radius: 0.5rem;
+    }
+    
+    .post-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.75rem;
+      color: #666;
+      padding-top: 0.5rem;
+      border-top: 1px solid #f0f0f0;
+    }
+    
+    .post-link {
+      color: #0068ff;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    
+    .post-link:hover {
+      text-decoration: underline;
+    }
+    
+    .see-more {
+      color: #2b2b2b;
+      cursor: pointer;
+      font-size: 1rem;
+      font-weight: bold;
+      margin-top: 0.5rem;
+      display: block;
+      text-indent: 0;
+      padding-left: 0;
+      margin-left: 0;
+    }
+    
+    .empty-state {
+      background: white;
+      border-radius: 0.75rem;
+      padding: 3rem 1rem;
+      text-align: center;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    }
+    
+    .empty-icon {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+    }
+    
+    .empty-title {
+      font-size: 1.125rem;
+      font-weight: 500;
+      color: #111;
+      margin-bottom: 0.5rem;
+    }
+    
+    .empty-text {
+      color: #666;
+      font-size: 0.9rem;
+    }
+    
+    .hidden {
+      display: none !important;
+    }
+    
+    /* Selection Mode Styles */
+    .selection-bar {
+      position: sticky;
+      top: 0;
+      background: #0068ff;
+      color: white;
+      padding: 1rem;
+      z-index: 200;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    
+    .selection-actions {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+    }
+    
+    .selection-btn {
+      background: rgba(255, 255, 255, 0.2);
+      color: white;
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      padding: 0.5rem 1rem;
+      border-radius: 0.5rem;
+      cursor: pointer;
+      font-size: 0.9rem;
+    }
+    
+    .selection-btn:hover {
+      background: rgba(255, 255, 255, 0.3);
+    }
+    
+    .selection-count {
+      font-weight: bold;
+      font-size: 1rem;
+    }
+    
+    /* Selected post styles */
+    .post-card.selected {
+      border: 3px solid #0068ff !important;
+      background: #f0f8ff;
+      position: relative;
+      transform: scale(0.98);
+      transition: all 0.2s ease;
+    }
+    
+    .post-card.selected::before {
+      content: '✓';
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background: #0068ff;
+      color: white;
+      border-radius: 50%;
+      width: 24px;
+      height: 24px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      z-index: 10;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    
+    /* Selection mode body styles */
+    body.selection-mode .post-card {
+      cursor: pointer;
+      user-select: none;
+    }
+    
+    body.selection-mode .post-card:hover {
+      transform: scale(1.02);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    }
+    
+    /* Modal Styles */
+    .modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.8);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+      padding: 1rem;
+    }
+    
+    .modal-content {
+      background: white;
+      border-radius: 0.75rem;
+      max-width: 100%;
+      max-height: 90vh;
+      overflow-y: auto;
+      position: relative;
+    }
+    
+    .modal-post {
+      padding: 1.5rem;
+    }
+    
+    .modal-image {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      max-height: 90vh;
+    }
+    
+    .modal-image img {
+      max-width: 100%;
+      max-height: 80vh;
+      object-fit: contain;
+      border-radius: 0.5rem;
+    }
+    
+    .modal-close {
+      position: absolute;
+      top: 15px;
+      right: 20px;
+      background: rgba(0, 0, 0, 0.5);
+      color: white;
+      border: none;
+      border-radius: 50%;
+      width: 32px;
+      height: 32px;
+      cursor: pointer;
+      font-size: 1.25rem;
+      z-index: 1001;
+    }
+    
+    .modal-nav {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(0, 0, 0, 0.5);
+      color: white;
+      border: none;
+      border-radius: 50%;
+      width: 40px;
+      height: 40px;
+      cursor: pointer;
+      font-size: 1.25rem;
+      z-index: 1001;
+    }
+    
+    .modal-prev {
+      left: 20px;
+    }
+    
+    .modal-next {
+      right: 20px;
+    }
+    
+    .post-detail {
+      max-width: 100%;
+    }
+    
+    .post-detail-header {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid #e5e7eb;
+    }
+    
+    .post-detail-content p {
+      line-height: 1.6;
+      margin-bottom: 1rem;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+        /* 전역: 모달 열릴 때 배경 스크롤 잠금 */
+        html.modal-open,
+    body.modal-open {
+      overflow: hidden;
+      height: 100%;
+    }
+
+    /* 앱 래퍼를 고정해서 백그라운드 스크롤 완전 차단 (iOS 포함) */
+    body.modal-open #app {
+      position: fixed;
+      inset: 0;
+      width: 100%;
+      overflow: hidden;
+    }
+    /* Mobile optimizations */
+    @media (max-width: 768px) {
+      .header-content {
+        padding: 0.75rem;
+      }
+      
+      .header h1 {
+        font-size: 1.1rem;
+      }
+      
+      .main-content {
+        padding: 0.75rem;
+      }
+      
+      .post-card {
+        padding: 0.6rem;
+      }
+      
+      .post-media {
+        grid-template-columns: repeat(2, 1fr);
+      }
+      
+      .modal {
+        position: fixed;
+        inset: 0;                 /* top:0; right:0; bottom:0; left:0 */
+        width: 100vw;
+        height: 100vh;
+        padding: 0;               /* 여백 제거 */
+        background: rgba(0,0,0,0.95);
+        overscroll-behavior: contain; /* iOS 튕김 방지 */
+      }
+      /* 박스 테두리/둥근모서리 제거하고 내부 스크롤 막기 */
+      .modal-content {
+        border-radius: 0;
+        width: 100vw;
+        height: 100vh;
+        max-width: 100%;
+        max-height: 100%;
+        overflow: hidden;           /* 내부 스크롤 제거 */
+        background: transparent;    /* 배경 투명 */
+        padding: 0;                 /* 여백 제거 */
+      }
+      /* 이미지 컨테이너가 화면을 꽉 채우도록 */
+      .modal-image {
+        width: 100%;
+        height: 100%;
+        max-height: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: env(safe-area-inset-top) env(safe-area-inset-right)
+                env(safe-area-inset-bottom) env(safe-area-inset-left);
+      }
+      /* 이미지는 화면에 맞춰 contain */
+      .modal-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        border-radius: 0;
+        touch-action: pan-y;        /* 세로 스크롤 허용, 가로는 제스처용 */
+      }
+      /* 모바일에선 좌우 버튼 숨기고 스와이프 쓰는 게 깔끔 */
+      .modal-nav {
+        display: none;
+      }
+      /* 닫기 버튼은 안전영역 감안해서 배치 */
+      .modal-close {
+        top: calc(env(safe-area-inset-top) + 10px);
+        right: calc(env(safe-area-inset-right) + 12px);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="loading" class="loading-container">
+    <div class="spinner"></div>
+    <p>Loading Vietnam Reports...</p>
+  </div>
+
+  <div id="app" class="hidden">
+    <!-- Header -->
+    <header class="header">
+      <div class="header-content">
+        <div>
+          <h1>Tìm việc làm tại Hàn quốc</h1>
+          <div class="header-stats">
+            Total <span id="total-count">0</span> | 
+            Filtered <span id="filtered-count">0</span>
+          </div>
+        </div>
+        <div class="date-filter-container">
+          <select id="date-filter" class="form-input compact">
+            <option value="all">Tất cả thời gian</option>
+            <option value="today">Hôm nay</option>
+            <option value="this_week">Tuần này</option>
+            <option value="this_month">Tháng này</option>
+            <option value="custom">Tùy chỉnh</option>
+          </select>
+        </div>
+        <div class="header-buttons">
+          <button id="share-zalo-btn" class="btn btn-zalo">💬 Chia sẻ / Zalo</button>
+        </div>
+        
+        <!-- Search Filters in Header -->
+        <div class="search-filters">
+          <div class="search-input-container">
+            <input id="keyword-input" class="form-input compact" type="text" placeholder="Tìm kiếm nội dung...">
+            <button id="search-clear-btn" class="search-clear-btn" type="button" title="Clear search">×</button>
+          </div>
+          
+          <button id="full-search-btn" class="btn btn-primary compact-btn">🔍 Tìm tất cả</button>
+
+        </div>
+        
+        <div id="custom-date-range" class="custom-date-range">
+          <input type="date" id="date-from" class="form-input compact">
+          <input type="date" id="date-to" class="form-input compact">
+        </div>
+      </div>
+    </header>
+
+    <div class="main-content">
+      <!-- Selection Bar (hidden by default) -->
+      <div id="selection-bar" class="selection-bar hidden">
+        <div>
+          <button id="cancel-selection" class="selection-btn">✕ Hủy</button>
+        </div>
+        <div class="selection-count">
+          <span id="selected-count">0</span> đã chọn
+        </div>
+        <div class="selection-actions">
+          <button id="select-all" class="selection-btn">Chọn tất cả</button>
+        </div>
+      </div>
+
+      <!-- Posts List -->
+      <div id="posts-container" class="posts-container"></div>
+    </div>
+  </div>
+
+  <!-- Post Detail Modal -->
+  <div id="post-modal" class="modal hidden">
+    <div class="modal-content">
+      <button class="modal-close" id="close-post-modal">&times;</button>
+      <div class="modal-post" id="modal-post-content"></div>
+    </div>
+  </div>
+
+  <!-- Image Modal -->
+  <div id="image-modal" class="modal hidden">
+    <div class="modal-content">
+      <button class="modal-close" id="close-image-modal">&times;</button>
+      <div class="modal-image">
+        <button class="modal-nav modal-prev" id="prev-image-btn">&larr;</button>
+        <img id="modal-image" src="" alt="Full size image">
+        <button class="modal-nav modal-next" id="next-image-btn">&rarr;</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Load data before main script -->
+  <script src="vietnam_data.js"></script>
+  <script>
+    // Vietnam Reports - Mobile-optimized JavaScript
+    let allPosts = [];
+    let filteredPosts = [];
+    let currentImageIndex = 0;
+    let currentImages = [];
+    
+    // Pagination variables
+    let currentPage = 0;
+    const postsPerPage = 30;
+    let displayedPosts = [];
+    let isLoading = false;
+    let isSearchMode = false; // 전체 검색 모드 여부
+    
+    // Selection mode variables
+    let isSelectionMode = false;
+    let selectedPosts = new Set();
+    let longPressTimer = null;
+    let longPressDelay = 500; // 0.5 seconds
+    let longPressTriggered = false;
+    let touchStartPos = null;
+    let isScrolling = false;
+
+    // Load posts from JavaScript data file
+    function loadPosts() {
+      // Check if data is already loaded from vietnam_data.js
+      if (window.vietnamPostsData && Array.isArray(window.vietnamPostsData)) {
+        return Promise.resolve(window.vietnamPostsData);
+      }
+      
+      // Fallback: show instructions to generate JS file
+      document.getElementById('loading').innerHTML = `
+        <div class="loading-container">
+          <div style="text-align: center; padding: 2rem; max-width: 500px; margin: 0 auto;">
+            <h3 style="color: #f59e0b; margin-bottom: 1rem;">📄 Data File Required</h3>
+            <p style="margin-bottom: 1rem; line-height: 1.6;">
+              To view the posts, you need to generate the JavaScript data file first.
+            </p>
+            <div style="background: #f3f4f6; padding: 1rem; border-radius: 0.5rem; margin-bottom: 1rem;">
+              <p style="font-weight: 600; margin-bottom: 0.5rem;">Run this command:</p>
+              <code style="display: block; background: #1f2937; color: #fff; padding: 0.75rem; border-radius: 0.25rem; margin: 0.5rem 0; font-family: monospace; word-break: break-all;">
+                python3 json_to_js_converter.py
+              </code>
+              <p style="margin-top: 0.5rem; font-size: 0.9rem;">
+                This will create <strong>vietnam_data.js</strong> from your <strong>processed_posts.json</strong>
+              </p>
+            </div>
+            <p style="font-size: 0.875rem; color: #666;">
+              For Cloudflare hosting, upload both <strong>vietnam.html</strong> and <strong>vietnam_data.js</strong> together.
+            </p>
+          </div>
+        </div>
+      `;
+      
+      return Promise.resolve([]);
+    }
+
+    // Sort posts by date (newest first)
+    function sortPostsByDate(posts) {
+      return posts.sort((a, b) => {
+        // Get time from various possible fields
+        const timeA = a.time || a.timestamp || a.created_time || '';
+        const timeB = b.time || b.timestamp || b.created_time || '';
+        
+        if (!timeA && !timeB) return 0;
+        if (!timeA) return 1;  // Posts without time go to bottom
+        if (!timeB) return -1;
+        
+        // Parse dates for comparison
+        const dateA = new Date(timeA);
+        const dateB = new Date(timeB);
+        
+        // Sort newest first (descending order)
+        return dateB - dateA;
+      });
+    }
+
+    // Initialize the app
+    async function initializeApp() {
+      // Load posts data
+      allPosts = await loadPosts();
+      
+      // Sort posts by date (newest first)
+      allPosts = sortPostsByDate(allPosts);
+      filteredPosts = [...allPosts];
+      
+      // Update UI
+      updateStats();
+      renderPosts(true); // 초기 로딩
+      
+      // Hide loading screen
+      document.getElementById('loading').classList.add('hidden');
+      document.getElementById('app').classList.remove('hidden');
+    }
+
+    // Update statistics
+    function updateStats() {
+      document.getElementById('total-count').textContent = allPosts.length;
+      document.getElementById('filtered-count').textContent = filteredPosts.length;
+    }
+
+    // Render posts (infinite scroll)
+    function renderPosts(reset = false) {
+      const container = document.getElementById('posts-container');
+      
+      if (reset) {
+        currentPage = 0;
+        displayedPosts = [];
+        container.innerHTML = '';
+      }
+      
+      if (filteredPosts.length === 0) {
+        container.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-icon">📭</div>
+            <div class="empty-title">No Posts Found</div>
+            <div class="empty-text">Try adjusting your search or filter criteria</div>
+          </div>
+        `;
+        return;
+      }
+
+      // Load next batch of posts
+      loadMorePosts();
+    }
+    
+    // Load more posts for infinite scroll
+    function loadMorePosts() {
+      if (isLoading) return;
+      
+      isLoading = true;
+      const container = document.getElementById('posts-container');
+      
+      const startIndex = currentPage * postsPerPage;
+      const endIndex = startIndex + postsPerPage;
+      const newPosts = filteredPosts.slice(startIndex, endIndex);
+      
+      if (newPosts.length === 0) {
+        isLoading = false;
+        return;
+      }
+      
+      // Add new posts to displayed posts
+      displayedPosts = displayedPosts.concat(newPosts);
+      
+      // Render new posts
+      const newPostsHtml = newPosts.map(post => createPostCard(post)).join('');
+      
+      if (currentPage === 0) {
+        container.innerHTML = newPostsHtml;
+      } else {
+        container.insertAdjacentHTML('beforeend', newPostsHtml);
+      }
+      
+      currentPage++;
+      isLoading = false;
+      
+      // Add event listeners to new posts
+      attachPostEventListeners();
+      addSeeMoreListeners();
+    }
+    
+    // Add see more listeners (separated for reuse)
+    function addSeeMoreListeners() {
+      document.querySelectorAll('.see-more:not([data-listener-added])').forEach(btn => {
+        btn.setAttribute('data-listener-added', 'true');
+        btn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          if (!isSelectionMode) {
+            const postId = btn.getAttribute('data-post-id');
+            expandPost(postId);
+          }
+        });
+      });
+    }
+    
+    // Selection Mode Functions
+    function enterSelectionMode(firstPostId) {
+      isSelectionMode = true;
+      document.body.classList.add('selection-mode');
+      document.getElementById('selection-bar').classList.remove('hidden');
+      
+      // Select the first post that triggered selection mode
+      if (firstPostId) {
+        selectedPosts.add(firstPostId);
+        updateSelectedPost(firstPostId, true);
+      }
+      
+      updateSelectionCount();
+    }
+    
+    function exitSelectionMode() {
+      isSelectionMode = false;
+      document.body.classList.remove('selection-mode');
+      document.getElementById('selection-bar').classList.add('hidden');
+      
+      // Clear all selections
+      selectedPosts.clear();
+      document.querySelectorAll('.post-card.selected').forEach(card => {
+        card.classList.remove('selected');
+      });
+    }
+    
+    function togglePostSelection(postId) {
+      if (selectedPosts.has(postId)) {
+        selectedPosts.delete(postId);
+        updateSelectedPost(postId, false);
+      } else {
+        selectedPosts.add(postId);
+        updateSelectedPost(postId, true);
+      }
+      updateSelectionCount();
+    }
+    
+    function updateSelectedPost(postId, isSelected) {
+      const postCard = document.querySelector(`[data-post-id="${postId}"]`);
+      if (postCard) {
+        if (isSelected) {
+          postCard.classList.add('selected');
+        } else {
+          postCard.classList.remove('selected');
+        }
+      }
+    }
+    
+    function updateSelectionCount() {
+      document.getElementById('selected-count').textContent = selectedPosts.size;
+    }
+    
+    function selectAllPosts() {
+      // Select appropriate posts based on current mode
+      const postsToSelect = isSearchMode ? filteredPosts : displayedPosts;
+      
+      postsToSelect.forEach(post => {
+        if (post.post_url) {
+          selectedPosts.add(post.post_url);
+          updateSelectedPost(post.post_url, true);
+        }
+      });
+      updateSelectionCount();
+    }
+    
+    
+    // Event handlers for post interactions
+    function handleThumbnailClick(event, groupUrl) {
+      event.stopPropagation();
+      if (!isSelectionMode && groupUrl) {
+        window.open(groupUrl, '_blank');
+      }
+    }
+    
+    function handleSeeMoreClick(event, postId) {
+      event.stopPropagation();
+      if (!isSelectionMode) {
+        expandPost(postId);
+      }
+    }
+    
+    function handleLinkClick(event) {
+      event.stopPropagation();
+      // Let the link work normally even in selection mode
+    }
+    
+    // Attach touch/click event listeners to post cards
+    function attachPostEventListeners() {
+      document.querySelectorAll('.post-card').forEach(card => {
+        const postId = card.dataset.postId;
+        
+        // Touch events for long press detection
+        card.addEventListener('touchstart', (e) => handleTouchStart(e, postId), { passive: true });
+        card.addEventListener('touchmove', (e) => handleTouchMove(e, postId), { passive: true });
+        card.addEventListener('touchend', (e) => handleTouchEnd(e, postId), { passive: true });
+        card.addEventListener('touchcancel', () => clearLongPressTimer(), { passive: true });
+        
+        // Mouse events for desktop
+        card.addEventListener('mousedown', (e) => handleMouseDown(e, postId));
+        card.addEventListener('mouseup', (e) => handleMouseUp(e, postId));
+        card.addEventListener('mouseleave', () => clearLongPressTimer());
+        
+        // Click event for selection mode
+        card.addEventListener('click', (e) => handleCardClick(e, postId));
+      });
+    }
+    
+    function handleTouchStart(event, postId) {
+      clearLongPressTimer();
+      longPressTriggered = false;
+      isScrolling = false;
+      
+      // 터치 시작 위치 저장
+      touchStartPos = {
+        x: event.touches[0].clientX,
+        y: event.touches[0].clientY
+      };
+      
+      longPressTimer = setTimeout(() => {
+        if (!isSelectionMode && !isScrolling) {
+          longPressTriggered = true;
+          navigator.vibrate && navigator.vibrate(50); // Haptic feedback
+          enterSelectionMode(postId);
+        }
+      }, longPressDelay);
+    }
+    
+    function handleTouchMove(event, postId) {
+      if (touchStartPos) {
+        const currentPos = {
+          x: event.touches[0].clientX,
+          y: event.touches[0].clientY
+        };
+        
+        // 10픽셀 이상 움직이면 스크롤로 간주
+        const distance = Math.sqrt(
+          Math.pow(currentPos.x - touchStartPos.x, 2) + 
+          Math.pow(currentPos.y - touchStartPos.y, 2)
+        );
+        
+        if (distance > 10) {
+          isScrolling = true;
+          clearLongPressTimer();
+        }
+      }
+    }
+    
+    function handleTouchEnd(event, postId) {
+      clearLongPressTimer();
+      touchStartPos = null;
+      isScrolling = false;
+    }
+    
+    function handleMouseDown(event, postId) {
+      clearLongPressTimer();
+      longPressTriggered = false;
+      longPressTimer = setTimeout(() => {
+        if (!isSelectionMode) {
+          longPressTriggered = true;
+          enterSelectionMode(postId);
+        }
+      }, longPressDelay);
+    }
+    
+    function handleMouseUp(event, postId) {
+      clearLongPressTimer();
+    }
+    
+    function handleCardClick(event, postId) {
+      if (longPressTriggered) {
+        longPressTriggered = false;
+        return; // 롱프레스로 트리거된 경우 무시
+      }
+      
+      if (isSelectionMode) {
+        event.preventDefault();
+        event.stopPropagation();
+        togglePostSelection(postId);
+      }
+    }
+    
+    function clearLongPressTimer() {
+      if (longPressTimer) {
+        clearTimeout(longPressTimer);
+        longPressTimer = null;
+      }
+    }
+
+    // HTML escaping function
+    function esc(s) {
+      return (s || '').replace(/[&<>"']/g, m => ({
+        '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+      }[m]));
+    }
+
+    // Create post card HTML
+    function createPostCard(post) {
+      const truncateText = (text, maxLength = 200) => {
+        if (!text) return '';
+        if (text.length <= maxLength) return text;
+        return text.substring(0, maxLength) + '...';
+      };
+
+      const formatDate = (timestamp) => {
+        if (!timestamp) return '';
+        const date = new Date(timestamp);
+        return date.toLocaleDateString('vi-VN') + ' ' + date.toLocaleTimeString('vi-VN');
+      };
+
+      // Get media array (check both media_urls and media fields)
+      const mediaArray = post.media_urls || post.media || [];
+      
+      const mediaHtml = mediaArray && mediaArray.length > 0 ? `
+        <div class="post-media">
+          ${mediaArray.slice(0, 4).map((media, index) => 
+            `<img src="${media}" class="media-item" alt="Post media ${index + 1}" onclick="openImageModal(${JSON.stringify(mediaArray).replace(/"/g, '&quot;')}, ${index})">`
+          ).join('')}
+        </div>
+      ` : '';
+
+      // Map different field names to standardized ones
+      const authorName = post.author_name || post.author || 'Unknown Author';
+      const groupName = post.group_name || post.group || '';
+      const groupThumbnail = post.group_thumbnail || post.group_image || '';
+      const groupUrl = post.group_url || '';
+      const postUrl = post.post_url || post.url || '';
+      const postTime = post.timestamp || post.time || post.created_time || '';
+      // URL을 안전한 ID로 변환
+      const postId = post.post_url;
+      const safeId = btoa(postId || '').replace(/[^a-zA-Z0-9]/g, '') || `post_${Math.floor(Math.random() * 1000000)}`;
+
+      return `
+        <div class="post-card" data-post-id="${postId}">
+          <div class="post-header">
+            ${groupThumbnail ? `<img src="${groupThumbnail}" class="group-thumbnail" alt="${groupName}" onclick="handleThumbnailClick(event, '${groupUrl}')">` : ''}
+            <div class="post-header-info">
+              ${groupName ? `<div class="post-group-name">${groupName}</div>` : ''}
+              <div class="post-author-time">
+                <span class="post-author">${authorName}</span>
+                <span class="post-time">${formatDate(postTime)}</span>
+              </div>
+            </div>
+          </div>
+          
+          <div class="post-message" id="message-${safeId}" style="text-indent: 0; margin-left: 0; padding-left: 0;">
+            <div class="post-content-short">${post.message && post.message.length > 200 ? esc(post.message.substring(0, 200)) : esc(post.message)}</div>
+            ${post.message && post.message.length > 200 ? `<div class="post-content-full" style="display: none;">${esc(post.message)}</div>` : ''}
+            ${post.message && post.message.length > 200 ? `<div class="see-more" data-post-id="${postId}">... Xem thêm</div>` : ''}
+          </div>
+          <style>
+          .post-message > .post-content-short,
+          .post-message > .post-content-full {
+            white-space: pre-wrap;   /* 줄바꿈·공백 보존 */
+            margin-top: 0;           /* 첫 줄 들뜸 방지 */
+          }
+          /* 넘칠 때 시각적 표시 (그라데이션) */
+          .post-message.truncated::after {
+            content: "";
+            position: absolute;
+            left: 0; right: 0; bottom: 0;
+            height: 2.5rem;
+            background: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,1));
+            pointer-events: none;
+          }
+
+          /* 기존 .see-more를 오버레이 버튼처럼 */
+          .post-message .see-more {
+            position: absolute;
+            right: .25rem;
+            bottom: .25rem;
+            background: rgba(255,255,255,.95);
+            border: 1px solid #ddd;
+            border-radius: .5rem;
+            padding: .25rem .5rem;
+            font-weight: 700;
+            font-size: .9rem;
+            cursor: pointer;
+            z-index: 1;
+          }
+          </style>
+        
+          ${mediaHtml}
+          
+          <div class="post-footer">
+            <div class="post-info">
+              ${post.reactions ? `<span>👍 ${post.reactions}</span>` : ''}
+              ${post.comments_count ? `<span>💬 ${post.comments_count}</span>` : ''}
+              ${post.shares_count ? `<span>🔄 ${post.shares_count}</span>` : ''}
+            </div>
+            ${postUrl ? `<a href="${postUrl}" target="_blank" class="post-link" onclick="handleLinkClick(event)">Xem bài viết gốc</a>` : ''}
+          </div>
+        </div>
+      `;
+    }
+
+    
+    // 전체 검색 (모든 allPosts에서 검색)
+    function performFullSearch() {
+      const keyword = document.getElementById('keyword-input').value.toLowerCase();
+      const dateFilter = document.getElementById('date-filter').value;
+      const dateFrom = document.getElementById('date-from').value;
+      const dateTo = document.getElementById('date-to').value;
+
+      isSearchMode = true; // 전체 검색 모드 활성화
+
+      filteredPosts = allPosts.filter(post => {
+        // Keyword filter (내용에서만 검색)
+        if (keyword) {
+          const messageContent = (post.message || '').toLowerCase();
+          const keywords = keyword.split(' ').map(k => k.trim()).filter(k => k.length > 0);
+          const matchesAll = keywords.every(k => messageContent.includes(k));
+          if (!matchesAll) return false;
+        }
+
+        // Date filter
+        if (dateFilter !== 'all') {
+          const postTime = post.timestamp || post.time || post.created_time || '';
+          if (!postTime) return true; // Skip date filter if no date available
+          
+          const postDate = new Date(postTime);
+          const now = new Date();
+          
+          switch (dateFilter) {
+            case 'today':
+              if (postDate.toDateString() !== now.toDateString()) return false;
+              break;
+            case 'this_week':
+              const weekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
+              if (postDate < weekAgo) return false;
+              break;
+            case 'this_month':
+              const monthAgo = new Date(now.getTime() - 30 * 24 * 60 * 60 * 1000);
+              if (postDate < monthAgo) return false;
+              break;
+            case 'custom':
+              if (dateFrom && postDate < new Date(dateFrom)) return false;
+              if (dateTo && postDate > new Date(dateTo + 'T23:59:59')) return false;
+              break;
+          }
+        }
+
+        return true;
+      });
+
+      // Sort filtered posts by date (newest first)
+      filteredPosts = sortPostsByDate(filteredPosts);
+
+      updateStats();
+      renderPosts(true); // 리셋해서 새로 렌더링
+    }
+    
+    // 필터링된 게시물들을 화면에 렌더링
+    function renderFilteredPosts(posts) {
+      const container = document.getElementById('posts-container');
+      
+      if (posts.length === 0) {
+        container.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-icon">🔍</div>
+            <div class="empty-title">필터 결과 없음</div>
+            <div class="empty-text">다른 키워드로 시도해보세요</div>
+          </div>
+        `;
+        return;
+      }
+      
+      container.innerHTML = posts.map(post => createPostCard(post)).join('');
+      attachPostEventListeners();
+      addSeeMoreListeners();
+    }
+    function setupTruncationAndSeeMore() {
+      document.querySelectorAll('.post-message').forEach(msg => {
+        const btn = msg.querySelector('.see-more');
+        if (!btn) return;
+
+        const isOverflowing = msg.scrollHeight > msg.clientHeight + 1; // 여유 1px
+        if (isOverflowing) {
+          msg.classList.add('truncated');
+          btn.style.display = 'inline-block';
+        } else {
+          msg.classList.remove('truncated');
+          btn.style.display = 'none';
+        }
+      });
+    }
+    
+    // 날짜 필터 적용 (검색 모드 유지하면서)
+    function applyDateFilter() {
+      const dateFilter = document.getElementById('date-filter').value;
+      const dateFrom = document.getElementById('date-from').value;
+      const dateTo = document.getElementById('date-to').value;
+
+      // 검색 모드일 때는 키워드 검색도 다시 적용
+      if (isSearchMode) {
+        performFullSearch(); // 키워드 + 날짜 필터 함께 적용
+        return;
+      }
+      
+      // 일반 모드일 때는 전체 데이터에서 날짜 필터만 적용
+      filteredPosts = [...allPosts];
+      
+      if (dateFilter !== 'all') {
+        filteredPosts = filteredPosts.filter(post => {
+          const postTime = post.timestamp || post.time || post.created_time || '';
+          if (!postTime) return true;
+          
+          const postDate = new Date(postTime);
+          const now = new Date();
+          
+          switch (dateFilter) {
+            case 'today':
+              return postDate.toDateString() === now.toDateString();
+            case 'this_week':
+              const weekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
+              return postDate >= weekAgo;
+            case 'this_month':
+              const monthAgo = new Date(now.getTime() - 30 * 24 * 60 * 60 * 1000);
+              return postDate >= monthAgo;
+            case 'custom':
+              if (dateFrom && postDate < new Date(dateFrom)) return false;
+              if (dateTo && postDate > new Date(dateTo + 'T23:59:59')) return false;
+              return true;
+            default:
+              return true;
+          }
+        });
+      }
+
+      filteredPosts = sortPostsByDate(filteredPosts);
+      updateStats();
+      renderPosts(true);
+    }
+
+    // Expand post content function (CSS toggle 방식)
+    function expandPost(postId) {
+      const safeId = btoa(postId).replace(/[^a-zA-Z0-9]/g, '');
+      const messageDiv = document.getElementById(`message-${safeId}`);
+      const seeMoreDiv = document.querySelector(`.see-more[data-post-id="${CSS.escape(postId)}"]`);
+      
+      if (messageDiv && seeMoreDiv) {
+        // 짧은 내용 숨기고 전체 내용 보이기
+        const shortContent = messageDiv.querySelector('.post-content-short');
+        const fullContent = messageDiv.querySelector('.post-content-full');
+        
+        if (shortContent) shortContent.style.display = 'none';
+        if (fullContent) fullContent.style.display = 'block';
+        seeMoreDiv.style.display = 'none';
+        
+        messageDiv.classList.add('expanded');
+      }
+    }
+    let __lockScrollY = 0;
+
+    function lockBodyScroll() {
+      __lockScrollY = window.scrollY || document.documentElement.scrollTop || 0;
+      document.documentElement.classList.add('modal-open');
+      document.body.classList.add('modal-open');
+      document.body.style.position = 'fixed';
+      document.body.style.top = `-${__lockScrollY}px`;
+      document.body.style.width = '100%';
+    }
+
+    function unlockBodyScroll() {
+      document.documentElement.classList.remove('modal-open');
+      document.body.classList.remove('modal-open');
+      document.body.style.position = '';
+      document.body.style.top = '';
+      document.body.style.width = '';
+      window.scrollTo(0, __lockScrollY);
+    }
+    function showImageAt(i) {
+      if (!currentImages || currentImages.length === 0) return;
+      currentImageIndex = (i + currentImages.length) % currentImages.length;
+      document.getElementById('modal-image').src = currentImages[currentImageIndex];
+    }
+
+    function showNext() { showImageAt(currentImageIndex + 1); }
+    function showPrev() { showImageAt(currentImageIndex - 1); }
+
+    function openImageModal(images, index) {
+      currentImages = images;
+      currentImageIndex = index;
+      
+      showImageAt(currentImageIndex);   
+      document.getElementById('image-modal').classList.remove('hidden');
+      lockBodyScroll();
+      
+      // Update navigation buttons
+      document.getElementById('prev-image-btn').style.display = images.length > 1 ? 'block' : 'none';
+      document.getElementById('next-image-btn').style.display = images.length > 1 ? 'block' : 'none';
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+      // Initialize the app
+      initializeApp();
+      
+      // Enhanced mobile touch handling
+      let touchStartY = 0;
+      let touchEndY = 0;
+      
+      document.addEventListener('touchstart', function(e) {
+        touchStartY = e.changedTouches[0].screenY;
+      });
+      
+      document.addEventListener('touchend', function(e) {
+        touchEndY = e.changedTouches[0].screenY;
+      });
+      
+      // Search input enhancements for mobile
+      const searchInput = document.getElementById('keyword-input');
+      const searchClearBtn = document.getElementById('search-clear-btn');
+      const fullSearchBtn = document.getElementById('full-search-btn');
+      
+      if (searchInput && searchClearBtn) {
+        searchInput.addEventListener('input', function() {
+          if (this.value.length > 0) {
+            searchClearBtn.classList.add('visible');
+          } else {
+            searchClearBtn.classList.remove('visible');
+          }
+        });
+        
+        // Enter 키로도 전체 검색 가능
+        searchInput.addEventListener('keypress', function(e) {
+          if (e.key === 'Enter') {
+            performFullSearch();
+          }
+        });
+        
+        searchClearBtn.addEventListener('click', function() {
+          searchInput.value = '';
+          searchClearBtn.classList.remove('visible');
+          // 검색 모드였다면 일반 모드로 돌아가기
+          if (isSearchMode) {
+            isSearchMode = false;
+            filteredPosts = [...allPosts];
+            updateStats();
+            renderPosts(true);
+          }
+        });
+      }
+      
+      // 전체 검색 버튼
+      if (fullSearchBtn) {
+        fullSearchBtn.addEventListener('click', performFullSearch);
+      }
+      
+      // Date filter handling
+      const dateFilter = document.getElementById('date-filter');
+      const customDateRange = document.getElementById('custom-date-range');
+      
+      if (dateFilter && customDateRange) {
+        dateFilter.addEventListener('change', function() {
+          if (this.value === 'custom') {
+            customDateRange.classList.add('show');
+          } else {
+            customDateRange.classList.remove('show');
+          }
+          applyDateFilter();
+        });
+      }
+      
+      // Date range inputs
+      const dateFrom = document.getElementById('date-from');
+      const dateTo = document.getElementById('date-to');
+      if (dateFrom) dateFrom.addEventListener('change', applyDateFilter);
+      if (dateTo) dateTo.addEventListener('change', applyDateFilter);
+      
+      // Modal close handlers
+      document.getElementById('close-post-modal').addEventListener('click', () => {
+        document.getElementById('post-modal').classList.add('hidden');
+      });
+      
+      document.getElementById('close-image-modal').addEventListener('click', () => {
+        document.getElementById('image-modal').classList.add('hidden');
+        unlockBodyScroll();
+      });
+      
+      // Image navigation
+      document.getElementById('prev-image-btn').addEventListener('click', showPrev);
+      
+      document.getElementById('next-image-btn').addEventListener('click', showNext);
+      
+      // Zalo button functionality
+      const zaloBtn = document.getElementById('share-zalo-btn');
+      if (zaloBtn) {
+        zaloBtn.addEventListener('click', shareToZalo);
+      }
+      
+      // Selection mode button functionality
+      const cancelSelectionBtn = document.getElementById('cancel-selection');
+      const selectAllBtn = document.getElementById('select-all');
+      
+      if (cancelSelectionBtn) {
+        cancelSelectionBtn.addEventListener('click', exitSelectionMode);
+      }
+      
+      if (selectAllBtn) {
+        selectAllBtn.addEventListener('click', selectAllPosts);
+      }
+      
+      // Infinite scroll event
+      window.addEventListener('scroll', function() {
+        if (isSearchMode) return; // 검색 모드에서는 무한 스크롤 안함
+        
+        const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+        const windowHeight = window.innerHeight;
+        const documentHeight = document.documentElement.scrollHeight;
+        
+        // 스크롤이 85% 지점에 도달하면 더 로드
+        if (scrollTop + windowHeight >= documentHeight * 0.85) {
+          loadMorePosts();
+        }
+      });
+      
+      // Close modals when clicking outside
+      document.getElementById('post-modal').addEventListener('click', (e) => {
+        if (e.target === document.getElementById('post-modal')) {
+          document.getElementById('post-modal').classList.add('hidden');
+        }
+      });
+      
+      document.getElementById('image-modal').addEventListener('click', (e) => {
+        if (e.target === document.getElementById('image-modal')) {
+          document.getElementById('image-modal').classList.add('hidden');
+          unlockBodyScroll(); 
+        }
+      });
+    });
+    const modalImageWrap = document.querySelector('#image-modal .modal-image');
+    let touchStartX = 0, touchStartY = 0, swiped = false;
+
+    modalImageWrap.addEventListener('touchstart', (e) => {
+      const t = e.touches[0];
+      touchStartX = t.clientX;
+      touchStartY = t.clientY;
+      swiped = false;
+    }, { passive: true });
+
+    modalImageWrap.addEventListener('touchmove', (e) => {
+      if (swiped) return;
+      const t = e.touches[0];
+      const dx = t.clientX - touchStartX;
+      const dy = t.clientY - touchStartY;
+
+      // 가로 스와이프만 처리(세로 스크롤과 구분)
+      if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 30) {
+        e.preventDefault();            // 가로 제스처일 땐 기본 스크롤 막기
+        swiped = true;
+        if (dx < 0) showNext();        // 왼쪽으로 밀면 다음
+        else showPrev();               // 오른쪽으로 밀면 이전
+      }
+    }, { passive: false });
+
+    modalImageWrap.addEventListener('touchend', () => {
+      touchStartX = touchStartY = 0;
+      swiped = false;
+    });
+
+
+    // Zalo sharing function
+    function shareToZalo() {
+      // 선택 모드에서는 선택된 게시물만 공유
+      if (isSelectionMode) {
+        if (selectedPosts.size === 0) {
+          alert('Vui lòng chọn ít nhất một bài viết để chia sẻ qua Zalo');
+          return;
+        }
+        
+        const selectedPostsData = filteredPosts.filter(post => 
+          selectedPosts.has(post.post_url)
+        );
+        
+        shareSelectedPosts(selectedPostsData);
+      } else {
+        // 일반 모드에서는 모든 필터된 게시물 공유
+        if (filteredPosts.length === 0) {
+          alert('No posts to share');
+          return;
+        }
+        shareSelectedPosts(filteredPosts);
+      }
+    }
+    
+    // 선택된 게시물들을 Zalo로 공유하는 함수
+    function shareSelectedPosts(posts) {
+      // Create a summary of posts for sharing
+      let shareText = `📊 Vietnam Reports (${posts.length} posts)\n${'='.repeat(40)}\n\n`;
+      
+      posts.slice(0, 10).forEach((post, index) => {
+        shareText += `📝 Post ${index + 1}/${posts.length}\n`;
+        shareText += `👤 Author: ${post.author_name || post.author || 'Unknown'}\n`;
+        if (post.group_name || post.group) {
+          shareText += `🏢 Group: ${post.group_name || post.group}\n`;
+        }
+        if (post.timestamp || post.time || post.created_time) {
+          shareText += `⏰ Time: ${new Date(post.timestamp || post.time || post.created_time).toLocaleString('vi-VN')}\n`;
+        }
+        if (post.message) {
+          shareText += `💬 Content: ${post.message.substring(0, 200)}${post.message.length > 200 ? '...' : ''}\n`;
+        }
+        const postUrl = post.post_url || post.url || post.permalink_url;
+        if (postUrl) {
+          shareText += `🔗 Original: ${postUrl}\n`;
+        }
+        shareText += `${'-'.repeat(30)}\n\n`;
+      });
+      
+      if (posts.length > 10) {
+        shareText += `... và ${posts.length - 10} bài viết khác\n\n`;
+      }
+      
+      shareText += `📱 Generated by Vietnam Reports`;
+      
+      // Copy to clipboard and show instructions for Zalo
+      navigator.clipboard.writeText(shareText).then(() => {
+        alert(`💬 Chia sẻ Zalo\n\nĐã sao chép thông tin ${posts.length} bài viết vào clipboard!\n(Tối đa 10 bài viết chi tiết được hiển thị)\n\n📖 Hướng dẫn sử dụng:\n1. Mở ứng dụng Zalo\n2. Chọn cuộc trò chuyện hoặc nhóm\n3. Dán (Ctrl+V)\n\n💡 Mẹo: Nhấn và giữ bài viết để chọn nhiều bài`);
+      }).catch(() => {
+        // Fallback: show in alert
+        alert('Share text:\n\n' + shareText.substring(0, 1000) + (shareText.length > 1000 ? '...' : ''));
+      });
+    }
+  </script>
+</body>
+</html>
