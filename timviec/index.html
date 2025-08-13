@@ -685,14 +685,15 @@
     <!-- Header -->
     <header class="header">
       <div class="header-content">
-        <div>
+        <!-- Hidden by default, shown only in selection mode -->
+        <div class="header-info hidden" id="header-info">
           <h1>Tìm việc làm tại Hàn quốc</h1>
           <div class="header-stats">
             Total <span id="total-count">0</span> | 
             Filtered <span id="filtered-count">0</span>
           </div>
         </div>
-        <div class="header-buttons">
+        <div class="header-buttons hidden" id="header-buttons">
           <div class="date-filter-container">
             <select id="date-filter" class="form-input compact">
               <option value="all">Tất cả thời gian</option>
@@ -705,7 +706,7 @@
           <button id="share-zalo-btn" class="btn btn-zalo">💬 Chia sẻ / Zalo</button>
         </div>
         
-        <!-- Search Filters in Header -->
+        <!-- Search Filters - Always visible -->
         <div class="search-filters">
           <div class="search-input-container">
             <input id="keyword-input" class="form-input compact" type="text" placeholder="Tìm kiếm nội dung...">
@@ -716,7 +717,7 @@
 
         </div>
         
-        <div id="custom-date-range" class="custom-date-range">
+        <div id="custom-date-range" class="custom-date-range hidden">
           <input type="date" id="date-from" class="form-input compact">
           <input type="date" id="date-to" class="form-input compact">
         </div>
@@ -762,12 +763,13 @@
     </div>
   </div>
 
-  <!-- Load data before main script -->
-  <script src="data.js"></script>
+  <!-- Load initial data for fast loading -->
+  <script src="data-initial.js"></script>
   <script>
-    // Vietnam Reports - Mobile-optimized JavaScript
+    // Vietnam Reports - Mobile-optimized JavaScript with Fast Loading
     let allPosts = [];
     let filteredPosts = [];
+    let completeDataLoaded = false;
     let currentImageIndex = 0;
     let currentImages = [];
     
@@ -787,20 +789,20 @@
     let touchStartPos = null;
     let isScrolling = false;
 
-    // Load posts from JavaScript data file
-    function loadPosts() {
-      // Check if data is already loaded from data.js
-      if (window.vietnamPostsData && Array.isArray(window.vietnamPostsData)) {
-        return Promise.resolve(window.vietnamPostsData);
+    // Load initial posts for fast loading
+    function loadInitialPosts() {
+      // Check if initial data is loaded from data-initial.js
+      if (window.initialPostsData && Array.isArray(window.initialPostsData)) {
+        return Promise.resolve(window.initialPostsData);
       }
       
       // Fallback: show instructions to generate JS file
       document.getElementById('loading').innerHTML = `
         <div class="loading-container">
           <div style="text-align: center; padding: 2rem; max-width: 500px; margin: 0 auto;">
-            <h3 style="color: #f59e0b; margin-bottom: 1rem;">📄 Data File Required</h3>
+            <h3 style="color: #f59e0b; margin-bottom: 1rem;">📄 Data Files Required</h3>
             <p style="margin-bottom: 1rem; line-height: 1.6;">
-              To view the posts, you need to generate the JavaScript data file first.
+              To view the posts, you need to generate the JavaScript data files first.
             </p>
             <div style="background: #f3f4f6; padding: 1rem; border-radius: 0.5rem; margin-bottom: 1rem;">
               <p style="font-weight: 600; margin-bottom: 0.5rem;">Run this command:</p>
@@ -808,17 +810,40 @@
                 python3 json_to_js_converter.py
               </code>
               <p style="margin-top: 0.5rem; font-size: 0.9rem;">
-                This will create <strong>data.js</strong> from your <strong>processed_posts.json</strong>
+                This will create <strong>data-initial.js</strong> and <strong>data-complete.js</strong> files
               </p>
             </div>
             <p style="font-size: 0.875rem; color: #666;">
-              For Cloudflare hosting, upload both <strong>vietnam.html</strong> and <strong>data.js</strong> together.
+              Upload both data files along with the HTML file for hosting.
             </p>
           </div>
         </div>
       `;
       
       return Promise.resolve([]);
+    }
+
+    // Load complete data in background
+    function loadCompleteData() {
+      return new Promise((resolve) => {
+        const script = document.createElement('script');
+        script.src = 'data-complete.js';
+        script.onload = () => {
+          if (window.completePostsData && Array.isArray(window.completePostsData)) {
+            allPosts = window.completePostsData;
+            filteredPosts = [...allPosts];
+            completeDataLoaded = true;
+            console.log('Complete data loaded:', allPosts.length, 'posts');
+            updateStats();
+          }
+          resolve();
+        };
+        script.onerror = () => {
+          console.warn('Failed to load complete data');
+          resolve();
+        };
+        document.head.appendChild(script);
+      });
     }
 
     // Sort posts by date (newest first)
@@ -841,22 +866,34 @@
       });
     }
 
-    // Initialize the app
+    // Initialize the app with fast loading
     async function initializeApp() {
-      // Load posts data
-      allPosts = await loadPosts();
+      // Load initial posts data for fast display
+      const initialPosts = await loadInitialPosts();
       
-      // Sort posts by date (newest first)
-      allPosts = sortPostsByDate(allPosts);
+      // Sort initial posts by date (newest first)
+      allPosts = sortPostsByDate(initialPosts);
       filteredPosts = [...allPosts];
       
-      // Update UI
+      // Update UI with initial data
       updateStats();
       renderPosts(true); // 초기 로딩
       
-      // Hide loading screen
+      // Hide loading screen and show app immediately
       document.getElementById('loading').classList.add('hidden');
       document.getElementById('app').classList.remove('hidden');
+      
+      // Load complete data in background
+      loadCompleteData().then(() => {
+        // Re-sort and update after complete data loads
+        allPosts = sortPostsByDate(allPosts);
+        if (!isSearchMode) {
+          // Only update if not in search mode
+          filteredPosts = [...allPosts];
+          updateStats();
+          renderPosts(true);
+        }
+      });
     }
 
     // Update statistics
@@ -962,6 +999,11 @@
       isSelectionMode = true;
       document.body.classList.add('selection-mode');
       document.getElementById('selection-bar').classList.remove('hidden');
+      
+      // Show header elements in selection mode
+      document.getElementById('header-info').classList.remove('hidden');
+      document.getElementById('header-buttons').classList.remove('hidden');
+      
       // Ensure header is fully expanded in selection mode
       updateHeaderCompact();
       
@@ -978,6 +1020,12 @@
       isSelectionMode = false;
       document.body.classList.remove('selection-mode');
       document.getElementById('selection-bar').classList.add('hidden');
+      
+      // Hide header elements when exiting selection mode
+      document.getElementById('header-info').classList.add('hidden');
+      document.getElementById('header-buttons').classList.add('hidden');
+      document.getElementById('custom-date-range').classList.add('hidden');
+      
       // Recalculate header compact state after exiting selection mode
       updateHeaderCompact();
       
@@ -1258,8 +1306,14 @@
     }
 
     
-    // 전체 검색 (모든 allPosts에서 검색)
+    // 전체 검색 (완전한 데이터에서만 검색)
     function performFullSearch() {
+      // 완전한 데이터가 로드되지 않았다면 대기
+      if (!completeDataLoaded) {
+        alert('전체 데이터를 로딩 중입니다. 잠시 후 다시 시도해주세요.');
+        return;
+      }
+
       const keyword = document.getElementById('keyword-input').value.toLowerCase();
       const dateFilter = document.getElementById('date-filter').value;
       const dateFrom = document.getElementById('date-from').value;
@@ -1543,10 +1597,14 @@
       
       if (dateFilter && customDateRange) {
         dateFilter.addEventListener('change', function() {
-          if (this.value === 'custom') {
+          if (this.value === 'custom' && isSelectionMode) {
             customDateRange.classList.add('show');
+            customDateRange.classList.remove('hidden');
           } else {
             customDateRange.classList.remove('show');
+            if (!isSelectionMode) {
+              customDateRange.classList.add('hidden');
+            }
           }
           applyDateFilter();
         });
