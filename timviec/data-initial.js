@@ -1,5 +1,5 @@
 // Vietnam Posts Data - Initial Loading (50 posts)
-// Generated on 2025-08-14T02:05:17.795837
+// Generated on 2025-08-14T04:53:46.382088
 // Fast loading for immediate display
 
 window.initialPostsData = [
@@ -222,21 +222,6 @@ window.initialPostsData = [
     "message": "quán nướng ga 숙대입구역 tuyển 1b hol nữ\nyêu cầu: chăm chỉ, nhanh nhẹn, tiếng hàn phải thật giỏi\nlương: 11k, trừ thuế 12k\ngiờ làm: có thể đến thương lượng",
     "media_urls": [
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/518611560_122130607058835908_4693165816788821923_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ZDxB8q_ZT-EQ7kNvwHmPMVY&_nc_oc=AdlIqTU3Ow3DahOvkIa6aR6sLR6fT0-zuX6uAL2R9QoGb8a932jCH7N6HMnrbv23btU&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=eX5aJzZbb_N38WQhbgFCgg&oh=00_AfX7oe4qpnW2WniUobe8753Xq1BC4ezVPf-qocZ8kWAUuw&oe=68A2299A"
-    ],
-    "group_id": "431667646912464",
-    "group_name": "[Korea] Việc Tìm Người - Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/431667646912464/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "3873592122879915",
-    "author": "Người tham gia ẩn danh",
-    "author_url": null,
-    "post_url": "https://www.facebook.com/groups/431667646912464/permalink/24277259538593274/",
-    "time": "2025-08-13 13:03",
-    "message": "Tìm đội xử lý won 3+ 7+ cá nhân, đảm bảo lượng 365 ngày/năm\nMua tất cả thẻ Hàn Quốc + app với giá cao (hoặc chia sẻ lợi nhuận)\nHỗ trợ thu mua tận nơi, giao dịch nhanh gọn\nLiên hệ Tele @Jihun28",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530903406_3255730924575450_8420333711886296470_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=KLQMPru9tuAQ7kNvwF8y7E_&_nc_oc=AdmcEu6Yiz5oo1STkJWUm3_v63WUfRg_hbxEMSS-m-bAsO6DmBoqAf5G4KFaShabhH0&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=eX5aJzZbb_N38WQhbgFCgg&oh=00_AfUNnCe3Iyw6aVAioWm7TOIYuFphFPf62fBcRIP5q-W3Iw&oe=68A2167D"
     ],
     "group_id": "431667646912464",
     "group_name": "[Korea] Việc Tìm Người - Người Tìm Việc",
@@ -679,6 +664,19 @@ window.initialPostsData = [
     "group_id": "2768624169923475",
     "group_name": "NGƯỜI  TÌM VIỆC — VIỆC TÌM NGƯỜI TẠI HÀN QUỐC",
     "group_url": "https://www.facebook.com/groups/2768624169923475/",
+    "group_thumbnail": ""
+  },
+  {
+    "author_id": "61557959666044",
+    "author": "Hà Ngoc",
+    "author_url": "https://www.facebook.com/ha.ngoc.647978",
+    "post_url": "https://www.facebook.com/groups/1546935132093211/permalink/10058638727589433/",
+    "time": "2025-06-26 15:18",
+    "message": "em cần tìm người có quốc tịch Hàn, đi khảo sát lương thanh toán ngay khi xong công việc tại Hà Nội.",
+    "media_urls": [],
+    "group_id": "1546935132093211",
+    "group_name": "Việc Làm Cho Người Hàn Quốc ở Việt Nam",
+    "group_url": "https://www.facebook.com/groups/1546935132093211/",
     "group_thumbnail": ""
   }
 ];
