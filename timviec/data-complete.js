@@ -1,5 +1,5 @@
-// Vietnam Posts Data - Complete Dataset (805 posts)
-// Generated on 2025-08-14T04:53:46.382718
+// Vietnam Posts Data - Complete Dataset (783 posts)
+// Generated on 2025-08-14T04:57:21.271272
 // Complete data for full functionality
 
 window.completePostsData = [
@@ -1563,25 +1563,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100088129666944",
-    "author": "Thanh Hương",
-    "author_url": "https://www.facebook.com/thanh.huong.442651",
-    "post_url": "https://www.facebook.com/groups/168824510635616/permalink/1932770520907664/",
-    "time": "2025-08-11 13:47",
-    "message": "MIẾN DẸT SỢI NHỎ MỚI SANG \n\n 😋 Nó là loại miến ăn một lần sẽ nhớ mãi và tìm mua.\n Các thượng khách sành ăn đều bị nó chinh phục\n🍲 Miến dong mềm dai ngon ,mọi người thực sự lên thử ạ vì ăn là sẽ nghiện",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/531527389_740372242243758_8165126471269726569_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=xj3ko9riO4MQ7kNvwFXTpnp&_nc_oc=AdkyaLhJdpC7HSEC6ChjRfdmo_HUWKC334sbU1VFqFs-JwBGj2hpqJhZQc1BPZA30VQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=nW3yQ2nMk-EdJukEVBtFsg&oh=00_AfVQeKzujyCCLa3LNaSYrdqN6zdUbQLFbK6QmpmdMRAB3w&oe=68A21B15",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530177356_740372248910424_8103317774031728904_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=F2m052ovRh8Q7kNvwHUwMer&_nc_oc=AdlE48ENINcxaIzBzyV6CajX7lURoUJ9ok9aaJLqvlz4T6evKyCVYSPngDqHsn4xH3U&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=nW3yQ2nMk-EdJukEVBtFsg&oh=00_AfXR2XcCX3QxtcXgPg4f2nHaNTXdBCKVj2PDTp1QUfGqzw&oe=68A2197F",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530447847_740372245577091_4628585807449649651_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=IVmnV425gd0Q7kNvwG_2DUI&_nc_oc=Adm7CzFG3_zY6t-oWi-3v738F844L35kGEBbWPTvbDpXTe0NCuy1Z5iTQajm4l-PCng&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=nW3yQ2nMk-EdJukEVBtFsg&oh=00_AfX8spXJjhqCQFzLoabrc3EPxpKFJUDJQ2bHcclzm8-JCA&oe=68A21285",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/529946898_740372222243760_9020506967566787866_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=sObQk2V67P4Q7kNvwEhhGYO&_nc_oc=AdlE3HwlByiW-rpI3MK_w70xL60txlhu1SPTshybrpjbms32DJuAcjvnK9v3WLi1TtM&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=nW3yQ2nMk-EdJukEVBtFsg&oh=00_AfVcgiV469G2HdtPFHSjQZuc61zXedEriKJ-VF9pozGERA&oe=68A2287F",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/529407510_740372262243756_7840156457815798237_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=TT3x1ym2rGYQ7kNvwEsI9G3&_nc_oc=AdmCqT5kiMKxw3u1AS8v8CdH1xP7zJ4vNGOVngmGyPZku-dzV_oYyliAySIwC64InNM&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=nW3yQ2nMk-EdJukEVBtFsg&oh=00_AfWaf6qTx_tLxD-2xFov_Y8Ijdcn5TEbhlK9qroozFAr1g&oe=68A239C1"
-    ],
-    "group_id": "168824510635616",
-    "group_name": "CỘNG ĐỒNG NGƯỜI VIỆT NAM TẠI HÀN QUỐC",
-    "group_url": "https://www.facebook.com/groups/168824510635616/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "743996167962309",
     "author": "Người tham gia ẩn danh",
     "author_url": null,
@@ -1618,25 +1599,6 @@ window.completePostsData = [
     "group_id": "168824510635616",
     "group_name": "CỘNG ĐỒNG NGƯỜI VIỆT NAM TẠI HÀN QUỐC",
     "group_url": "https://www.facebook.com/groups/168824510635616/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100077979042593",
-    "author": "Trang Anh",
-    "author_url": "https://www.facebook.com/trang.anh.545662",
-    "post_url": "https://www.facebook.com/groups/1651425591544351/permalink/24615664874693764/",
-    "time": "2025-08-07 16:56",
-    "message": "Chả Mỡ Nướng \nđược làm từ 95% là thịt lợn nạc và 5% mỡ heo.\n\nĐặc biệt loại mỡ này xay nhỏ, sau đó trộn với thịt nạc xay, thêm một lượng gia vị thích hợp. Sau đó cho vào lò và nướng để tạo thành món chả mỡ nướng thơm ngon.\nNhững hạt mỡ của món ăn này rất nhỏ, giòn, đàn hồi, ăn vào rất ngon, phần thịt tạo nên mùi thơm và săn chắc, không bị khô.\n#13k/500gr",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/529381071_764888669453761_557062444957280292_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=kLszsvUeGR0Q7kNvwGZz0CK&_nc_oc=AdlS9N6UzXTpJARnWltttrRxNP6jXgBTV5ghWS4mBwj3FiQ8GnNyGVha8RtBiKgI0bk&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TiYA8kSqRxax6ENNKYZKvA&oh=00_AfWaXVj3ockhc0-NuSpRlUoRv64iv_dB_A9Tf5q3Cv41_w&oe=68A2107C",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/528800201_764889329453695_4206683768194323567_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=PveCXQynIwsQ7kNvwErsxul&_nc_oc=Adm8lmpw6i8VXiSb9fuY2WJKbhDeBBSJhjw4uHhfKsJcPrf1gibxlLDKXxizelh-6_M&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TiYA8kSqRxax6ENNKYZKvA&oh=00_AfVr4CCkvEE0UaCoHouVnzT5ZTxummEqwDhuvNca7dJqEw&oe=68A2153A",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/528460367_764888742787087_1338481312225413231_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Pgh1MeItiqcQ7kNvwHBB3dV&_nc_oc=AdkYR4ofypwqGzBkbRUQ8QlGfnsubqfZC9jx5_TtCh5LdLOl9hUs-nVLUcBY_2T2P2o&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TiYA8kSqRxax6ENNKYZKvA&oh=00_AfW1FNTKpUQjiaV2joODqZiU6eL84c8xmv6VqNXyWm2gXw&oe=68A205AE",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/529301496_764888662787095_5858131288658293244_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=THkaLmogIaAQ7kNvwFO5ken&_nc_oc=Adm5S4oX1Hr2GquRWXk9kLIuP18_f4q4ju3wl3I6uNcDkLTHNO7h0calrPqk4sXdNLI&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TiYA8kSqRxax6ENNKYZKvA&oh=00_AfUo3rQigi2FwxDY75E1LMR7tPTlrIDvkYRPXc6LE-MW6w&oe=68A223A4",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/528273763_764888732787088_4493498413351385745_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=6WuEbmWCSQAQ7kNvwErWcmc&_nc_oc=AdmhCzakv58g56PmfZLZ1hA70YOkgfo40I-viS5INOFTYhqpG8i9VLFkeJDAHbkapIM&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TiYA8kSqRxax6ENNKYZKvA&oh=00_AfVi35DSenUQUEPlxnAbgSRUN-9r3rhfRv5MAQvpmyEEiQ&oe=68A23A71"
-    ],
-    "group_id": "1651425591544351",
-    "group_name": "[Korea - Hàn Quốc] Tổng hợp Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/1651425591544351/",
     "group_thumbnail": ""
   },
   {
@@ -1685,42 +1647,6 @@ window.completePostsData = [
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/518413700_747373181205310_6491935531115139477_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=o6UcgTbcDrwQ7kNvwHOC0fo&_nc_oc=AdlNOn91qKHo5QWXILqJ4Pw53c_R2RyrFpvS6PXkCqIUNrwysT8XhL8YVLTYa3c_GDM&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=SU87uUX4CE3D1pORpEebaQ&oh=00_AfX8A-b5bH15EGJZTxQTkIiM3THARsgjuSVgpfjzAQJ5TQ&oe=68A2234B",
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/518688351_747373264538635_265778164518860706_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=R0CkSxnc3m8Q7kNvwGX7sUf&_nc_oc=Admlgo_ttlVbycNRdaFXC0MlD0x6PI5JTtG7PQSCIohejwAO6cjSUmwG2-0vW5Sa3jM&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=SU87uUX4CE3D1pORpEebaQ&oh=00_AfVcoWorDAFcu9zdvYpSvUUS-pL9JO0asTk2onen-aMhXA&oe=68A21C57",
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/520313434_747373284538633_510393673230174368_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=rFVaEN0nB0cQ7kNvwG4U_Oq&_nc_oc=AdnkFaLZ9dNeohPOrZ0eGFMbTm2THEKOPnG-AXlXZ2urf9H0FRSqxlPMI6NNtSN6ewg&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=SU87uUX4CE3D1pORpEebaQ&oh=00_AfVldJaUjGahG5J_3T3mjkx-pD2BhHj8p6ZZBphpFtCDzg&oe=68A22A37"
-    ],
-    "group_id": "1651425591544351",
-    "group_name": "[Korea - Hàn Quốc] Tổng hợp Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/1651425591544351/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100077979042593",
-    "author": "Trang Anh",
-    "author_url": "https://www.facebook.com/trang.anh.545662",
-    "post_url": "https://www.facebook.com/groups/1651425591544351/permalink/24648108094782775/",
-    "time": "2025-08-11 09:11",
-    "message": "Giò heo xách tay nhà e chiều lòng những vị khách khó tính nhất. \nMn ăn giò nhà e rồi thì ko phải đi tìm chỗ khác nữa đâu nha. \nVì giò nhà e ngon nghiệ n rồi😋😋😋",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530818162_767965722479389_3020008993617269323_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Gu3hnLEdYcYQ7kNvwEZy2w4&_nc_oc=Adm38b5LfBjryLeiDvYhGzZIa6wGXXV9e7LzRhSGt5XeOENgSydMxMf69c3vB79IElQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=SU87uUX4CE3D1pORpEebaQ&oh=00_AfWMU1PLtzyu4ieAColi_sZXYcL-cxKxx8EZsNZRmklg3A&oe=68A227CC",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/531541051_767963399146288_2908309921416326840_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=hIfsN8rWpJQQ7kNvwFpj1FQ&_nc_oc=Adm7AFrUxzVJHTxVyc9WbRFjj-RiD5CmtBZ_ZBOczg4U5NKjim-FW0SbsNi2YXpznog&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=SU87uUX4CE3D1pORpEebaQ&oh=00_AfVg9yAFifd7mZEsfzshwbONhFoqo6uku9j_b3gP8_3Etw&oe=68A20993",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/529969305_767963669146261_4806259735371519453_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=EJJ6vn80RIYQ7kNvwFZToi9&_nc_oc=AdkcYQe8eMr_lom-tBV8OOzF7WTLoA39IgLjqlzCYFnH6eICvaM0mIcS0SUnP49MD5I&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=SU87uUX4CE3D1pORpEebaQ&oh=00_AfUQW0gGJHZFSesRrwpVzXn5NvEkmdcmQmRinCmh5-MYsw&oe=68A22059"
-    ],
-    "group_id": "1651425591544351",
-    "group_name": "[Korea - Hàn Quốc] Tổng hợp Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/1651425591544351/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100077979042593",
-    "author": "Trang Anh",
-    "author_url": "https://www.facebook.com/trang.anh.545662",
-    "post_url": "https://www.facebook.com/groups/1651425591544351/permalink/24429127163347537/",
-    "time": "2025-07-15 07:16",
-    "message": "Ngủ dậy làm bát chè bột lọc bọc dừa thêm chút dừa tươi nạo sợi ta nói nó ngon ko kém ngoài hàng ạ,dễ nấu,dai dai bùi bùi…,e sẵn ạ\nBột lọc bọc dừa #9k/500g\nDừa tươi nạo sợi #11k/500g\nTriển thôi cả nhà ơi",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/518344827_745783941364234_1556749734598844963_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=V64nBVdJG_UQ7kNvwGxZX9Q&_nc_oc=AdnXvte7FFhzvclf8YzQRWX6tYLjrzNeirJdsFEASPO4UlAfKAWoS8K5TmwohluYNPg&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=hZtqA9Ox3rfDZZLR1Tzd_Q&oh=00_AfVGi49B7xGOMu164OFYGXn8GDrFJcA6I2BNwMqHmGK5gQ&oe=68A20E41",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/518813465_745784458030849_811848286649032122_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=EwpPEXc_e0oQ7kNvwHqFmk7&_nc_oc=Adkmk7UGzldp5iY1iK7zexbfNTrkEeYUgZY1Q3jjyCMHzfkmTEK459u60XbrUj9moEI&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=hZtqA9Ox3rfDZZLR1Tzd_Q&oh=00_AfWvspAmEUuLDTuWaQWKi4aYd2Tqu9eEYnh1d09v8KVIPQ&oe=68A235F5",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/517436103_745784054697556_7938444696683205265_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=sPJMpheuVuIQ7kNvwEYl7os&_nc_oc=AdnYGkLu5f8wtt2rMYFKYLrwc6d7DtUcUaCcBio0qvjM0WK_eCgH2BTYKIuCnz8wmyg&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=hZtqA9Ox3rfDZZLR1Tzd_Q&oh=00_AfUi59p7s-QcJ5KlAL5PWblblwVlaCsQJuB86N-HqoqOmA&oe=68A207F9",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/518413304_745784461364182_7646347231949920387_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=4Gf-RDdS-CYQ7kNvwFd-6Jy&_nc_oc=AdlRSBrbBMQrNp5ZjMP86lzV6vSkQ4-A7MDb_fhECuK05Q76-nhpPrgsJv7lXH8Cq8I&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=hZtqA9Ox3rfDZZLR1Tzd_Q&oh=00_AfXa4sq1ASYpZvTDg1eCPvM0of_w6Dg8gMH3lCbANdgQog&oe=68A2393D",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/519412443_745784004697561_1754965230110706549_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=WETYPXFYGVcQ7kNvwF-k1i9&_nc_oc=Adn-g1p51C9qcb0UpGgSqlJ96isxIUzdCnAMe3GQzBvJaENVGq6-CoMt4HV5yO4Ks44&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=hZtqA9Ox3rfDZZLR1Tzd_Q&oh=00_AfVTQyqwJlRNKs-IMjkgc96PRGNhdnq4XOwQREyTVYZWTA&oe=68A238F9"
     ],
     "group_id": "1651425591544351",
     "group_name": "[Korea - Hàn Quốc] Tổng hợp Người Tìm Việc",
@@ -1918,44 +1844,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100014080815018",
-    "author": "Chúc Nguyễn",
-    "author_url": "https://www.facebook.com/nguyen.chuc.5205622",
-    "post_url": "https://www.facebook.com/groups/922389181564047/permalink/2160815881054698/",
-    "time": "2025-08-05 14:31",
-    "message": "Mít ngon lắm ạ 15k 1 quả ( bao  ngon )\nĐúng 15k quả ý hình \n\nNhận míti ngon mới thanh toán @nêu bật",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/527724995_2118791791933494_8930451877773706996_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=jRDmyYmTmEQQ7kNvwFMpU_p&_nc_oc=Adn_0nDYCOJwHClTh9sGbhwqxnCU2A3-12orJ8EU2Lr9pfyXgAhqHTwBpqEH6_Ftv-c&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TKFO4sjLsG3j7rEekimo9A&oh=00_AfVNR3cdsyleAKY5oExqODCjSCPkiY0AP1kItgZaFw5K8w&oe=68A2182F",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/527978703_2118791948600145_5335150840276346547_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=SdZgOpx8D-0Q7kNvwFTkO2E&_nc_oc=Admo9BpFzAXDSgXEbxOYX02Kth-PcBwQCalPRTMBadggI9ZvvCMYtGbSGbjFdylGZ_0&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TKFO4sjLsG3j7rEekimo9A&oh=00_AfXnrdiqrHeROfTIogUVOQ2J32JsGbHAyq-0JG7iOq3GQA&oe=68A2332B",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/528842848_2118792101933463_446311258023935632_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_IDizxPyfikQ7kNvwF521Y3&_nc_oc=Adly95kY9j3VOYCsQ-iJotZYVIOwqHfUGXlTr04sL1zQWzbm9ceNknZ250uq7NP_Jq8&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TKFO4sjLsG3j7rEekimo9A&oh=00_AfUfAGkhAgggd4TVgCS-ARFoSiSo7lLO5sg3k31p3xo3IA&oe=68A2224F",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/527938728_2118792038600136_3725073876457723530_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=a-o9cAt9ebUQ7kNvwEvaK20&_nc_oc=AdnuP7P7I06SFF80UApmPuWbznA0NtwNAylgyZu2Gxq1dZP-EX-IJyaVFAm1qJzTPGo&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TKFO4sjLsG3j7rEekimo9A&oh=00_AfV-0Lw-AXkKYl38k17DlNsCdcgTdjb_xBseTd4oS1JO3g&oe=68A22497",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/515439852_2118791855266821_3243109637691135261_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=BYZmyXjQbLgQ7kNvwHQEItY&_nc_oc=AdmOvMU3U8cGQI6H_O-BaQlKAD2bWUU7-B5T4yfbgnkUvQEWEMdvFmu_dw2EKsJYZHg&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TKFO4sjLsG3j7rEekimo9A&oh=00_AfUclkjxXTONU5hFquGpR-nhE0wWja8cpl-jE1W4QhFQwQ&oe=68A2068D"
-    ],
-    "group_id": "922389181564047",
-    "group_name": "HỘI HỖ TRỢ TÌM VIỆC LÀM CHO NGƯỜI VIỆT TẠI HÀN QUỐC",
-    "group_url": "https://www.facebook.com/groups/922389181564047/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100014080815018",
-    "author": "Chúc Nguyễn",
-    "author_url": "https://www.facebook.com/nguyen.chuc.5205622",
-    "post_url": "https://www.facebook.com/groups/922389181564047/permalink/2157136818089271/",
-    "time": "2025-08-01 14:38",
-    "message": "Mít ngon lắm ạ 15k 1 quả ( bao  ngon )\nĐúng 15k quả ý hình \n\nNhận míti ngon mới thanh toán @",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/515436368_2115420968937243_1892747757493011721_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=oJErOE7-7qcQ7kNvwGGTSXn&_nc_oc=Adkw4wqMUNUiXNKdz7_HhSPwFsMrTDcS_fa7tqGaP60BsDpQoP17fcnA-_mTdGbqVMA&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TKFO4sjLsG3j7rEekimo9A&oh=00_AfUNlrln0gT5hXn3nPZpP7d3C6r3cSl4-l2HENlwsFP9bg&oe=68A22A2B",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/526988690_2115420908937249_622211975257493253_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=0WmN7jiOcXAQ7kNvwGPtZax&_nc_oc=Adl-S_la3iRG5aIBAu1aDojMo6F84lh_EFPCjo64M5Y7zRWN7oqiULb0O1I3zJ4XHws&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TKFO4sjLsG3j7rEekimo9A&oh=00_AfXvhePBMpcc2gEmyDBGt6bg3xAqu7j9bT8lIizdGUmvPw&oe=68A225DC",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/525572861_2115421225603884_8695616065102210688_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=fYkB4gI4HK0Q7kNvwGMGrrd&_nc_oc=AdnzBXahkstK7LD3FPGvG_gIMVQS36gj6WiKi833JMJO7F6yyCDLUt930F0Gq9YiULE&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TKFO4sjLsG3j7rEekimo9A&oh=00_AfXOORVQAn3KsI_eM3iYnxItPATmW_l87CNEPV-XjbrF4g&oe=68A217DC",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/526540426_2115421142270559_9024361083877490028_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=cc5MDN9V5jsQ7kNvwESJvMx&_nc_oc=AdmPV5er8ficzL61hlSN9sfem5mV8Bdu4LZ1AC_lkMbdqHDj_pjzKMoB8zxNmKhTE3c&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TKFO4sjLsG3j7rEekimo9A&oh=00_AfWrZhECg0lh0TPvckwgOTERNf7LMqQi49lMgsbnlxUggA&oe=68A23616",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/525659787_2115421015603905_5219385427687088487_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=-lFbYkFw7JMQ7kNvwHxNUrC&_nc_oc=Adm_0pRgfRrjwZkZggChe8o-zURKwvFlDUmJoJ3kFrYigJngtoRoipXqpXpvbaJm3lE&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TKFO4sjLsG3j7rEekimo9A&oh=00_AfWmgTqbCJtC2e4yUJiNqvf8eYYTbuZiHaSz1Jryv8-KMg&oe=68A21521"
-    ],
-    "group_id": "922389181564047",
-    "group_name": "HỘI HỖ TRỢ TÌM VIỆC LÀM CHO NGƯỜI VIỆT TẠI HÀN QUỐC",
-    "group_url": "https://www.facebook.com/groups/922389181564047/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100091362355246",
     "author": "Ji Won",
     "author_url": "https://www.facebook.com/ji.won.665031",
@@ -1981,25 +1869,6 @@ window.completePostsData = [
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/504118342_735473748921567_6966631086827553577_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=tZ4vL2gQaloQ7kNvwGI9V-5&_nc_oc=Adnkxt3Lrx7e0Nx-OP-TtFm22JyYmFfymtxpCvJ41E7ar9BIkbeB7Q1tCqfHw0HTjJc&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=-piex-IDIV5B7prv0VMSOg&oh=00_AfW8_QzGy0apaWbYWXfYtO3Q3VUeJVvpRj6f7rx3YRp-hQ&oe=68A2071C",
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/505776416_735474475588161_6752945752387748609_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Zo04EMdM1VUQ7kNvwGAO6de&_nc_oc=Adk0QzqJ8sodGDgSoZr4w_-j-jCNOefgqC3hamdUv8jTRKvhXZkqPUB0RKLaszw0YjE&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=-piex-IDIV5B7prv0VMSOg&oh=00_AfVAVQWgqzshmBM0eW1wsk6uWqWLbE21ktdmXOK3XoiFyw&oe=68A2177A",
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/505705104_735473955588213_9172292182975489393_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=a2dc5R7poBIQ7kNvwGGhb5_&_nc_oc=AdnPyv7aRuYMeaSeVxVNE1eqZVKxKvwyAaXKThXd9LV-fkau0MKNio1XjMvSf8IFbJ4&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=-piex-IDIV5B7prv0VMSOg&oh=00_AfUdlcvmgk_RFrLA0iiLcLJJ3eb2uk-_7vTrvJEPlZzZQQ&oe=68A22641"
-    ],
-    "group_id": "763732575648889",
-    "group_name": "Tìm Việc & Tìm Nhà ở Hàn Quốc (Korea) 🟣",
-    "group_url": "https://www.facebook.com/groups/763732575648889/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100063706275750",
-    "author": "Lưu Thị Hạnh",
-    "author_url": "https://www.facebook.com/myhanh.luu.3150",
-    "post_url": "https://www.facebook.com/groups/763732575648889/permalink/1075513254470818/",
-    "time": "2025-06-09 17:44",
-    "message": "Dưa nụ \nChua ngon giòn \n1ky 15k ạ",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/505810519_1307938504673013_977983278490741419_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=BDtb-hwUUQ8Q7kNvwFjUxtv&_nc_oc=AdkPZBuPZA72zuzMPgWFDui1oTmvJegGNPlAeVgjOZg_hDq7YdFd3cfkjkUfPBWSNtU&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=DQ7S3xVqLnv0YPs43gB28w&oh=00_AfWMHViWWHw-qLVdpS-mxUqBVs1WiTKav2EvVtcNhnLz-w&oe=68A21F41",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/505726025_1307938728006324_2078418621007193782_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=DcxizHk32_UQ7kNvwHU0b5S&_nc_oc=AdlUyTMg9Q3dUpuI_zrqWRLD4jOxaB8Pyxo1XOerwSb61yN-MnMBOKQuVxNNgA1u-hI&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=DQ7S3xVqLnv0YPs43gB28w&oh=00_AfWhgYhn0SytrE8hHAznHUEZ12EsFTdcE2RvKnCA-2NT3A&oe=68A223BB",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/505382364_1307938604673003_3094623974904842366_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=udK-yFnfVkkQ7kNvwG9pwcW&_nc_oc=AdkJ8Ur8QRdD3WuxiFXk1YdpzglMg4XQ8gaRYl_LlCxoYhIeDyHdpEa4cj9hmRzdOf8&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=DQ7S3xVqLnv0YPs43gB28w&oh=00_AfU3Xe2_DQEJppcLYvJjMJRpy87liag137GT2hjYMeI7Ag&oe=68A21B84",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/505608493_1307938541339676_2782313156754981998_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=GtYCldi7IfAQ7kNvwETWX1h&_nc_oc=Adl1tli_KAS20xZcGEsh1mwZ9CGs3iNq25LHMBMSSEVA05Vy1hprGo7zx88LHc9JhnE&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=DQ7S3xVqLnv0YPs43gB28w&oh=00_AfX6DFGOoR2CPaY_nolbspAvLNfnroZlWzjxR6ZWgHzguw&oe=68A2189B",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/505592445_1307938671339663_4893342659225286828_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=dppMm-C7xRsQ7kNvwE2Ed7L&_nc_oc=AdkDCAzHzOh7OCMyUQoiLD5FuT1bPejRIsoZhBT2MClWHC3YrOdVunXJa8K1a4jxuw4&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=DQ7S3xVqLnv0YPs43gB28w&oh=00_AfVDeRj1bbgTKWbhLewM45BX8f6RXIRlQeMWQ43m7bV45A&oe=68A20FF4"
     ],
     "group_id": "763732575648889",
     "group_name": "Tìm Việc & Tìm Nhà ở Hàn Quốc (Korea) 🟣",
@@ -2377,24 +2246,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "61556617767642",
-    "author": "Anh Lan",
-    "author_url": "https://www.facebook.com/anh.lan.494041",
-    "post_url": "https://www.facebook.com/groups/nguoitimvieckorea/permalink/2499366520412691/",
-    "time": "2025-06-04 16:53",
-    "message": "🌺 Măng sặt ngâm ớt , thơm - ngon - giòn tan ạ. Để cả năm ăn dần thoải mái nha. \n\n😍 Cuối vụ măng sặt rồi. Làm 1 lọ để cả năm ăn vẫn ngon. Ăn măng ớt kèm cơm, mỳ tôm, phở, bún, thịt luộc... thì hết ý. Độ sạch sẽ, an toàn thì yên tâm ạ. Không ngon em trả lại xiền luôn.\n#14k/hũ hơn 1kg",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/504142382_122252379572220592_8096165813953591784_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=5VHF2P12pMQQ7kNvwHgyJib&_nc_oc=AdmEK1y4CJEdt6xO_II29_IO27MjgOhMUN5g-3ZM0qI1vXv1B-O6Zpq6-d4gWH__ACw&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=hY_kF8Azj67kWQkp4O69Nw&oh=00_AfWyXF635d50KfTEJ7zLszxkwZop75QJ3B53dvw3lvkobQ&oe=68A22357",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/504134342_122252379518220592_6401986506203101485_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=l0IXDMQUCfAQ7kNvwFDLTb3&_nc_oc=AdkrUadrBLl5pjsq7kMYpolJ7AYKbOZ0kZTENnHCPpFydeTENJmI7fJx3Go7xfnF62E&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=hY_kF8Azj67kWQkp4O69Nw&oh=00_AfVkP_abx54z7hx9Hn0p7CJp1MlIt7ipx4rFIVcjxkh31w&oe=68A2373E",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/504076932_122252379470220592_752781888121913638_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=znt0F5XBwYoQ7kNvwH-DcEI&_nc_oc=AdmgsjvN4O9JOK3JuVU4dDjPiMb4c5m1F6iv6qlQ366qQM5AEpO31PpuIWL1BPonWTA&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=hY_kF8Azj67kWQkp4O69Nw&oh=00_AfW3ThC3_PKKVcsNHwKZMbFyKHI4suknHsE6wJiX5reSmg&oe=68A20735",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/503951558_122252379416220592_8652963667389311432_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=xrx5XIZTN1IQ7kNvwGK5LBz&_nc_oc=Adm9onc12HrIfZfDqv985ojsgg0WSefoGoZRJfXRig0qjQZA7TvBTouWLQMr7wyO8bE&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=hY_kF8Azj67kWQkp4O69Nw&oh=00_AfWdxhJGPi5lcMp5gRVjDZQg-cuc5QaT5iR3UdxaF1TzkQ&oe=68A22D51"
-    ],
-    "group_id": "1577616979254321",
-    "group_name": "[korea] Người Tìm Việc - Việc Tìm Người",
-    "group_url": "https://www.facebook.com/groups/nguoitimvieckorea/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100083377359441",
     "author": "Nguyễn Văn Tùng",
     "author_url": "https://www.facebook.com/profile.php?id=100083377359441",
@@ -2557,21 +2408,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100009840046260",
-    "author": "Đào Thuý Ngân",
-    "author_url": "https://www.facebook.com/toi.bong.106",
-    "post_url": "https://www.facebook.com/groups/1521215928120217/permalink/4112075822367535/",
-    "time": "2025-08-13 12:49",
-    "message": "❎❎ SƯỜN CỐT LẾT ngon lắm luôn ạ. 😋\n\n  1kg siêu nhiều \n\n          🆗Sườn vừa mềm vừa tươi rói luôn ạ thịt mềm làm được các món như rim mặn ngọt ,làm cơm sườn...ngon lắm ạ",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/533089214_2574542569550386_7527992538527095655_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=6-82yDrfmXMQ7kNvwHFDD-e&_nc_oc=AdlDmRcGDTRMhxV-nndAZLkRt7G3uWvPkH4h9ssQlrvZcc6FS2hMu3T72uLFkb8RQFg&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=gA4vh2r_NQjUP-BIebLDmA&oh=00_AfVBhzSOau4dZXUfgXEOjefdSZ0Ie7lxwR0FyeRE30KMbw&oe=68A226AA"
-    ],
-    "group_id": "1521215928120217",
-    "group_name": "CỘNG ĐỒNG NGƯỜI VIỆT TẠI HÀN QUỐC",
-    "group_url": "https://www.facebook.com/groups/1521215928120217/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100093299120961",
     "author": "Linh Thảo",
     "author_url": "https://www.facebook.com/linh.thao.669373",
@@ -2724,25 +2560,6 @@ window.completePostsData = [
     "author_id": "61561222085032",
     "author": "Hồng Nhung",
     "author_url": "https://www.facebook.com/hong.nhung.747233",
-    "post_url": "https://www.facebook.com/groups/256439271897741/permalink/1864043374470648/",
-    "time": "2025-08-12 14:52",
-    "message": "Rau ngon quá... mà không ai mua...huhu..😭😭😭.làm nông phải lam sao day cac c...\nRau nhà e cắt lua 1..bao non cho cac c ...\nĐây là phương pháp trồng rau sạch \nNên em bán 1kg  cũng gửi \nMấy c thương em thì mua ung hộ e moi người 3kg voi ạ 😭😭😭",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/531909447_122242884104374069_4271425704484932121_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=QXP7FALkOzEQ7kNvwHms1Hy&_nc_oc=AdmRzrmmF3iJ9UpE1Q10-dBZ0jpp244myFIpS29s74ccqr_sm4TjoP76zQvDPOAlkNA&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=t8_rJpOzJK_JBxy5-cS-oA&oh=00_AfUZRrmGGg8SVSF_4A-h8CELiRazxrD8KzQYj3Z45Gc5KA&oe=68A23AD1",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/531819396_122242884008374069_4258976072836116645_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=XXICeWlw3_MQ7kNvwGePAQz&_nc_oc=AdlJymvA8ALnIoGzVgm2HTdK0DJOJ6E0w8VXUPmAsGXDWD-QBvA82bU8wraLAj5hF9s&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=t8_rJpOzJK_JBxy5-cS-oA&oh=00_AfV72m8FN2U10Fm4LQ7HxZKepyWNRjg369Aq2R49p8Khug&oe=68A23270",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/532054869_122242883702374069_3460509263046144374_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=7gCBvcCkk5IQ7kNvwGx97Rk&_nc_oc=AdkcubYuLZn-StZO7ZeBgTqOB0QFUHzQH5KEjJOQNlO3hbfrzOvTbwURjkSwhIvoTuc&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=t8_rJpOzJK_JBxy5-cS-oA&oh=00_AfVbuvr4bvbb3rzPNaZr_2FRKtrrkxouYnHKWlYa_5mnnQ&oe=68A2375F",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530903726_122242884446374069_5913134008988375156_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=8F7HN5scxIgQ7kNvwFy8iKU&_nc_oc=AdnCrkmh92hpUbzlBzRfVCn0cy3TjCgcKJFfnBWjIGMspXWuQVja3r8igJxaSL4KUT4&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=t8_rJpOzJK_JBxy5-cS-oA&oh=00_AfU3GhXT06D3d7GejNkoXSGouOJptoh9oQrrtw9GjAs0rw&oe=68A21BD8",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530859518_122242883798374069_1180654840250451468_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=dHWoS7JUzRoQ7kNvwFaM0Uo&_nc_oc=AdnZI4htwO7aVGoM6_ohEA2IfOteBs0fWhL1aMz9uOdAKi6VEgIfE8fyY2DOOmLXxMc&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=t8_rJpOzJK_JBxy5-cS-oA&oh=00_AfW2zT_YLBj1anHcm5JUfofNUp0Jro1vGFvzxBXDprZvkw&oe=68A22D0B"
-    ],
-    "group_id": "256439271897741",
-    "group_name": "[Korea] Việc Tìm Người, Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/256439271897741/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "61561222085032",
-    "author": "Hồng Nhung",
-    "author_url": "https://www.facebook.com/hong.nhung.747233",
     "post_url": "https://www.facebook.com/groups/256439271897741/permalink/1835847120623607/",
     "time": "2025-07-07 18:56",
     "message": "5k thi rẻ quá...7k thi không ai mua...huhu..😭😭😭.làm nông phải lam sao day cac c...\nRau muống nhà e cắt lua 1..bao non cho cac c ...\nĐây là phương pháp trồng rau sạch \nNên em bán 1kg  cũng gửi \nMấy c thương em thì mua ung hộ e moi người 3kg voi ạ 😭😭😭",
@@ -2771,23 +2588,6 @@ window.completePostsData = [
     "group_id": "1960081164253583",
     "group_name": "Cộng đồng người Việt tại Hàn Quốc",
     "group_url": "https://www.facebook.com/groups/NguoiVietTaiHanQuoc/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100089597886138",
-    "author": "Thúy Nhiễu",
-    "author_url": "https://www.facebook.com/thuynhieu20255",
-    "post_url": "https://www.facebook.com/groups/1030905747250687/permalink/2592730341068212/",
-    "time": "2025-08-09 22:40",
-    "message": "🥰  Tai heo tươi 10 cái  15k thôi ạ \n\n🥰 Xào nấu , nộm làm món nào cũng ngon , ăn sật đã cái miệng luôn ạ. Giá lại rẻ . Ib ạ",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/529341133_811138865216036_4132932866403209401_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=oaoHzA1VmewQ7kNvwEtZdUf&_nc_oc=AdmorsUmHRU-NbpuVjiLUX712VTqzePwYvfbuZ6W3bua4q_K3_DQ2Jdhi4SFLkv0RhM&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=7ZEk5HpK4euSFrmC4FnYsg&oh=00_AfXVbrek-IuqNdap6Cz8Ogc7oXtuAd7cpg8vxeEQXJig-g&oe=68A20B79",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/527986149_811138825216040_8313631952687883402_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=GiR9R63jXpAQ7kNvwFOhv7_&_nc_oc=AdndoDxWU2D8UowBAZmPqqfOmAAPMFgVOlcfrGAXBsID20b1-1VCV601G_2WTAgATOo&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=7ZEk5HpK4euSFrmC4FnYsg&oh=00_AfW5pwTRcsFRFtjT27c2QIxbjcSEMCTds8VqY5zzvDV0jA&oe=68A22D52",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530197634_811138895216033_488293891466245199_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=aWXrLGm39pUQ7kNvwGSmFkZ&_nc_oc=AdkpfPnmqPIiD_AlpZRM8A5bzl4iO_Z4ap3Y8e2bEF-n-7URLnpmLwnTujg5QGoLXYo&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=7ZEk5HpK4euSFrmC4FnYsg&oh=00_AfUaOkdzoYbTpusC5Pk0hq4lDqC9j1uviB6lJm25Htb-nA&oe=68A21BEF"
-    ],
-    "group_id": "1030905747250687",
-    "group_name": "[Korea] Việc Tìm Người - Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/1030905747250687/",
     "group_thumbnail": ""
   },
   {
@@ -3771,23 +3571,6 @@ window.completePostsData = [
     "group_id": "867376994021321",
     "group_name": "Hội tìm việc làm ở 대전",
     "group_url": "https://www.facebook.com/groups/867376994021321/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "61556293855969",
-    "author": "Mei Cẩm Tú",
-    "author_url": "https://www.facebook.com/mei.cam.tu.2025",
-    "post_url": "https://www.facebook.com/groups/382610440491942/permalink/1116637767089202/",
-    "time": "2025-08-13 07:32",
-    "message": "BẮP BÒ.. MÔNG BÒ... NẠM Bò ngon lắm lun 😋😋 (có sẵn)\n- Giòn mềm\n- Ngọt đậm\n- Thơm ngon\n👉 Thích hợp chế biến luộc, nhúng lẩu, hầm, kho, mì, phở, xào, nhúng dấm...siêu hấp dẫn\n🐮🐮🐮 Ăn 1 lần - nhớ nhiều lần luôn ạ \n  👉 Chế nào ăn ib e nha 😋😋",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/531527382_122269372556209795_3349855678489540260_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Oe4lPmdiXGsQ7kNvwEgj0qS&_nc_oc=AdnerGCLEAihdPGLtuM6oY8oxwTN23_UouPUNZvUK7mriZmcHFwHF24TS9ZNfi1DdHU&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=9ByINQJwjbnLXCeaBaZl6A&oh=00_AfXlC1OfULKkQ7-W9Kqo9-0ZPLX8LNm-YQ-HIGM1RiopUw&oe=68A209A4",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530911863_122269372658209795_6230017529462671214_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=IHM98zufb20Q7kNvwEIDI8Y&_nc_oc=AdkYIAeC35kZy7XT5tLw3E74my67aMZzSk0TgAVG2I0rjLUyu7CR4Jcx9xAqG2zoXIw&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=9ByINQJwjbnLXCeaBaZl6A&oh=00_AfUpNm-dhmn87AS9fFE_0GxSSDVsP8fyzhkBOo_mPQwkIw&oe=68A21776",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530696116_122269372604209795_7393009422984011780_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=k70uV6iIWX4Q7kNvwE87dK_&_nc_oc=AdlAcjQa04tK7pkTnEuO81Bitc_kkDACINN8tUqzZfVGFcB1L9RYdJJjU38Zoe7okEs&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=9ByINQJwjbnLXCeaBaZl6A&oh=00_AfUltPux5RhoxXCJ9XMKfX1qiP-kVy6r0S258iEgdRCkcw&oe=68A224AB"
-    ],
-    "group_id": "382610440491942",
-    "group_name": "HỘI TÌM  VIỆC LÀM NÔNG DÀNH CHO BỐ MẸ THĂM THÂN TẠI HÀN QUỐC",
-    "group_url": "https://www.facebook.com/groups/382610440491942/",
     "group_thumbnail": ""
   },
   {
@@ -5920,21 +5703,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100090537605634",
-    "author": "Linh Linh Thịt Hàn",
-    "author_url": "https://www.facebook.com/linh.linh.thit.han.2024",
-    "post_url": "https://www.facebook.com/groups/490934785776418/permalink/1288381299365092/",
-    "time": "2025-07-09 22:20",
-    "message": "xương lưng heo đợt này ưng lắm cả nhà ơi.\nBác nào nhận được cũng khen tới tấp ý\n cái này mà nấu cùng măng hay hầm nước dùng ngon ngọt cực\n—> 6K thôi ạ",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/516816691_698512229843358_8700871046701876345_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=aw5b5FD9f-0Q7kNvwHpj2QK&_nc_oc=AdnsXBpy6RUzRpa2kM50ukPou6JKilbzlRJIz-qLfZVuIJedIIAek-N09ayB9lvDM-Q&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=lwEO7Wm9eXBLsMNzidxPJQ&oh=00_AfV5Xd1GBR3-Atin9SZ-6V4-DpEQJmZawFNvqJMiZ6yGAA&oe=68A23F12"
-    ],
-    "group_id": "490934785776418",
-    "group_name": "Tìm kiếm việc làm tại Korea",
-    "group_url": "https://www.facebook.com/groups/490934785776418/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "731235899544099",
     "author": "Người tham gia ẩn danh",
     "author_url": null,
@@ -5985,25 +5753,6 @@ window.completePostsData = [
     "time": "2025-08-02 12:14",
     "message": "Dịch vụ bên em nhận làm visa du lịch, visa các loại khác của Hàn Quốc\nGia hạn visa, làm lại visa bị mất trên toàn quốc",
     "media_urls": [],
-    "group_id": "1029013203850702",
-    "group_name": "Korea Việc Tìm Người-Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/1029013203850702/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "61557251339013",
-    "author": "Tường Vy",
-    "author_url": "https://www.facebook.com/tuong.vy.298172",
-    "post_url": "https://www.facebook.com/groups/1029013203850702/permalink/24018534827805214/",
-    "time": "2025-07-23 23:40",
-    "message": "#11k/ sét 25 lá\n\nLàm bánh gối tại nhà cho gia đình và bạn bè cùng ăn thôi nào\n😋đảm bảo ngon, sạch, chất lượng\n\nVỏ bánh gối dc bảo quan 4.5 ngày trong ngăn mát. Để ngăn đá dc 6 tháng",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/520817998_122251375850241711_6279409005987832083_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=73uahu2ki_4Q7kNvwH5Mbfu&_nc_oc=AdnOi3SRIQYJ78SuKgWRabbsTJQ-jijcvi1cEWldkAAvHg94RpyrsmYEdIkVeL8uAHg&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=7mz33_D_gUS222ywtQR_Bw&oh=00_AfXMu0b6BRE4w4nFFbOOBRQMJSnrNAGrcxjaVjKcwbxetQ&oe=68A235F3",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/520730091_122251376012241711_8147901721745522296_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=hGQhdfu58yIQ7kNvwGw5hrH&_nc_oc=AdmDbPPmK9CY-cmM19jmsjeHq761ZeHtcT9QyiRVGwkH8RNKTOMdQ-bG4isRfaLh3gM&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=7mz33_D_gUS222ywtQR_Bw&oh=00_AfWYijbLP-Q37CdKSJfbrvDQeBX2wgVFMr5xLrQdTjHs8w&oe=68A23649",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/520589330_122251376492241711_6094118958159583287_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=0msV3T2pVaIQ7kNvwFbPBWi&_nc_oc=Adl4jvhM9wphlmW41Jeyby27lACZqQ_qRG__-e2vNO7DwXhPnLaU5JMoICa7--mlve0&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=7mz33_D_gUS222ywtQR_Bw&oh=00_AfUqPNDPXBFJxmau6IAw7PsWgPC9bxdx7i93tnaI3Ql24w&oe=68A231F4",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/523860729_122251375646241711_6628767888579582730_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=tHlhhtMHq5EQ7kNvwEuW2gJ&_nc_oc=AdkLwI57-nQrMvlJfMYyTRT3q7JiDBeq9dbqiXIVRKHGF61BQwfoaVYSO7pSSJE7csg&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=7mz33_D_gUS222ywtQR_Bw&oh=00_AfVgZ_d6bDAbNkrBHV4ZLVxhVy4RkFeLz4gkA-Q9LrAoKw&oe=68A22A68",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/520161915_122251376312241711_5433685398651952580_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=yTk18MQU7gEQ7kNvwGQTnb2&_nc_oc=AdliwMB619NqPYwf-2g4Kn7_CwTwXnCgqTBkOXGxUU9iivRlEA72HeAePbX7ASKhEuo&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=7mz33_D_gUS222ywtQR_Bw&oh=00_AfX2g_sZ2MZ_WAiigdlScvyPoffo7EfTx_Pflkdcvnua1w&oe=68A23349"
-    ],
     "group_id": "1029013203850702",
     "group_name": "Korea Việc Tìm Người-Người Tìm Việc",
     "group_url": "https://www.facebook.com/groups/1029013203850702/",
@@ -6133,21 +5882,6 @@ window.completePostsData = [
     "group_id": "3313640272237651",
     "group_name": "HỘI NGƯỜI VIỆT NAM 🇻🇳 TẠI KOREA 🇰🇷",
     "group_url": "https://www.facebook.com/groups/3313640272237651/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100077500964274",
-    "author": "Nguyễn Trúc",
-    "author_url": "https://www.facebook.com/nguyen.truc.81587",
-    "post_url": "https://www.facebook.com/groups/hoinguoivietnamtaihanquockorea/permalink/4004953786471714/",
-    "time": "2025-08-13 15:27",
-    "message": "❌🥰🥰. Ngon lắm ạ đùi gà ngon vừa về \n\nMn lấy em gửi chung thịt bò thịt heo 9k 1kg",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/531571315_770555442204481_2329613965762679884_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=SlSd4qTFHLAQ7kNvwGKSXI5&_nc_oc=AdntworN9QBylb83dCid8jSmZdVWp7EOzKgMDKXY-qctRPzjaZ8SS4iMk8f5x2oRH0M&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=i5VWd_WxDtXdHxPMU6h8Ig&oh=00_AfW5X7ODeuzJwfxsN_x_FJlNq6sy_70ukvNTS9TXebOn3w&oe=68A20A30"
-    ],
-    "group_id": "1504561799844271",
-    "group_name": "Hội Người Việt Nam Tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/hoinguoivietnamtaihanquockorea/",
     "group_thumbnail": ""
   },
   {
@@ -6474,22 +6208,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100076179159573",
-    "author": "Minh Nguyen",
-    "author_url": "https://www.facebook.com/minh.nguyen.29306",
-    "post_url": "https://www.facebook.com/groups/932737821148582/permalink/1375079686914391/",
-    "time": "2025-07-06 21:39",
-    "message": "🔶🔸 KHÔ CÁ LƯỠI TRÂU  🔸🔶 \nHàng con vừa 500gr 12k\n🛑  Khô cá lưỡi trâu ngon nhất là chiên. Thịt cá vàng giòn thơm phức, vị ngon đậm đà. \n👉 Ăn kèm với dưa kiệu, dưa chua, hoặc làm gỏi xoài... dùng chung với cơm rất ngon luôn ạ.",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/516450851_767003765848922_6970260671742345466_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=AQKYtg3XTVMQ7kNvwFirFqL&_nc_oc=AdkzZMNeQsLOaYxuZspxcp2HPf5oZAxPfysSolSvMNrXY0TW6baCZucVRU3sfQ2uhFM&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=cG4FCe97FJSIvaZe5v6agQ&oh=00_AfVbA5w7ewe0woXLUamAsoW8ATTqNssL2Tc3t8qkn8hJuw&oe=68A2199B",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/516535952_767003742515591_1018916778747816357_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ddHI20-P8x0Q7kNvwGnsQoT&_nc_oc=AdlWi4o64cWVyEnjgTN9zqkweOcETrDj2cDnHF7YpG_Nk56_5nav65KsDzKfJeWvsWU&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=cG4FCe97FJSIvaZe5v6agQ&oh=00_AfXrcuk7pyEV6fRrpAvm_i6KK5gZoWkbnCedgqep5k3QXQ&oe=68A23048"
-    ],
-    "group_id": "932737821148582",
-    "group_name": "Cộng Đồng Người Miền Tây Tại Hàn Quốc 🇻🇳🇰🇷",
-    "group_url": "https://www.facebook.com/groups/932737821148582/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100093299120961",
     "author": "Linh Thảo",
     "author_url": "https://www.facebook.com/linh.thao.669373",
@@ -6577,25 +6295,6 @@ window.completePostsData = [
     "group_id": "496231055965354",
     "group_name": "Hội Người Việt Làm 목수 Tại Hàn Quốc",
     "group_url": "https://www.facebook.com/groups/496231055965354/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100088641430836",
-    "author": "Lê Bảo Ngọc",
-    "author_url": "https://www.facebook.com/le.bao.ngoc.881211",
-    "post_url": "https://www.facebook.com/groups/386258685126722/permalink/2349218928830678/",
-    "time": "2025-08-13 11:44",
-    "message": "🦐🦐 TÔM KHÔ CÀ MAU SIZE TO Y HÌNH\n\n☘️Tôm khô đất Mũi được làm từ phơi nắng tự nhiên, hoàn toàn không có phẩm màu hay tẩm ướp bất kỳ hóa chất bảo quản nào. Nên tôm có màu hồng đỏ tự nhiên, thịt tôm giữ nguyên vị ngon ngọt , không có mùi tanh hay nồng như những loại tôm rẻ tiền khác.\n ☘️Có thể nấu canh, kho quẹt, kho tộ ăn kèm với cơm hay dùng làm các món nhậu ngon tuyệt.\n\n🥰🥰Hàng phơi dẻo nên cấp đông kỹ giúp e nha",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530933989_769095546055153_8185960260645838056_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=LM2VPkNaouQQ7kNvwFHGUy0&_nc_oc=AdmPC6Vr2g6GBlWUMErwOlz-7Sv4ddc3jOX6auULZOfIRE6NsZJ6x9dTQwO5u9xCeRI&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=iT3Pjii06Tq67-MacF0rig&oh=00_AfXlNmx0oFFvzuDiuee6QNMUOs8vVHQVYVXEKspBHwh18Q&oe=68A2354C",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/532449477_769095622721812_8956698495369509156_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=EOGAnrw7wgwQ7kNvwE3DdFI&_nc_oc=AdkhCTRk7XQ3WNFYH2h8KIHmm8X1eBMi8ng9KxeW_Yz2-XazhkmgkhJU59Oy-Y2fvpQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=iT3Pjii06Tq67-MacF0rig&oh=00_AfWsdVBy8nRtCfOqCPdqsEnwYjP7UVyGiQ3E6ba8MemY0Q&oe=68A23B4D",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/532223239_769095489388492_4029927273093625779_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=QkZJLoGx91wQ7kNvwHZzAJ7&_nc_oc=AdkzMW_iyFB5uKTxtEHO7wcY2-9dkF_6be6-5hgRa8BBgiiMdkdwEYfrWSQt029nqxY&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=iT3Pjii06Tq67-MacF0rig&oh=00_AfUltUuEvGbGGW-39UHeF_5JFjG9omCLok2uL1W_5MAOyQ&oe=68A2394C",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/532570153_769095582721816_3550761169939790022_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=oEagJww0D5MQ7kNvwH3pZ29&_nc_oc=AdkoUBPW7tu-nDV74cIUTOuGHzALZSOfetB0BYiuAzq5Gb7Xnz3frQYdqOG0Chw5t3c&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=iT3Pjii06Tq67-MacF0rig&oh=00_AfXQkLwo4irotiuFfu8ieL2wHX3QJfrVO66TKSaxVTn3Vw&oe=68A214DF",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530918557_769095672721807_92432943354190290_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=NjAd5gbNCTUQ7kNvwG5ezG9&_nc_oc=AdkDqNMfdlacmMqKJD6OvO37PDgKZsMDzf3L8nGrLlso2-3vk4y0RUQ-4_uhcfQ4BhQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=iT3Pjii06Tq67-MacF0rig&oh=00_AfWLeVkZy5oTXOXZ5iQOJ3mznX91XGy_FehtFCvorYyN4g&oe=68A24223"
-    ],
-    "group_id": "386258685126722",
-    "group_name": "Hội Người Việt Nam Tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/386258685126722/",
     "group_thumbnail": ""
   },
   {
@@ -7104,25 +6803,6 @@ window.completePostsData = [
     "group_id": "572238715030513",
     "group_name": "구미 việc tìm người, người tìm việc",
     "group_url": "https://www.facebook.com/groups/572238715030513/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100090801945596",
-    "author": "HiẾu Apple",
-    "author_url": "https://www.facebook.com/profile.php?id=100090801945596",
-    "post_url": "https://www.facebook.com/groups/551009906669083/permalink/1079981293771939/",
-    "time": "2025-08-06 15:42",
-    "message": "💥 CHỐT DEAL SIÊU NGON – CHỈ 435KW 💥\n\n🚀 HP ProBook 450G8 – Intel XE – Ngoại hình đẹp, hiệu năng cực bốc trong tầm giá!\n\n🔧 Cấu hình chất chơi:\n\n🔹 CPU: i5-1135G7\n\n🔹 RAM: 16GB\n\n🔹 SSD: 256GB NVMe\n\n🔹 VGA: Intel Iris Xe\n\n🔹 Màn hình: 15.6in Full HD\n\n📌 Phù hợp: Sinh viên – Văn phòng – Giáo viên – Học sinh – Bán hàng online\n\n📦 Máy siêu lướt – Ngoại hình đẹp – Pin tốt – Gõ phím cực sướng\n\n🛒 Chỉ 435KW – Giá quá yêu thương cho 1 em laptop chất lượng này\n\n📲 Inbox ngay kẻo trễ, hết là tiếc đó ạ!\n\n________________________________\n\n📞 𝗦𝗗𝗧: 010-6222-1678\n\n🏪 𝙎𝙃𝙊𝙋: 시흥시 정왕동 1417-7\n\n🔧 𝗪𝗼𝗿𝗸 𝘀𝗵𝗼𝗽: 시흥시 조남동 189번지",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/528229500_716315488071843_7773594906128549632_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=vVAKVzFSOZkQ7kNvwH-k-6S&_nc_oc=AdnK5_Js0D2SNeTkXSpiK19pVvzBmjnsUn-Ttr0IECARE9L53LrAMY_h1NsapDoQJzc&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=RM82MVm0cbHg-qnB3J6cHg&oh=00_AfUqou_7QgHQLIgbVN7XDY5WIdK0VwIgdzcut-99g7m7dw&oe=68A24D5A",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/528290797_716315568071835_7562108091620994057_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_ZMfioXf7MEQ7kNvwGSjlfh&_nc_oc=AdnHsbvFJ9mWru1h-FgFnOtatT7WRurfHngepMiBo9i0R6m3hmpVrOTzqCNxDv3SUe4&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=RM82MVm0cbHg-qnB3J6cHg&oh=00_AfUyzhkWV9doMXRbpvBIrziRgsVq84BmD9kTv10SPJPghg&oe=68A2359C",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/528577341_716315364738522_5417707279395267141_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=43oU-sbJ5iMQ7kNvwFAWuSo&_nc_oc=AdnIi9cfx3h7l7Knixjf42qaU_XLKPdB0rvmeTl0rwMtH-5Ti41JNAjBI8JQgbrnfpM&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=RM82MVm0cbHg-qnB3J6cHg&oh=00_AfUq9zM7qXZYmnfQidS1o_sOFHBE1q2HQVnYhW6E-Q7LtQ&oe=68A2237D",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/528393093_716315428071849_7422092178165083494_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=eUxEB-DCIykQ7kNvwEOmKwm&_nc_oc=Adk1TC_yHxSl3rMEMCYHBB2i2HUWH1MHebNd43gsEkuW2-mewfIwQfoY91NPF73-IrI&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=RM82MVm0cbHg-qnB3J6cHg&oh=00_AfX8JavVGHJU3R1dtahR4Y_u6hPeyj7c9A681bbY9P3D0Q&oe=68A23613",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/528092176_716315304738528_4325981374569140297_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=4I01AMI0hCUQ7kNvwEB-Grp&_nc_oc=Adm4zQluzP22GeMX2dzB1umnFkwmJkI1k27X72Yc5rLj9oCnUNrYFSJRAl1vuF_6mns&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=RM82MVm0cbHg-qnB3J6cHg&oh=00_AfWMfmUcU3IArMOZlUmwTAqUHi7lqvf-807cCDHZfJ3H8g&oe=68A238AD"
-    ],
-    "group_id": "551009906669083",
-    "group_name": "정왕-시흥-안산 Hội Người Việt Nam Mua Bán- Trao Đổi- Tìm Việc- Tìm Nhà",
-    "group_url": "https://www.facebook.com/groups/551009906669083/",
     "group_thumbnail": ""
   },
   {
@@ -7855,25 +7535,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100092555852922",
-    "author": "Hong Van",
-    "author_url": "https://www.facebook.com/hong.van.121411",
-    "post_url": "https://www.facebook.com/groups/1865125103789049/permalink/3068598493441698/",
-    "time": "2025-08-02 21:23",
-    "message": "Mấy a e an nhậu ở biển cứ Alo e làm mồi nhậu sip tận nơi tiền sip k tinh nhe rẻ mà ngon 01028584431 be Vân",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/526536820_679101948518328_4026518808791638843_n.jpg?stp=cp6_dst-jpg_p960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=KKGmAIJTdLoQ7kNvwGe7aYM&_nc_oc=AdmWo7d0_z6LHhDHKej62u-y7x5HMt2wqElhfVSCYAtUTNFyGRp856vIbP28jyQGSnk&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=jKBbCH73hlde7tXiy19f4A&oh=00_AfXrB4KIJqsgez-L1madXkOVw4nova4jVMNawrabkQJYSQ&oe=68A21C91",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/526426746_679101791851677_8423606777458301854_n.jpg?stp=cp6_dst-jpg_p960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=9KZqim3tgAgQ7kNvwE9KNS9&_nc_oc=Adl00x9hH4A0TgywVON4dqTkhdqfHfe0oJ6rfW7xjhVUHgiPXnwv1Ke_tpZHuRa7rUY&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=jKBbCH73hlde7tXiy19f4A&oh=00_AfVylMWb7p8bwnUBU6W0CzZkTN-5Phb2lMxieB3hSNNQ2w&oe=68A218FC",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/527606279_679101921851664_9187483664867717650_n.jpg?stp=cp6_dst-jpg_p960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Pgiz-3mvsScQ7kNvwGk8VkK&_nc_oc=Adl8oGj2g29TBaqOUPthsjTHMVr57MfwCAktzNIwL3h9cdWaA8aw_HowXRz-TcxAT4Y&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=jKBbCH73hlde7tXiy19f4A&oh=00_AfUIPrLYivsH1JCgfIJfrpYn9q-trhnyyG5eweRB0g7hLw&oe=68A24B15",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/527773516_679101801851676_4934820948931379470_n.jpg?stp=cp6_dst-jpg_p960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=a6WOjwFuVjQQ7kNvwFKCPcV&_nc_oc=Adm2amdq1ElWq7k6J9iRacHxhfuMUmYCHdaQGGF6uDlXI3zt6A8ack16LpDABJtKBu4&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=jKBbCH73hlde7tXiy19f4A&oh=00_AfVyT4ah3PypkjJtCSak6Gyllmhid5FfkfO7ASKXaU5Swg&oe=68A22FF1",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/527327327_679101861851670_7091715407232658533_n.jpg?stp=cp6_dst-jpg_p960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=zGiXk_gDxjcQ7kNvwFFcQK8&_nc_oc=AdnrlnloqF7UqhTHlqF9GQ2wc0mdGitA48yx_pRglCZmgvP5c-rvpOOrqQ4GYVno8fQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=jKBbCH73hlde7tXiy19f4A&oh=00_AfXxKWWRbPW7ZpXVipvoc35_sFypn8S2i-dsfVhWm0vJwg&oe=68A23388"
-    ],
-    "group_id": "1865125103789049",
-    "group_name": "Cộng đồng người Việt tại 보령시  ( Tìm việc-Tìm Nhà - Mua bán hàng hoá)",
-    "group_url": "https://www.facebook.com/groups/1865125103789049/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100090112609280",
     "author": "Phạm Thị Tuyết",
     "author_url": "https://www.facebook.com/tuyet19892",
@@ -8148,24 +7809,6 @@ window.completePostsData = [
     "group_id": "1824798414437934",
     "group_name": "[Korea] Người Tìm Việc — Việc Tìm Người",
     "group_url": "https://www.facebook.com/groups/1824798414437934/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100051685239523",
-    "author": "Oanh Nguyễn",
-    "author_url": "https://www.facebook.com/oanh.nguyen.96459",
-    "post_url": "https://www.facebook.com/groups/517295095753089/permalink/1985655825583668/",
-    "time": "2025-08-12 20:39",
-    "message": "Lòng  bò  ăn  là nghiện  các c ơi mà ăn  nó không ngán  đâu  a .e ăn  ngon e mới  bán  ạ \n\n Món  lòng  bò 소곱창 .소대창   ăn  vào là nghiện  cả  nhà  ơi ngon nhức nách.các c mua thịt cá  bên e lấy thử  1kg về ăn đi ạ🥰\nDc nhiều lắm  luôn  mọi người a",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/531784811_1337002598032569_2507393028577526018_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=d5OulbbaRt4Q7kNvwH63VsF&_nc_oc=AdmBMk30CHqhAY-rvfyH-hj-V2wbfibDQxgC3EOZ2yaAmmPeQN33V37QfVgKt3eWAf4&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=ftKwsMz7GBJcxaNE-_tbgg&oh=00_AfWhR2DbZLqGE3QC599-ZHaH2VU8Fdk-_uMGzw1kAR-NTQ&oe=68A21E1E",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530684068_1337002578032571_1801671725328736606_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=pY20hnPKISUQ7kNvwGqXEij&_nc_oc=Adkn5iKl7pZUUePfMLXL21x2-bf0C0wUOpJ_Dmz-OPZhU9nzGCtduIQIc9KlBPaa_DU&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=ftKwsMz7GBJcxaNE-_tbgg&oh=00_AfU_Y9OnHNCxu23endV16Tu80Pyd1vCO5ggQ4-Hw73HcSQ&oe=68A21BC6",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530197637_1337002484699247_5513546437648108646_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=b0rkq6E1mogQ7kNvwFrzeeU&_nc_oc=AdlYKiw8A2McGG8iMemCdxa-50ThWFCmUnN6N9j0mPabEYSe8mNToV7NtVG35kfRLHA&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=ftKwsMz7GBJcxaNE-_tbgg&oh=00_AfWqRWsiITFfTZdS44F9-pjVUigs0bM-e-vhsC8jng4uKg&oe=68A249C6",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/531667839_1337002448032584_7539423685768306040_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=XTrliCmaCF0Q7kNvwH9Hs5G&_nc_oc=AdnZkQWiyQGLwY2vxsvIhthEq0gGRVXcYGxrKq-LOEjkaQ5253BIGF1vtzWBMdkzd9s&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=ftKwsMz7GBJcxaNE-_tbgg&oh=00_AfVOaodoMd8jcNYaygVNBuJWFBf3ZawB5qsX9MhAAjNi1A&oe=68A22A23"
-    ],
-    "group_id": "517295095753089",
-    "group_name": "[Korea]-Người Tìm Việc-Việc Tìm Người",
-    "group_url": "https://www.facebook.com/groups/517295095753089/",
     "group_thumbnail": ""
   },
   {
@@ -9394,25 +9037,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100088641430836",
-    "author": "Lê Bảo Ngọc",
-    "author_url": "https://www.facebook.com/le.bao.ngoc.881211",
-    "post_url": "https://www.facebook.com/groups/1733555730263061/permalink/4101893010095976/",
-    "time": "2025-07-21 07:06",
-    "message": "CHUỐI XIÊM ÉP DẺO 🍌🍌\n💰12k 500g \n🍌Chuối Ép được làm từ những trái chuối xiêm chín mùi. Để có miếng chuối khô, ngon, dẻo, dai phải chọn cho được loại chuối thật già, và chín đều. \n🍌 Chuối Ép dẻo ăn không ngán.Khi ăn bạn vẫn thưởng thức trọn vẹn hương vị từng trái chuối.",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/518269134_750042054627169_7256261873777757920_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=CV6JY8fXBAkQ7kNvwHZFhuB&_nc_oc=AdmiyPEPtmwT1wc0h1Cl1S2zxh0bHEvRYujpSPD_Jrp1S6a38ykfgMXeKLH5lDesGq8&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Sjb6HVljCvuUfMAUR1bhdg&oh=00_AfUsq88PW1tDXvmxsiNSyV1oY4YU99vjdz5b4PEjoRZvTA&oe=68A21FE9",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/519776522_750041944627180_7859625040948758470_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=u6qw1A1IQj8Q7kNvwFASD7D&_nc_oc=AdnFBEVa6s5VN_5K7qoVeD9iy0H8f6-yEDMB6on9OqUAXy79K2rNc7yhetcP-Y_kHDw&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Sjb6HVljCvuUfMAUR1bhdg&oh=00_AfWxRPjXw-tMFRD8_WvfY_ntDOF72sLG3tKpZebWf15jhw&oe=68A2231D",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/519571963_750041991293842_8543210830075644032_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=XCBo1ef505YQ7kNvwG-yTFa&_nc_oc=Adl38T80FpNGSox9sf47VM2oEyo3RFztk-jbmpUbvOWc-uw9WioZpJ8nThsyFdWrXD0&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Sjb6HVljCvuUfMAUR1bhdg&oh=00_AfWjskNT7fVN2tQpMXH72FoZQekPsAikPrvHoiFCYjUOCA&oe=68A229C8",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/519820667_750042021293839_3672421113313006165_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=cDCQM8qeDE8Q7kNvwE13S6U&_nc_oc=Adnrtd8-Bu0WR5C-kW28_IfFFt6KTsBiZvQKZds6tg6zmvk3JtGHtmA3STJa9WSpncM&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Sjb6HVljCvuUfMAUR1bhdg&oh=00_AfXjDxm2wlfQGlWQKgslguZFzw_JIxA8ZUfRkJBfNGT9-g&oe=68A23E9F",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/519626899_750042091293832_6022768846350327062_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=qkiCJfHhT74Q7kNvwE2q38H&_nc_oc=Adl-v2DjKDoI99waV8Zi_i0EvhrrdfY8Qa_RQNt7hfyxmibyB5SKWOSmq3AU5F2ahBg&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Sjb6HVljCvuUfMAUR1bhdg&oh=00_AfVGsps_-KQFAwAszP8aWbfQQ6BiILk4Pnx5Fletl2qKBQ&oe=68A22E2A"
-    ],
-    "group_id": "1733555730263061",
-    "group_name": "Tìm Việc Làm Korea",
-    "group_url": "https://www.facebook.com/groups/1733555730263061/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100041135523063",
     "author": "Duy Khánh",
     "author_url": "https://www.facebook.com/ok.khanh.7583",
@@ -9797,19 +9421,6 @@ window.completePostsData = [
     "post_url": "https://www.facebook.com/groups/1145579217170536/permalink/1268101894918267/",
     "time": "2025-07-20 14:17",
     "message": "Em cần tìm một bạn làm thay bếp từ 16h-4h khoảng 1-2 tháng \nLương 2tr7 \nLương hơi thấp nên anh chị cân nhắc hãy nhắn tin cho em đỡ mất tgian của đôi bên ạ",
-    "media_urls": [],
-    "group_id": "1145579217170536",
-    "group_name": "TÌM KIẾM VÀ GIỚI THIỆU VIỆC LÀM TẠI 익산 - Trường Wonkwang",
-    "group_url": "https://www.facebook.com/groups/1145579217170536/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "1134280061857891",
-    "author": "Người tham gia ẩn danh",
-    "author_url": null,
-    "post_url": "https://www.facebook.com/groups/1145579217170536/permalink/1253861913008932/",
-    "time": "2025-07-01 14:13",
-    "message": "việc thì đã không có🥲mọc đâu ra mấy má đăng bài việc làm thì ngon làm xưởng a b c xy z các kiểu.xong vào ib 1 là lặn mất tăm 2 xong bảo tham gia vào nhóm gì gì ấy.chả nói việc gì cả🥲.đã nghèo còn gặp eo thiệt chứ.e dhs thất nghiệp có b nào thương có việc quán việc xưởng gì giới thiệu e với.e làm full time dc ạ.k kể công việc gì chứ đói hết tiền ăn rồi ạ🥲",
     "media_urls": [],
     "group_id": "1145579217170536",
     "group_name": "TÌM KIẾM VÀ GIỚI THIỆU VIỆC LÀM TẠI 익산 - Trường Wonkwang",
@@ -11354,8 +10965,8 @@ window.completePostsData = [
 
 // Metadata
 window.vietnamMeta = {
-    totalPosts: 805,
-    generatedAt: "2025-08-14T04:53:46.387963",
+    totalPosts: 783,
+    generatedAt: "2025-08-14T04:57:21.276270",
     dataType: "complete"
 };
 
