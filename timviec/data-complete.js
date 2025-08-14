@@ -1,5 +1,5 @@
-// Vietnam Posts Data - Complete Dataset (702 posts)
-// Generated on 2025-08-14T00:00:55.961780
+// Vietnam Posts Data - Complete Dataset (601 posts)
+// Generated on 2025-08-14T00:56:56.906419
 // Complete data for full functionality
 
 window.completePostsData = [
@@ -452,19 +452,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100008032530514",
-    "author": "Nhi Thao",
-    "author_url": "https://www.facebook.com/nhi.thao.441178",
-    "post_url": "https://www.facebook.com/groups/vietconnect/permalink/1796289574451094/",
-    "time": "2025-01-19 00:14",
-    "message": "Chuẩn bị mở quán khu vực gần 원곡 광주.  Chủ người Hàn cần tuyển nhiều bạn nhân viên nữ.                 Yêu câu: \n _ tuổi từ 20t đến 30t           \n  _ Mức lương cơ bản: 200 만 . Chưa bao gồm Tip ( nhân viên tự nhận từ khách) ~5tr mỗi tháng \n     _ Có chỗ ăn ở miễn phí ( chỉ thanh toán điện, nước)               _Thời gian làm việc từ : 2 pm chiều.                                        _ Mỗi tuần nghĩ 1 ngày.           \nLIÊN HÊ NHANH để nhận Job . 01027880244",
-    "media_urls": [],
-    "group_id": "1238732566873467",
-    "group_name": "TÌM VIỆC TẠI HÀN QUỐC - VIET CONNECT",
-    "group_url": "https://www.facebook.com/groups/vietconnect/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100090617149793",
     "author": "Quang Hà",
     "author_url": "https://www.facebook.com/quang.ha.894495",
@@ -504,38 +491,12 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100048769612630",
-    "author": "Kim Ngân",
-    "author_url": "https://www.facebook.com/profile.php?id=100048769612630",
-    "post_url": "https://www.facebook.com/groups/430765275873183/permalink/979373101012395/",
-    "time": "2025-03-25 11:02",
-    "message": "Quán nướng ở 마포구청역 (line6) tìm người rửa bát \nLương 11k , dki làm thêm dc thì 12k\n1 tuần làm 5 hoặc 6buổi, cuối tuần từ t6 đến Cn có 1b nữa rửa cùng. Làm từ 6h-11h/2h (tuỳ lượng khách từng ngày)\nYcau bạn nào nhanh nhẹn, nhà gần , có kn rửa bát, giỏi tiếng Hàn hay không cũng được. Quán có người Vn làm cùng.",
-    "media_urls": [],
-    "group_id": "430765275873183",
-    "group_name": "[Korea]Tìm việc -Việc tìm người tại Hàn quốc",
-    "group_url": "https://www.facebook.com/groups/430765275873183/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "1744767329491710",
     "author": "Người tham gia ẩn danh",
     "author_url": null,
     "post_url": "https://www.facebook.com/groups/1004695973672255/permalink/2042773313197844/",
     "time": "2025-08-10 12:19",
     "message": "Kho bánh Kẹo Nhà Mình cần gấp Thời Vụ - Lâu Dài \n- 10 Bốc xếp hàng ở trong kho : 10tr-15 tr\n- 15 Đóng gói bánh kẹo : 9tr-12 tr\n- 5 Phụ xe giao hàng 10tr -15 tr\n- 3 Bảo vệ kho 7tr-9tr\n- 5 lái xe nâng 9-14tr\n- Hỗ trợ tiền xe 100% cho nhân viên ở xa đến làm\n- Ngày làm 8 tiếng.Hết giờ, làm thêm 60k/1h\n- Hỗ Trợ Lương tuần - Ngày chỉ tuyển ăn ở lại không tuyển đi đi về về\n- liên hệ :0794005404 hoặc zalo 0989641750(tuyết linh)",
-    "media_urls": [],
-    "group_id": "1004695973672255",
-    "group_name": "HỘI TÌM VIỆC LÀM TẠI HÀN QUỐC",
-    "group_url": "https://www.facebook.com/groups/1004695973672255/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100082981932742",
-    "author": "Morela Mai",
-    "author_url": "https://www.facebook.com/hangviet779",
-    "post_url": "https://www.facebook.com/groups/1004695973672255/permalink/1975073806634462/",
-    "time": "2025-05-18 20:06",
-    "message": "Tìm người bóc tỏi hàn tại các nông trại ạ\nNgày/120kw. \nSáng 7h-11h Chiều 1h-17h",
     "media_urls": [],
     "group_id": "1004695973672255",
     "group_name": "HỘI TÌM VIỆC LÀM TẠI HÀN QUỐC",
@@ -563,34 +524,6 @@ window.completePostsData = [
     "time": "2025-06-11 10:44",
     "message": "사 cần thêm ng Làm Xưởng hoa quả (làm đêm) cần tìm thêm người làm 2-7 8h20tối đến 3h sáng lương 125k / ngày\nchỉ nhận nam",
     "media_urls": [],
-    "group_id": "1004695973672255",
-    "group_name": "HỘI TÌM VIỆC LÀM TẠI HÀN QUỐC",
-    "group_url": "https://www.facebook.com/groups/1004695973672255/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100001203278682",
-    "author": "Hạ Nguyễn",
-    "author_url": "https://www.facebook.com/ha.nguyen.2902",
-    "post_url": "https://www.facebook.com/groups/1004695973672255/permalink/1948290155979494/",
-    "time": "2025-04-14 18:42",
-    "message": "🌈 🌸🌸🌸 Vẫn là em với chuyên mục tìm người hộ hàng xóm 🌸🌸🌸🌈\n\n👉 경기도 양주 포천, 양주( kiêng ki- jang ju - pho chon miền bắc) \n\n👉 House làm dưa chuột, bí ngòi, cà chua bi cần tìm người làm. Lương theo tháng  (tầm ~50 tuổi)  \n\n👉 E tìm hộ hàng xóm nên ai có nhu cầu thì inbox nhắn tin liên hệ e cho sđt chủ r trực tiếp gọi điện nc ( Chủ ng Hàn)",
-    "media_urls": [],
-    "group_id": "1004695973672255",
-    "group_name": "HỘI TÌM VIỆC LÀM TẠI HÀN QUỐC",
-    "group_url": "https://www.facebook.com/groups/1004695973672255/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100071875201439",
-    "author": "Din Din",
-    "author_url": "https://www.facebook.com/din.din.252178",
-    "post_url": "https://www.facebook.com/groups/1004695973672255/permalink/1913850649423445/",
-    "time": "2025-03-04 22:46",
-    "message": "Mình đang cần tìm hai người nam làm việc trong housư dưa leo xà lách ,ai làm đc thì liên hệ mình nhé : Lương 2tr3  bao gạo nhà điên nc đồ ăn tự túc.Lương ngày 100k cho nhà còn lại tự  túc.việc quanh năm  01080888854.",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/488568520_682473814158453_102336057801712735_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=agfdShCtUbIQ7kNvwHHYRkw&_nc_oc=Adn7kacj4PAcXcWL6HRewQM8jkGnmjR9SVK-nuUAqO5HVIHtBk8APM2JSHAh_vv6UmY&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=hXpsLr9d5NwI8lxCfaLKwA&oh=00_AfW7XvaU5V5DFzFVtAwW8UDW3iiUabzamvObbrXK1faG7w&oe=68A21308"
-    ],
     "group_id": "1004695973672255",
     "group_name": "HỘI TÌM VIỆC LÀM TẠI HÀN QUỐC",
     "group_url": "https://www.facebook.com/groups/1004695973672255/",
@@ -719,21 +652,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "1318218102632928",
-    "author": "Người tham gia ẩn danh",
-    "author_url": null,
-    "post_url": "https://www.facebook.com/groups/1546935132093211/permalink/9099669233486392/",
-    "time": "2025-03-18 17:03",
-    "message": "Bác người hàn sinh năm 81 đang cần tìm việc ở VN, mong mọi người giới thiệu giùm ạ!\n\n20 năm làm kỹ sư ô tô (từng là 팀장) ở công ty lớn như LG bên HQ.\n\nTiếng Anh, Tiếng Việt giao tiếp (sống ở VN 5 năm)\n\nMong mọi người giúp đỡ ạ",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/481961859_1338207520633986_5614468289617673523_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=NXxiJW-dp5YQ7kNvwFJTkSg&_nc_oc=AdnO9x10s7-awaBQ_Yp9X4iyufHUbKYdA8TQwoleqAu02oLCAufBDG-sNp76_6mYOzM&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=1oiNTJPdifw7N0wKwPJYfw&oh=00_AfUJbw7beHeeXWlnWUz1-4eToEfXt-O-ntUHgk7D8aVyiQ&oe=68A22960"
-    ],
-    "group_id": "1546935132093211",
-    "group_name": "Việc Làm Cho Người Hàn Quốc ở Việt Nam",
-    "group_url": "https://www.facebook.com/groups/1546935132093211/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100014377682589",
     "author": "Hằng Nga",
     "author_url": "https://www.facebook.com/hang.nga.841813",
@@ -760,19 +678,6 @@ window.completePostsData = [
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530828605_2114182069330780_1009469986990803256_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=EiOG7DzqqwgQ7kNvwG0MrJ-&_nc_oc=Adlgd3U34Ee8BpM9RWEMEBAwl6QjDPiU8IntJnNnuj2VBrDeex2HfA_kA99U4cTzgmw&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=fQa4Gd7qQU6Pbum5kOjNxA&oh=00_AfU1nc0hBPwvzi03INCv0A3PvvaDWdfshquLEMLm16hBAA&oe=68A217AE",
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/532026259_2114182219330765_1269910836154292913_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Jh60bPi1OmcQ7kNvwH5CTzL&_nc_oc=AdlpDGPsNzRgOkKpgEFHqeC8zaQTwdH92bv8A-2VW4JVaPIDp5CplzwIUQ5bzsLuUoA&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=fQa4Gd7qQU6Pbum5kOjNxA&oh=00_AfWQKLtEhcfgrp6nwkvObg27G7jeXmESqMAMjlR9mzhh9g&oe=68A21B0B"
     ],
-    "group_id": "300833791835548",
-    "group_name": "Korea Người Tìm Việc - Việc Tìm Người",
-    "group_url": "https://www.facebook.com/groups/nguoitimviecviectimnguoikorea/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100042500505067",
-    "author": "Vu Viet Anh",
-    "author_url": "https://www.facebook.com/hongdao.nguyenthi.5458",
-    "post_url": "https://www.facebook.com/groups/nguoitimviecviectimnguoikorea/permalink/1194974742421444/",
-    "time": "2025-05-03 13:38",
-    "message": "MÔ TẢ CÔNG VIỆC\n\n- Gõ giáo án trên máy tính, laptop\n\n- Cần có máy vi tính PC hoặc laptop để làm việc trên Microsoft Word\n\n- Có hướng dẫn công việc khi tham gia công việc\n\n- Mức lương: Tuỳ thuộc vào năng suất công việc\n\n- Có thưởng chuyên cần\n\n- Cận thận, Tỉ mỉ, Có trách nhiệm\n\n- Phù hợp với các bạn: Giáo Viên, Văn Phòng, Phụ Nữ Nội Trợ, Làm việc thêm ngoài giờ hành chính, Các bạn du học sinh",
-    "media_urls": [],
     "group_id": "300833791835548",
     "group_name": "Korea Người Tìm Việc - Việc Tìm Người",
     "group_url": "https://www.facebook.com/groups/nguoitimviecviectimnguoikorea/",
@@ -826,19 +731,6 @@ window.completePostsData = [
     "post_url": "https://www.facebook.com/groups/1556419561295369/permalink/4133846970219269/",
     "time": "2025-07-22 13:47",
     "message": "📢 Tuyển người làm nông trại và trưởng nhóm tại Wonju\n\n✅ Tuyển công nhân nông trại\n • Địa điểm: Wonju\n • Có ký túc xá miễn phí\n • Lương trả theo ngày, nhận tiền ngay sau khi làm xong\n • Công việc nhẹ nhàng, ổn định, có thể làm lâu dài\n\n✅ Tuyển trưởng nhóm (đội trưởng) người nước ngoài\n • Công việc: quản lý nhân viên và tuyển người lao động\n • Ưu tiên người có thể giao tiếp tiếng Hàn (trình độ cơ bản trở lên)\n • Lương: thỏa thuận\n\n📞 Liên hệ: 010-5254-4740",
-    "media_urls": [],
-    "group_id": "1556419561295369",
-    "group_name": "Tìm Việc Làm Tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/1556419561295369/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100035041265542",
-    "author": "Quỳnh Diệu",
-    "author_url": "https://www.facebook.com/phuongdieu.huynh.180",
-    "post_url": "https://www.facebook.com/groups/1556419561295369/permalink/3999409103663057/",
-    "time": "2025-03-05 15:24",
-    "message": "VIỆC TÌM NGƯỜI :\n- 08 chạy bàn\nThời gian : 17h~22h lương giờ 25kw/h\nLễ tết lương 200% 300% theo quy định nhà nước.\nTăng lương theo năng lực, xét theo quý ( 3 tháng/lần )\nTuổi 25 đến 40. Có đồng phục. Quản lý mát tính. Ko soi mói.\nTuần nghỉ 1b. Tháng 4b\nKo cần tiếng Hàn. Biết càng tốt.\nTraining chuyên nghiệp, cv thoải mái.\n- 08 phụ bếp nam/nử : 25 đến 40 tuổi\nGiờ làm việc : 15h~22h ( có thỏa thuận )\n32kw/h\nTuần nghỉ 1b. Lễ tết 200% 300% theo quy định.",
     "media_urls": [],
     "group_id": "1556419561295369",
     "group_name": "Tìm Việc Làm Tại Hàn Quốc",
@@ -911,19 +803,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100023222341190",
-    "author": "박준수",
-    "author_url": "https://www.facebook.com/bagjunsu.368355",
-    "post_url": "https://www.facebook.com/groups/159716877007816/permalink/714785351500963/",
-    "time": "2025-04-23 20:17",
-    "message": "Hàn Quốc\nChúng tôi đang tìm người làm việc tại trang trại.\nGochang, Jeollabuk-do\nChúng tôi chế biến nhiều loại thực phẩm, bao gồm dưa hấu, khoai lang, gạo và đậu.\n🧒Nam ₩100.000~130.000\n👧Phụ nữ ₩80.000~110.000\nTôi chủ yếu làm công việc đồng áng.\n₩Thanh toán tiền mặt trong ngày₩\nNếu quan tâm, hãy nhắn tin 010-4937-0584",
-    "media_urls": [],
-    "group_id": "159716877007816",
-    "group_name": "Người Việt Tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/159716877007816/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "24233323056285289",
     "author": "Người tham gia ẩn danh",
     "author_url": null,
@@ -963,21 +842,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100023700492868",
-    "author": "Phuong Vy",
-    "author_url": "https://www.facebook.com/phuong.vy.347782",
-    "post_url": "https://www.facebook.com/groups/713919357414500/permalink/1173613991445032/",
-    "time": "2025-03-25 18:29",
-    "message": "❌GÓC TÌM NGƯỜI THÂN ❌\n  Tôi có đứa e gái tên là Vy Thị Bảy sn 1996. \nCách đây 2 năm e gái tôi có làm cty ở Bình Dương , thời gian đó vẫn hay liên lạc với gia đình . Cũng khoảng thời gian vì 1 số lí do nên e tôi cũng k về quê ăn tết .\n\nNghe lời e tôi nói thì năm 2024 ,e đi qua Hàn quốc làm và vẫn liên lạc với tôi thường xuyên . \nNhưng cách đây 2 tháng gần đây thì tôi k còn liên lạc được với e gái tôi  nữa . \n\nTôi và gia đình cũng lo có chuyện gì xảy ra với e tôi  ko\n\nMọi người  có đọc được bài viết này thì hãy liên lạc với gia đình gấp nha ,  \n\nHoặc Ai có gặp hay biết e tôi ở đâu thì báo cho gia đình biết ạ . gd tôi xin chân thành cảm ơn \nSdt :0973845436",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/486072131_1862825771184088_2729491150994474138_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=bvLXhgJvF8sQ7kNvwFioP2o&_nc_oc=Adl8Qqbg7teJvvCC-jW5bX7dRUaQMf-1NxRmdA0V8GzW8A3JCwRbASmMaoBxCQvpVrY&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=F8RK9LBvwJeZjSZqtiGLRg&oh=00_AfVwM9mYZsTB6VyGyuXSDT6s9uxvZiFtNqijdr1TQtfvHA&oe=68A212F5"
-    ],
-    "group_id": "713919357414500",
-    "group_name": "CỘNG ĐỒNG NGƯỜI VIỆT TẠI HÀN QUỐC",
-    "group_url": "https://www.facebook.com/groups/713919357414500/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100027913729002",
     "author": "Đặng Hồng Nghi",
     "author_url": "https://www.facebook.com/anghongnghi.55146",
@@ -988,19 +852,6 @@ window.completePostsData = [
     "group_id": "713919357414500",
     "group_name": "CỘNG ĐỒNG NGƯỜI VIỆT TẠI HÀN QUỐC",
     "group_url": "https://www.facebook.com/groups/713919357414500/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100005561281202",
-    "author": "Lee Yun Ha",
-    "author_url": "https://www.facebook.com/ngoc.ha.280987",
-    "post_url": "https://www.facebook.com/groups/775651017060103/permalink/1375081430450389/",
-    "time": "2025-05-30 22:47",
-    "message": "chủ cô em làm đang cần người làm nông \nthời gian làm việc:7h sáng -5h chiều \nlương nữ 100kw nam cao hơn 20kw lương trả mỗi ngày ko nợ ngày nào ạ\nnhà chủ thuê giùm cho , phòng tầm 250k 2 người ở \nđịa chỉ : miền trung \nsdt chủ : 010-6403-8778 vui lòng gọi trực tiếp trước khi qua , nếu biết tiếng \nsdt dì em : 01029136772 nếu ko biết tiếng hàn gọi cho dì em sau 6h để biết thêm chi tiết ạ  \nem có để chi tiết địa chỉ và số điện thoại mấy chị gọi giúp em nhé ♥️♥️♥️",
-    "media_urls": [],
-    "group_id": "775651017060103",
-    "group_name": "cộng đồng người Việt Nam tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/775651017060103/",
     "group_thumbnail": ""
   },
   {
@@ -1046,19 +897,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100093510446738",
-    "author": "Nguyễn Phương Thảo",
-    "author_url": "https://www.facebook.com/profile.php?id=100093510446738",
-    "post_url": "https://www.facebook.com/groups/775651017060103/permalink/1303679850923881/",
-    "time": "2025-02-21 10:55",
-    "message": "BÊN EM ĐANG TUYỂN NGƯỜI QUA HÀN LÀM VIỆC THEO DIỆN [ C4-2} 3 THÁNG VỀ 1 LẦN ĐI ĐƯỢC 5 NĂM AI QUAN TÂM IB EM",
-    "media_urls": [],
-    "group_id": "775651017060103",
-    "group_name": "cộng đồng người Việt Nam tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/775651017060103/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100092530312770",
     "author": "Gửi Hàng Quốc Tế",
     "author_url": "https://www.facebook.com/guihangquocte9999",
@@ -1074,39 +912,6 @@ window.completePostsData = [
     "group_id": "1246623926284389",
     "group_name": "Việc tìm người tại Hàn Quốc- Người tìm việc tại Hàn Quốc",
     "group_url": "https://www.facebook.com/groups/1246623926284389/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100041767210236",
-    "author": "Bé's Oanh'k",
-    "author_url": "https://www.facebook.com/oanh280504",
-    "post_url": "https://www.facebook.com/groups/1246623926284389/permalink/1781305922816184/",
-    "time": "2025-04-29 17:18",
-    "message": "Đang cần thêm 2 chị hái rau ở vườn không cần biết tiếng , chủ dễ tính , làm cả ngày hoặc theo buổi (trao đổi riêng với chủ )\nĐịa chỉ : hàn quốc \nBấm vào liên kết  - vào Đoạn chat để trao đổi , xem địa chỉ và lương :\nhttps://m.me/ch/Aba1rB2WKYXdqIhO/\n(21) 29 04",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/494112468_1634286474640244_2108272292364147398_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=8SCSwMXvRVQQ7kNvwHL82LE&_nc_oc=AdkQ0jomODbtz9CHW_7lfr7QhKuSMZ_VC9SUP3XudmR-BaMLTKgFGkcL9qP0PAO4fFc&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=CoWMi7IfL6zOVOgHplpRHA&oh=00_AfU7mFvdOp8wru_3EISaR9X3i8Iufo-YteD4gzBwokQxeQ&oe=68A2325F"
-    ],
-    "group_id": "1246623926284389",
-    "group_name": "Việc tìm người tại Hàn Quốc- Người tìm việc tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/1246623926284389/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100084069247571",
-    "author": "Phạm Thị Huyền Trang",
-    "author_url": "https://www.facebook.com/pham.thi.huyen.trang.419922",
-    "post_url": "https://www.facebook.com/groups/1153492868683957/permalink/1619519935414579/",
-    "time": "2025-05-28 16:02",
-    "message": "- Góc tuyển lao động Chủ doanh nghiệp bảo lãnh tại H.àn Q.uốc \n\n- Xưởng mình đang cần tuyển người làm thực phẩm, nhân sâm , nấm linh chi...,   (  vị trí làm việc  ) như lái xe giao hàng , vệ sinh thực phẩm , kiểm hàng sản xuất và đóng gói ...vv \n\n- Làm việc ngày 8 tiếng làm giờ hành chính từ 8h sáng đến 5h chiều . \n\n- ngoài 8 tiếng giờ hành chính có thể sẽ tăng ca từ 2-3 tiếng mỗi ngày . Trung bình là 2 tiếng / ngày .\n\n- Làm việc từ thứ hai đến thứ bảy , thứ bảy sẽ tính vào giờ tăng ca 8h/ngày nghỉ , chủ nhật nghỉ",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/501025432_670415992437370_3013631746341819207_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=24QXkVXFTWgQ7kNvwHptIDY&_nc_oc=AdnofTJCVwdgnXgrY_yEOX3_CzlZ8QwlYEEM3o0GNXpPc1qoyJN3rRPClPdrN0rDxaY&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=NweJXpqjs2C07Geyy7QJgQ&oh=00_AfXy0YMnu_0Izeljy3P4NPNAshTqvVt0lpuiAMJ0ZBRJxw&oe=68A20B81",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500469327_670415952437374_8074359627954895533_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=oVatGEJLwr0Q7kNvwHcI8f7&_nc_oc=AdmQQCmGkfEtA-Oa6-eQL6eEeTRF8INyAo1zJDXuNY8iXY1HRHr5oNQJ8MpCeZmhuxo&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=NweJXpqjs2C07Geyy7QJgQ&oh=00_AfWo_siMFZmgA55-vqBXuxHkqQULAthpkW5MksusySgTqA&oe=68A21F0E",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500516317_670415905770712_6968716969409176590_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=hp5AQlKcX1YQ7kNvwHLKoF9&_nc_oc=Adns-YJDX5E2XU4S1EjiqjhNBPZyfx3hL_acuZVCUHlNbLsYb6T3whwfG3abIgV-lxQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=NweJXpqjs2C07Geyy7QJgQ&oh=00_AfUPYqu7hCh6SRoR8MDAAH420Z4WyfgAFXgzRz1Fl4F1gA&oe=68A22322",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500907048_670415849104051_3479242864766735044_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=1axwOjJTZJQQ7kNvwFdc3Ou&_nc_oc=Adk7T-qYBruooERzFF5v277Xj1lVTQ6u4yH6dCCAAhpYOhUdDy_6v35_dFKr9-GcLg8&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=NweJXpqjs2C07Geyy7QJgQ&oh=00_AfVexXu2_DH32sBXNShiK6v1K1OMVfHUm44Itu0z9cooCg&oe=68A209B5"
-    ],
-    "group_id": "1153492868683957",
-    "group_name": "Cộng Đồng Người Chơi Kubet - Au88",
-    "group_url": "https://www.facebook.com/groups/1153492868683957/",
     "group_thumbnail": ""
   },
   {
@@ -1135,43 +940,6 @@ window.completePostsData = [
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/503496481_1856563525127708_1261405143468637270_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=43L88gkic5UQ7kNvwFqL8gr&_nc_oc=AdmlOTvbRlbxuGPr350c_gN2mshNVXwVMmb_T-WOJDqOTDjRbdV7kPcJrYrl2SYIBhE&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=2R3vBYg03Jr09AqdNBZ1wg&oh=00_AfXoIiNs62k0TNWhB5aTnXKQwvBMJ87JQ5nxs2ulTiN3AQ&oe=68A22051",
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/503702325_1856563751794352_8186087975263684335_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=hx08nTnwhtgQ7kNvwG2FPWg&_nc_oc=AdnTdyepopeBhWsUddXDBwas2rIfNBhcJtjfa3z650quCAMoOHH8Fzz2VvHeqhB8CAU&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=2R3vBYg03Jr09AqdNBZ1wg&oh=00_AfUJPc2vfiTmnoYggdt2J7H5ua77feUcP481qtF1cx4amw&oe=68A22F21",
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/503873206_1856563668461027_8874936661464261061_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=TQdC07c081kQ7kNvwEPmoxw&_nc_oc=AdlTveXPk2dFOG9XEkzkPt-4IX9qhyJbwIB-EsBWo-3D-JOJhZRjoftTWUX1NUf-Gi8&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=2R3vBYg03Jr09AqdNBZ1wg&oh=00_AfU6_KFdYPyx4LUqG7Sg9m9AyROh2A-jzKPEIP4izbx8Ag&oe=68A22AA4"
-    ],
-    "group_id": "851917111496859",
-    "group_name": "Cộng Đồng Người Việt Nam Tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/TuyenDung.VCIK/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100023222341190",
-    "author": "박준수",
-    "author_url": "https://www.facebook.com/bagjunsu.368355",
-    "post_url": "https://www.facebook.com/groups/TuyenDung.VCIK/permalink/10064819033539908/",
-    "time": "2025-05-15 20:42",
-    "message": "Hàn Quốc\nChúng tôi đang tìm người làm việc tại trang trại.\nĐịa điểm: 전라북도 고창\nChúng tôi sử dụng dưa hấu, dưa lưới, bắp cải, hành tây, khoai lang, gạo, đậu, v.v.\n🧒Nam ₩100.000~130.000\n👧Nữ ₩90.000~110.000\n₩Thanh toán tiền mặt trong ngày₩\nGửi tin nhắn đến 010-4937-0584",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/497667484_1842390936544967_4851604356721803299_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=GHv2fgfa-SEQ7kNvwG8r-x3&_nc_oc=Adn28BuIQelPvdSi46CkgI__ve2t8k25FdMPvykwrOU6BD4GYbqQrjCTcpA8WowUDss&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=2R3vBYg03Jr09AqdNBZ1wg&oh=00_AfW16vnDBxpEKWBvDXYf-4M17HHTC16p_wbFX200fGLSsw&oe=68A21B98",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/497650740_1842390869878307_2468978153741498621_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=EW9V7HdszocQ7kNvwEr2GWY&_nc_oc=AdlLJCZNCtAoYU3eb4gQ1KkK9LqHydFdoOqxSg_EjLYd5Azgf_HS_jJDFQwSxODhMq4&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=2R3vBYg03Jr09AqdNBZ1wg&oh=00_AfWzg3A05Bq10k9LSKPZTFdsLCZztlxJZdyoUIrnCwDusA&oe=68A2186A",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/497638903_1842390836544977_782357774757467408_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=k-KpkHP8FdEQ7kNvwG-81wL&_nc_oc=AdmRzUpWNMO6y9T2Iy7uLJsl5hRWOnvVOl9BJkDySo-TXjJfm1T5fj2W1dIPpxOm2RE&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=2R3vBYg03Jr09AqdNBZ1wg&oh=00_AfXdIrmKPGNLw8maTz7r3tO8rkpKjMHTKKopwWox1HngPQ&oe=68A2076C",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/497805304_1842390973211630_58697076062749550_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=xh1txqyKvvUQ7kNvwG_00AZ&_nc_oc=Admd4kS7vH6lu6Ghnkaqgn0FLqybZKSqM7KTCjMU6R5OCjxg9BAlEwh9l6A-bK_5-04&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=2R3vBYg03Jr09AqdNBZ1wg&oh=00_AfXvocHV128NazzmLj1IEqbWfTlNXDJ5IoD_XYKCzYPopQ&oe=68A21B18"
-    ],
-    "group_id": "851917111496859",
-    "group_name": "Cộng Đồng Người Việt Nam Tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/TuyenDung.VCIK/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100023222341190",
-    "author": "박준수",
-    "author_url": "https://www.facebook.com/bagjunsu.368355",
-    "post_url": "https://www.facebook.com/groups/TuyenDung.VCIK/permalink/23912111871717390/",
-    "time": "2025-05-26 21:07",
-    "message": "Hàn Quốc \nChỉ dành cho người lao động dài hạn, vui lòng liên hệ với chúng tôi\nChúng tôi đang tìm người làm việc tại trang trại của chúng tôi.\nĐịa điểm: 전라북도 고창\nChúng tôi sử dụng dưa hấu, dưa lưới, bắp cải, hành tây, khoai lang, gạo, đậu, v.v.\n🧒Nam ₩100.000~130.000\n👧Nữ ₩90.000~110.000\n₩Thanh toán tiền mặt trong ngày₩\nGửi tin nhắn đến 010-4937-0584\nĐừng lo lắng. Tôi có một người bạn Việt Nam.",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/499983546_1850542052396522_2731328371071028961_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=B3Rx7XQQX5EQ7kNvwGzGpwI&_nc_oc=AdnN8zHQ5MxCjW2vlOn987LqNPLxZk7C6_0a8RbCaK6WUSnGgyRNVCq_jAJXvDj1F2o&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=2R3vBYg03Jr09AqdNBZ1wg&oh=00_AfUrhb0c7ZNUbpb8a_vy0iTDE4WebJSAp8Zb7Xy5ZxWeHQ&oe=68A2250E",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500032377_1850541942396533_3133534096913371226_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=4i5hPz0KirMQ7kNvwGZBm5f&_nc_oc=AdnuKxFpm2zaBtH_iqC-zRYivtp30gxKz9I7SGgTKAm3_IwUGiFwSQGUZxLugO1kYUs&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=2R3vBYg03Jr09AqdNBZ1wg&oh=00_AfX6f5Xr09M9z6315R59Ye06ABzgBfF1MZDcRQVuPuwYyQ&oe=68A21A23",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500365891_1850541995729861_5430340658358839023_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=JferiR-j_f8Q7kNvwHpCBfS&_nc_oc=AdlbQEVUKgby9ifdIc2qIMPi9-8l4TXBhrBxh1VRjPvlqEpuhthK6LGkOx_y-hNGQvI&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=2R3vBYg03Jr09AqdNBZ1wg&oh=00_AfUyONMRZosrMsPQIOIuWUhI_i-HTeRQLUB1eZSkUpA-CQ&oe=68A2171E",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500434314_1850542089063185_8714962290425065589_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=qSnufcvxHVMQ7kNvwHfaBBS&_nc_oc=AdmpoJOm-ZulK3Ss2QM1BUdT36gKOPmAZ975Vt0m_OsnYw50liQCaKgwInL4mLD67bc&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=2R3vBYg03Jr09AqdNBZ1wg&oh=00_AfWX_badJb08YPyp8guASQy-4oYEnw5r5m4EV0YJOeKA7w&oe=68A20D4B",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500709124_1850541875729873_591670357706539046_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=md_m22DeCtMQ7kNvwHBI2IP&_nc_oc=AdkscpF7oPHHQFDfQUMMNk1td7CdbvzVpMffNhk4gFzjr9WbwGmyR4CJJoPoYgaw3ks&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=2R3vBYg03Jr09AqdNBZ1wg&oh=00_AfWnOe7bdW1TizWJ2cLPC6jQPBNDxhN6RJWYxIZo23y0zQ&oe=68A213B6"
     ],
     "group_id": "851917111496859",
     "group_name": "Cộng Đồng Người Việt Nam Tại Hàn Quốc",
@@ -1328,24 +1096,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100084069247571",
-    "author": "Phạm Thị Huyền Trang",
-    "author_url": "https://www.facebook.com/pham.thi.huyen.trang.419922",
-    "post_url": "https://www.facebook.com/groups/2397515367104845/permalink/2647731575416555/",
-    "time": "2025-05-23 11:05",
-    "message": "- Góc tuyển lao động Chủ doanh nghiệp bảo lãnh tại H.àn Q.uốc \n\n- Xưởng mình đang cần tuyển người làm thực phẩm, nhân sâm , nấm linh chi...,   (  vị trí làm việc  ) như lái xe giao hàng , vệ sinh thực phẩm , kiểm hàng sản xuất và đóng gói ...vv \n\n- Làm việc ngày 8 tiếng làm giờ hành chính từ 8h sáng đến 5h chiều . \n\n- ngoài 8 tiếng giờ hành chính có thể sẽ tăng ca từ 2-3 tiếng mỗi ngày . Trung bình là 2 tiếng / ngày .\n\n- Làm việc từ thứ hai đến thứ bảy , thứ bảy sẽ tính vào giờ tăng ca 8h/ngày nghỉ , chủ nhật nghỉ",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500255085_666690616143241_758231963726006648_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=YuHNIGk_TLkQ7kNvwGIgkWr&_nc_oc=Adk8ActEPsIW6lrXHI2zA3EnyKtkjun24P7eCQY4PjW8vDjZLcb27lslfuaE7SNc21Y&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=ZOA9It4eLbmUa4kUpPFneA&oh=00_AfUzSiyFAJyb5UAbdEHP0mF5HeuNsCgVRkV_e9dOnquc5g&oe=68A22793",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500956461_666690686143234_2459645217702795438_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=nkyAT1-yiioQ7kNvwF3HC_0&_nc_oc=AdnaB6TY419A3sTNCkgv-5sfHAPG_oNyDISIV4AODz9kQoOapvE41a4mTy07O9zTqDM&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=ZOA9It4eLbmUa4kUpPFneA&oh=00_AfUNN8qYgz769AN9jKg-gt_8d5XXu-4T5KjDKGTiS0m1aA&oe=68A2054D",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/499226731_666690759476560_6812411964920859214_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=rHEWJbC9AZEQ7kNvwGKDi-d&_nc_oc=AdmSLMEs5vom-svH_PN9DjItjaO4dkJm5TPlZIxTbg_9e5aBKRFsqsXHKX20wu98bTs&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=ZOA9It4eLbmUa4kUpPFneA&oh=00_AfU17_C--Pmw0YX_iSRH6DTdCfbtw3qCUA6Vp0NzZMQihQ&oe=68A224C7",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/498675623_666690556143247_5611589302470526620_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=P1H3AOClc-cQ7kNvwEq2byK&_nc_oc=AdnRHQ1iz9YEySQQrxNQ2qiuZHioOvd_WX_0kqV-5ShqqT9vMDQd-dZm4sUU5IsVwE4&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=ZOA9It4eLbmUa4kUpPFneA&oh=00_AfWuqhOpNn6lkidWAYc9AUe2wXuVO_jrdvTEPCxRgO7ptw&oe=68A20700"
-    ],
-    "group_id": "2397515367104845",
-    "group_name": "Hội Tìm Việc Làm tại Miền Nam Hàn Quốc(광주,나주,목포,…)",
-    "group_url": "https://www.facebook.com/groups/2397515367104845/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100012573558912",
     "author": "Phuong Linh Nguyen",
     "author_url": "https://www.facebook.com/phuong.linh.nguyen.347864",
@@ -1391,19 +1141,6 @@ window.completePostsData = [
     "post_url": "https://www.facebook.com/groups/1528176430949368/permalink/2273477733085897/",
     "time": "2025-08-06 22:28",
     "message": "Cần tìm người làm theo ca  RỬA BÁT Sáng: 8h đến 11h Chiều: 14h đến 17h Tối: 19h đến 22h  (Rảnh có thể làm 3ca) Ai làm được ib em…",
-    "media_urls": [],
-    "group_id": "1528176430949368",
-    "group_name": "Nhóm Người Việt Nam tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/1528176430949368/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "61575616795072",
-    "author": "Mỹ Hạnh",
-    "author_url": "https://www.facebook.com/profile.php?id=61575616795072",
-    "post_url": "https://www.facebook.com/groups/1528176430949368/permalink/2184802861953385/",
-    "time": "2025-04-28 15:54",
-    "message": "cần người làm thêm\nCo‌ng vie‌‌c: Đóng gói cơm hộp cho xưởng đồ ăn \nthời gian làm việc\nsáng - chiều - tối - đêm\nlàm T7 CN cũng dc lương \nKo yêu cầu tiếng. Cty có người việt hướng dẫn.\nPhỏng vấn đi làm luôn\nAi làm dc ib trao đổi công việc cụ thể\ncảm ơn đã đọc bài viết...",
     "media_urls": [],
     "group_id": "1528176430949368",
     "group_name": "Nhóm Người Việt Nam tại Hàn Quốc",
@@ -1512,19 +1249,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100091733918219",
-    "author": "Trần Quỳnh",
-    "author_url": "https://www.facebook.com/profile.php?id=100091733918219",
-    "post_url": "https://www.facebook.com/groups/2949142995370129/permalink/4030075397276878/",
-    "time": "2025-02-18 13:20",
-    "message": "cần người làm thêm\nCông việc: Làm về dán tem\nthời gian làm việc\nsáng - chiều - tối - đêm\nlàm T7 CN cũng dc\nKo yêu cầu tiếng. Cty có người việt hướng dẫn.\nLương 800.000krw / tuần (ưu tiên nữ)\nAi làm dc ib trao đổi công việc cụ thể.",
-    "media_urls": [],
-    "group_id": "2949142995370129",
-    "group_name": "Hội người Việt tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/2949142995370129/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100023222341190",
     "author": "박준수",
     "author_url": "https://www.facebook.com/bagjunsu.368355",
@@ -1537,23 +1261,6 @@ window.completePostsData = [
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/503650302_1855824561868271_7014109618294829234_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=fW0dSDSaUmIQ7kNvwEdWMul&_nc_oc=Adn1PQgF7LzoQTGK_c86UK-jGnUcPxnyzi0Nlc7xRHEk6vpCnaQXYgf7SL61ZEsiHqo&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=ZvUFBYfri1af6Fx53d44aA&oh=00_AfUsLg7x1KU6Klwl_yPiGQmWpmikGrEw6kMSXxmr6MOMpg&oe=68A21584",
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/503490161_1855824598534934_7590979351155950554_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=U52WHK01bfwQ7kNvwH2aVCf&_nc_oc=Adn5VTrVXbpj04UW2yrcZTGrMXREyynt4033Mxnfew62ubVLchGr-cxOGZcgmVD_TBU&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=ZvUFBYfri1af6Fx53d44aA&oh=00_AfWjF7GJMOtHRpNyY9RSS2N8T2OMlUML0QBd3S8hLdkBZg&oe=68A22BAD",
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/503737923_1855824508534943_5011110888923606609_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=zNrms2vM_6wQ7kNvwGsDy7Z&_nc_oc=Adkd9pFTowLROEengxy3YimWsb-Cqv7EYcqbkOVU0KeR9u0jqVXgmM9vzX57lCzJPY0&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=ZvUFBYfri1af6Fx53d44aA&oh=00_AfXxRk160kDh2SWM20RKnxsrfJ2MQCiNh9FRK-yD_frwng&oe=68A20995"
-    ],
-    "group_id": "966518818007362",
-    "group_name": "CỘNG ĐỒNG NGƯỜI VIỆT TẠI HÀN QUỐC ✅",
-    "group_url": "https://www.facebook.com/groups/966518818007362/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100023222341190",
-    "author": "박준수",
-    "author_url": "https://www.facebook.com/bagjunsu.368355",
-    "post_url": "https://www.facebook.com/groups/966518818007362/permalink/1369927114333195/",
-    "time": "2025-04-25 15:52",
-    "message": "Hàn Quốc\nChúng tôi đang tìm người làm việc tại trang trại.\nĐịa điểm: Gochang, Jeollabuk-do\nChúng tôi sử dụng dưa hấu, dưa lưới, bắp cải, hành tây, khoai lang, gạo, đậu, v.v.\n🧒Nam ₩100.000~130.000\n👧Nữ ₩90.000~110.000\n₩Thanh toán tiền mặt trong ngày₩\nGửi tin nhắn đến 010-4937-0584\n👧Phụ nữ cung cấp chỗ ở",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/492586507_1827569001360494_7368978732349776975_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=mUzcqICAOBYQ7kNvwEnz1Va&_nc_oc=AdkSo8WIz2oVWSiZ15yejmqddSikPE52Dj1dvsolPS8Hs-OM5-j-V4h8sC0DMdo7T90&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=ZvUFBYfri1af6Fx53d44aA&oh=00_AfWTdlwv8aokz4L70Apfse7gv-2k4OIVVVZUW5UuDGZQrg&oe=68A20962",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/492357706_1827568898027171_5875286512227755807_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=W8JQrWzmxsMQ7kNvwEEYQO3&_nc_oc=AdkowOFCNkAB4SP5LNd_LhLrrMPLMiTsDm49tZirafgK2Zs6veqV_S3Uaiht6ZLQFSc&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=ZvUFBYfri1af6Fx53d44aA&oh=00_AfVchYRJNOYNP1HZ8yvZ9QWK2xRyuS2ukIGZSyihJixSxA&oe=68A210EB",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/492481763_1827568958027165_267525359508627630_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Jum9omfztmcQ7kNvwF8goPr&_nc_oc=Adl0t51TgXLws0Gzz2Me8y91XXmu5V3UIPLGmevaaAci2xu-y4BJAQ7l7H16pG5USSg&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=ZvUFBYfri1af6Fx53d44aA&oh=00_AfV0OJHoy5i5DJIAC2Sf1i5k7pVoUENpPdQ8ZDPn3tcVXg&oe=68A22829"
     ],
     "group_id": "966518818007362",
     "group_name": "CỘNG ĐỒNG NGƯỜI VIỆT TẠI HÀN QUỐC ✅",
@@ -1620,21 +1327,6 @@ window.completePostsData = [
     "time": "2025-06-19 13:41",
     "message": "Em là du học sinh, mới sang Hàn đc 6th\nEm đang học ở Keimyung University tỉnh Deagu, cần tìm việc làm partime trong tỉnh Deagu, thời gian từ 18h đến 23h hoặc sáng từ 6h-12h Mong đc các ac ở cộng đồng giúp đỡ, em có thể đi làm cv gì cũng được ạ!\nMn có công việc gì cần tìm người làm partime xin ib cho e!  Cám ơn mn ạ!",
     "media_urls": [],
-    "group_id": "538003996222845",
-    "group_name": "Cộng Đồng người VIỆT NAM Tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/538003996222845/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100091362355246",
-    "author": "Ji Won",
-    "author_url": "https://www.facebook.com/ji.won.665031",
-    "post_url": "https://www.facebook.com/groups/538003996222845/permalink/23979461938317054/",
-    "time": "2025-05-30 16:11",
-    "message": "** Làm việc tại ruộng tỏi ở Changnyeong, Gyeongnam**\n **Lương mỗi ngày: 120.000 ~ 140.000 won**\n **Giờ làm việc: 06:30 ~ 17:30 (6 ngày/tuần)**\n **Có chỗ ở (có phí)**",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/501593770_633082373080502_4105860830819659144_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ygfyPai0kNIQ7kNvwG1exI7&_nc_oc=AdlRl9XScRmA9eKaNxUptrE5xl7DfFBzsGITrxCQFMkrjCVfmFOdRGLosVlf7IFohYo&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=qUgCOgPgWNokOiOEzy_U5A&oh=00_AfXh4QFLrxUIp1GcYzEyvf65C2U2B2PK4hjPyVU7p3_JVw&oe=68A20E67"
-    ],
     "group_id": "538003996222845",
     "group_name": "Cộng Đồng người VIỆT NAM Tại Hàn Quốc",
     "group_url": "https://www.facebook.com/groups/538003996222845/",
@@ -1726,21 +1418,6 @@ window.completePostsData = [
     "message": "🎥 Tuyển Livestream Seller tại SEOUL \n💼 Freelancer / Theo dự án  \n📍 Làm việc tại studio của Sellerket ở Seoul\n\nSellerket là nền tảng kết nối các influencer với thương hiệu Hàn. Chúng tôi đang tìm người livestream sản phẩm Hàn Quốc!\n\n✨ Công việc:\n- Livestream giới thiệu & bán sản phẩm\n- Giao lưu với người xem, chốt đơn\n- Xử lý đơn hàng sau livestream  \n- Chọn sản phẩm có sẵn hoặc đề xuất món hot ở nước bạn\n\n📌 Yêu cầu:\n- Đang sống ở Hàn Quốc  \n- Tự tin trước ống kính  \n- Có ~5.000 followers là lợi thế  \n- Livestream bằng tiếng Anh, Hàn, Tây Ban Nha... tùy đối tượng\n\n💰 Thù lao: ₩50,000 / buổi livestream  \n🎁 Nhận mẫu miễn phí + hoa hồng đến 70%  \n🏷️ Studio, ánh sáng, thiết bị đầy đủ  \n🕒 Thời gian linh hoạt, bạn chọn khung giờ\n\n🌟 Quyền lợi:\n- Môi trường chuyên nghiệp  \n- Xây thương hiệu cá nhân  \n- Tiếp cận sản phẩm Hàn Quốc hot hit\n\n📩Ứng tuyển bằng cách nhắn tin cho mình nhé!",
     "media_urls": [
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/515442217_744526138365362_1805340020840635210_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=eMUpuAo8sU4Q7kNvwG2jL15&_nc_oc=AdmCwqZ14k2idzEbMeT1Jph-PWHh36m_WzeNFTFyesTP4gxH4nhwW-YHjeebktn9vqo&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Yk1W_qMVRXSKEYbAaz6rDg&oh=00_AfXg_90GAc5pJ8DDZLZ90qt8BrHCZxvdmRu10_IoIWMatw&oe=68A214E3"
-    ],
-    "group_id": "756567961541813",
-    "group_name": "Cộng đồng người Việt tại Hàn Quốc 🇰🇷",
-    "group_url": "https://www.facebook.com/groups/756567961541813/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100004969215375",
-    "author": "Thúy Hồng",
-    "author_url": "https://www.facebook.com/profile.php?id=100004969215375",
-    "post_url": "https://www.facebook.com/groups/756567961541813/permalink/1961014444430486/",
-    "time": "2025-05-29 21:49",
-    "message": "Hiện tại công ty 1 số lđ sắp hết hợp đồng. Do Công ty công việc nhiều. Nên chủ có nhờ em cần tìm 2nam 3 nư ( ưu tiên cặp Vk,  Ck )\n-Thời hạn hợp đồng:  3 năm\n-Tăng ca : Mỗi  ngày tăng ca từ 2- 3 tiếng/1ngày  Thứ 7 và  chủ nhật tăng ca theo quản lý sắp xếp\n-Yêu cầu: Nam nu tuổi từ 18 - 55, chăm chỉ, chịu khó, có trách nhiệm trong công việc…\n-Làm việc tại HÀN_QUỐC  . Ai quan tâm ib em..",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/513933873_3126824280826515_3171981431273473218_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=UUO_lsR3-kMQ7kNvwG48eVL&_nc_oc=Adl7MCJ9_s9I91QRfR3HB17Recr40EveUMbBNaPQTRiHTWgUf08WtS9JQ3NI009M4NE&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=hz6Mo8f55p1JGjHBgPgHMA&oh=00_AfWFZq4goTbolNP4KJFVXLQJ6D-fhVErUtOmgDZ6qnipZw&oe=68A2160E"
     ],
     "group_id": "756567961541813",
     "group_name": "Cộng đồng người Việt tại Hàn Quốc 🇰🇷",
@@ -2035,19 +1712,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100056234130919",
-    "author": "손길석",
-    "author_url": "https://www.facebook.com/songilseog.535042",
-    "post_url": "https://www.facebook.com/groups/2613394665575776/permalink/4231710420410851/",
-    "time": "2025-05-25 07:39",
-    "message": "một công ty có nhiều việc làm, hơn 4 triệu mỗi tháng\n010-7227-0277 \nVị trí: Bukjeong-dong, Yangsan\nNhững gì bạn làm: lắp ráp, cnc\nGiờ: 8h đến 20h, 20h đến 8h\nLương: 4.000.000-5.000.000\nNgày nhận lương: 31 ngày\nKý túc xá, trợ cấp làm thêm, trợ cấp ban đêm, trợ cấp nghỉ phép hàng tuần,",
-    "media_urls": [],
-    "group_id": "2613394665575776",
-    "group_name": "🇰🇷 KOREA NGƯỜI TÌM VIỆC 🇻🇳 VIỆC TÌM NGƯỜI",
-    "group_url": "https://www.facebook.com/groups/2613394665575776/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100003160477633",
     "author": "Long Vương",
     "author_url": "https://www.facebook.com/vuonglong87",
@@ -2063,19 +1727,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "6091999954150735",
-    "author": "Người tham gia ẩn danh",
-    "author_url": null,
-    "post_url": "https://www.facebook.com/groups/2894611757468435/permalink/3907759622820305/",
-    "time": "2025-03-13 16:45",
-    "message": "em Tha thiết muốn tìm việc ca đêm ạh \nquán xưởng gì cũng đc ạh\nthứ2 e học sáng nên chỉ làm đc ca đêm /cuối tuần e học kiip nên có thể làm từ sáng đến 5h chiều ạh\n🥺🥺🥺 Mọi ng có biết quán nào nhận làm trong tuần hoặc xưởng may nào nhận ca đêm cho e xin 1 vé vs ạh",
-    "media_urls": [],
-    "group_id": "2894611757468435",
-    "group_name": "Việc Làm Cho Sinh Viên Tại Hàn Quốc Official Group",
-    "group_url": "https://www.facebook.com/groups/2894611757468435/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100086641453699",
     "author": "Hà Toàn Tiến",
     "author_url": "https://www.facebook.com/hatientoan2k",
@@ -2086,25 +1737,6 @@ window.completePostsData = [
     "group_id": "2894611757468435",
     "group_name": "Việc Làm Cho Sinh Viên Tại Hàn Quốc Official Group",
     "group_url": "https://www.facebook.com/groups/2894611757468435/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "61563281730772",
-    "author": "Diễm Bích",
-    "author_url": "https://www.facebook.com/diem.bich.236643",
-    "post_url": "https://www.facebook.com/groups/763732575648889/permalink/1063260902362720/",
-    "time": "2025-05-23 12:00",
-    "message": "✈️ **GỬI THỨC ĂN ĐÓNG HỘP ĐI HÀN QUỐC - NHANH CHÓNG, AN TOÀN CÙNG SẢI CÁNH EXPRESS!** 🇰🇷📦\n\nBạn muốn gửi **mắm ruốc, chà bông, cá hộp, thịt kho, mì gói, lương khô,...** cho người thân tại Hàn?\nSải Cánh Express chuyên nhận **gửi hàng thực phẩm đóng hộp đi Hàn Quốc**, đảm bảo **nhanh – chuẩn – tiết kiệm**!\n\n---------------------------------------------------\n\n💚 **Dịch vụ tận tâm - Quy trình chuyên nghiệp:**\n✅ Đóng gói cẩn thận, đúng quy định hải quan\n✅ Hỗ trợ thủ tục khai báo thực phẩm\n✅ Giao hàng tận nơi tại Hàn Quốc\n✅ Cam kết không phát sinh chi phí ẩn\n\n🌟 Gửi yêu thương, giữ trọn hương vị quê nhà – Đừng để người thân xa xứ nhớ nhà quá lâu!\n\n--------------------------------------------------\n\n📍 **Địa chỉ:** 241 Hoàng Hoa Thám, phường 13, Tân Bình, TP.HCM \n📞 **Hotline tư vấn:** 0913842039 (Bích Diễm SC)\n\n📦 **Nhận hàng – Giao tận tay – An tâm trọn gói!**\n\n🧡 **SẢI CÁNH EXPRESS – Gửi gắm niềm tin, bay xa yêu thương!**\n\n#GửiHàngĐiHànQuốc\n#ThứcĂnĐóngHộp\n#SảiCánhExpress\n#GửiHàngNhanhChóng\n#GửiYêuThươngĐiXa\n#ShipHàngĐiHàn\n#ExpressVietnamToKorea",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500200946_122161743650442724_1801320967056017981_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=kMRyh19tcMAQ7kNvwGlOwsM&_nc_oc=AdkFApKMDZb8ppDnB_VDndYSB2CwjphUj_zJP1kiDU76Xj-U8A_iVlLiKPBQnivHAWI&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=-piex-IDIV5B7prv0VMSOg&oh=00_AfUBA6rhI3c4oWB2EFmlQ3cUvj7Y8PAAhdHJW431itMiVQ&oe=68A23AA5",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500076520_122161743728442724_7737959658485015266_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=PCw31663jDkQ7kNvwF8ycAC&_nc_oc=AdkOEMqHjtULAWwcWZ-ttkrXwN7U15TdSlvSykUFlT_xaopNVyl1xG62VNn3e9-5DME&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=-piex-IDIV5B7prv0VMSOg&oh=00_AfUutKkjpFt0HkDSXvRZ5FMJAh7CWunzuJx-L8CoGKG-jw&oe=68A23764",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500201168_122161743194442724_4965332464416276242_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=JTakUTKLZjAQ7kNvwGUUAJJ&_nc_oc=AdkEVT3pvGVd6V7YPecYcrH2vvDWcfDF9rYuHHwRW5OCTOtnwsd63RpBRUSC1_gesVo&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=-piex-IDIV5B7prv0VMSOg&oh=00_AfW9-wbKFpUHs82XJZPN4efWpLu8LDGSoiCD4JJZJKtWVw&oe=68A233A1",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500067505_122161743788442724_443774561123694856_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=LSnUoN0DxgQQ7kNvwFg1wDd&_nc_oc=AdnK7Lq9oqEpKQefQkBQbGH_0e2o0-hP55hXRPVd7uLiFbRbRCA8FVdJIjMyf2md86o&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=-piex-IDIV5B7prv0VMSOg&oh=00_AfXfTN71DvC8GwVC_2o6nCXurdDKsynBtXgtf_l_MXfeHQ&oe=68A20E41",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500230167_122161743842442724_6906895030156539486_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=D0d5BguMdkgQ7kNvwEzdHUc&_nc_oc=Adm2nU89PLPAjsWbRJyHSuCBxQ21jzadilXSEnHvNoaCVntQRf0ITk0iH4A0Bbxj2KI&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=-piex-IDIV5B7prv0VMSOg&oh=00_AfUj614Nfudg588UiZqKaHI-T4yRtANIcIxDG-9u09iVZA&oe=68A228B8"
-    ],
-    "group_id": "763732575648889",
-    "group_name": "Tìm Việc & Tìm Nhà ở Hàn Quốc (Korea) 🟣",
-    "group_url": "https://www.facebook.com/groups/763732575648889/",
     "group_thumbnail": ""
   },
   {
@@ -2194,19 +1826,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "61550727167516",
-    "author": "Dương Bốc Vác",
-    "author_url": "https://www.facebook.com/duong.boc.vac",
-    "post_url": "https://www.facebook.com/groups/638054477110764/permalink/1765728884343312/",
-    "time": "2025-05-20 21:07",
-    "message": "청주시 mình cần: 1 thợ, 1 phụ và một học việc làm sắt , biết buộc rồi thì càng tốt( thanh niên nhanh nhẹn nhiệt tình)\nlương tuần, lương tháng\nko gối\nbao nhà, xe đưa đón tận cổng\nae nào muốn đổi gió thì call em\n01082720342",
-    "media_urls": [],
-    "group_id": "638054477110764",
-    "group_name": "[korea] Việc Tìm Người- Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/638054477110764/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "61561163260920",
     "author": "Thùy Nguyễn",
     "author_url": "https://www.facebook.com/thuy.nguyen.82631",
@@ -2250,25 +1869,6 @@ window.completePostsData = [
     "message": "🎯 BẠN ĐÃ BIẾT CÁCH LẤY LẠI TIỀN KHI CHUYỂN KHOẢN NHẦM Ở HÀN QUỐC CHƯA?\n\nTuần trước, một khách hàng, cũng là người lao động Việt đang làm việc tại Hàn Quốc không may chuyển nhầm 3 triệu won vào tài khoản của một đồng hương. Nghĩ đơn giản rằng chỉ cần gọi điện giải thích là có thể xin lại, nhưng vừa gọi thì người kia đã lập tức chặn số, không phản hồi gì thêm.\n\nBiết mình từng làm trong ngành ngân hàng, bạn ấy đã ngay lập tức gọi cho mình để nhờ hỗ trợ. Và khi nghe xong câu chuyện, mình chỉ nghĩ: “Chuyện này không hề hiếm – và ai cũng có thể rơi vào hoàn cảnh đó, chỉ vì một giây bất cẩn.”\n\nVì vậy, nếu bạn (hoặc người thân, bạn bè) không may gặp phải tình huống tương tự, đừng hoang mang hay buông xuôi. Hãy bình tĩnh làm theo các bước dưới đây – vẫn có cách hợp pháp để lấy lại số tiền đã chuyển nhầm.\n\n✅ Trình tự các bước thực hiện khi chuyển nhầm tiền tại Hàn Quốc\n\nBước 1: Liên hệ ngay với ngân hàng: \n🔸Gọi đến tổng đài hoặc đến chi nhánh của ngân hàng bạn dùng để chuyển tiền.\n🔸Cung cấp bằng chứng giao dịch: ảnh chụp chuyển khoản, mã giao dịch, thông tin người nhận.\n🔸Yêu cầu ngân hàng gửi thông báo hoàn tiền đến người nhận.\n\nBước 2: Nếu ngân hàng không xử lý được >> liên hệ với KDIC\n🔸 Cơ quan hỗ trợ: KDIC – 예금보험공사 (tổng công ty bảo hiểm tiền gửi)\n🔸 Dịch vụ: 착오송금 반환지원 (Hỗ trợ hoàn tiền chuyển nhầm)\n\n➤ Điều kiện:\n🔸Giao dịch sau 06.07.2021\n🔸Số tiền từ 50,000 KRW đến 100 triệu KRW\n🔸Đăng ký trong vòng 1 năm kể từ ngày chuyển nhầm\n\n➤ Đăng ký tại:\n📍 [https://fins.kdic.or.kr](https://fins.kdic.or.kr)\n\n➤ Hồ sơ gồm:\n🔸Thẻ người nước ngoài\n🔸Giấy xác nhận giao dịch (이체확인증)\n🔸Bằng chứng liên hệ với người nhận (nếu có)\n\nBước 3: KDIC xử lý\n🔸KDIC sẽ đại diện bạn gửi yêu cầu hoàn trả đến người nhận\n🔸Nếu không tự nguyện hoàn trả: KDIC sẽ nộp đơn ra tòa án yêu cầu lệnh thanh toán\n🔸Sau khi thu lại tiền, KDIC sẽ hoàn lại cho bạn (sau khi trừ chi phí xử lý)\n\n📌 Ghi nhớ:\n🔸Càng xử lý sớm, cơ hội lấy lại tiền càng cao\n🔸Giữ lại tất cả bằng chứng giao dịch và liên lạc\n🔸Pháp luật Hàn Quốc có cơ chế bảo vệ bạn – đừng bỏ cuộc!\n\nHãy chia sẻ để cộng đồng người Việt mình cùng biết - để nếu chẳng may rơi vào tình huống tương tự, không ai phải chịu mất mát oan uổng! 🇻🇳🤝🇰🇷",
     "media_urls": [
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/523546049_4200607316884701_7348694757640397267_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=1isTcQBE3EUQ7kNvwE3f6ux&_nc_oc=AdlREGlpEs6w7dJLBsP28J00BzZdJnBmJq228QavdqHkPiBiQYPbPJ3ycT3XXcaqgD4&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=XO7K_UscjOtL76erOjvUpQ&oh=00_AfXrrBXUwpQwS4H0V2F72M57VU3QP51f0om_O8G5lY2sXg&oe=68A20FB3"
-    ],
-    "group_id": "807191057392375",
-    "group_name": "Hội Người Việt Nam Tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/807191057392375/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100071452966493",
-    "author": "Quyen Quyen Ohui Kr",
-    "author_url": "https://www.facebook.com/quyen.quyen.ohui.kr",
-    "post_url": "https://www.facebook.com/groups/807191057392375/permalink/1443651050413036/",
-    "time": "2025-05-27 12:09",
-    "message": "Sẵn phòng 정왕동 đầy đủ đồ cho ai cần thuê tạm 1 vài tháng tìm việc hoặc chuyển xưởng. \n☎️ 010-3865-9171. Hoặc inbox nhé",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500034159_744474697944289_5653202406670231576_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=5CZ1f6QZirgQ7kNvwHUGU0Q&_nc_oc=AdkeuN6vFbrgsHPodKqQmRQVkLOsW1NKjhEk36UHHOMSTuIeSuZHk-ATAmbS9K9c1xM&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=oSa7zB9HAJ5vzEvjuZD_Dw&oh=00_AfXSmGTa7Wzy9k2IcQe12wz2FygnR95jbGRCtbE_pceuAA&oe=68A227C3",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500004410_744474657944293_8843781984370377715_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Yum_cGRakSoQ7kNvwFSAWGw&_nc_oc=AdkZVqVY35FxQEeoEUDE_kuSAaMgqIP1mY4lCRDC46jPjHPXsNdXA7upQAuH4uq5nCo&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=oSa7zB9HAJ5vzEvjuZD_Dw&oh=00_AfWdXifBqNt-JFJkwVwIGGqZjNcT_VRA7jnvcO9R3HFQfA&oe=68A20A2C",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/501174362_744474687944290_6106475878124641392_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=gjeXrxY5-yQQ7kNvwEoOMNj&_nc_oc=AdmOSAcGEV_XqMowK6TkCVXcZP7sOXPpD0UyO2q8sFjduiw8D2ZOlwrUuJ31VkfXDdg&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=oSa7zB9HAJ5vzEvjuZD_Dw&oh=00_AfWmGHWRrofgOXXVf1p3f3lOTRA0v5VMAY8rs5iNcnT-1Q&oe=68A208B1",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500325640_744474727944286_8529276827810526904_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=UexS-NTttw0Q7kNvwERC7z7&_nc_oc=AdlDdpczDvF4sILVccKY54ntJtJ_GdxTSyDBiTCmN-JwBP3eueG84OvPf-ljgBkoupQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=oSa7zB9HAJ5vzEvjuZD_Dw&oh=00_AfXbkHSr8tD0GvQGxZeJhm7AEYS4z2TUe1U4WZpZzO1JSw&oe=68A20924",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/499981999_744474651277627_4459960406585206884_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=LWkIeZSa0UEQ7kNvwFjQU5v&_nc_oc=AdnUrg3AcnoLHqq4rildzTTgHWPzER2NoPp6tR3D0ds7ZgFJeRDl7qrJnMvWQ24q61s&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=oSa7zB9HAJ5vzEvjuZD_Dw&oh=00_AfWWVRE3i2Q67Bx7JBngRV708Pz_Mgt45dR3bHhPptc7Ug&oe=68A21071"
     ],
     "group_id": "807191057392375",
     "group_name": "Hội Người Việt Nam Tại Hàn Quốc",
@@ -2382,51 +1982,12 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "61552621286821",
-    "author": "Đào Lê",
-    "author_url": "https://www.facebook.com/aole.843490",
-    "post_url": "https://www.facebook.com/groups/nguoitimvieckorea/permalink/2412271075788903/",
-    "time": "2025-03-01 20:58",
-    "message": "Chị cần người phụ dọn dẹp sắp xếp hàng hoá, tạp vụ ở chợ Bà Hom, Bình Trị Đông. Lương 8.200.000/tháng. Chủ nhật nghỉ. Có căn cước đi làm ngay. Ưu tiên người lớn tuổi sức khoẻ tốt Không thu phí\nLh:0783364471 ( zalo hoặc gọi trực tiếp )",
-    "media_urls": [],
-    "group_id": "1577616979254321",
-    "group_name": "[korea] Người Tìm Việc - Việc Tìm Người",
-    "group_url": "https://www.facebook.com/groups/nguoitimvieckorea/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100083377359441",
     "author": "Nguyễn Văn Tùng",
     "author_url": "https://www.facebook.com/profile.php?id=100083377359441",
     "post_url": "https://www.facebook.com/groups/916913466278024/permalink/1423149595654406/",
     "time": "2025-08-11 21:24",
     "message": "**TÌM LAO ĐỘNG SANG HÀN QUỐC**\n\n**Cần Tuyển 2 lái xe nâng 2 lái xe tải 6 người làm nông nghiệp**\n\n**Ko yêu cầu tiếng .ko cần cọc**\n\n**Yêu cầu : Cần người cần cù chịu khó tích cực với công việc**\n\n**_ Ai thiện trí liên hệ mình trao đổi công việc cụ thể nhé**",
-    "media_urls": [],
-    "group_id": "916913466278024",
-    "group_name": "CỘNG ĐỒNG NGƯỜI VIỆT TẠI HÀN QUỐC",
-    "group_url": "https://www.facebook.com/groups/916913466278024/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100035041265542",
-    "author": "Quỳnh Diệu",
-    "author_url": "https://www.facebook.com/phuongdieu.huynh.180",
-    "post_url": "https://www.facebook.com/groups/916913466278024/permalink/1304072937562073/",
-    "time": "2025-03-04 20:22",
-    "message": "VIỆC TÌM NGƯỜI :\n- 08 chạy bàn\nThời gian : 17h~22h lương giờ 25k/h\nLễ tết lương 200% 300% theo quy định nhà nước.\nTăng lương theo năng lực, xét theo quý ( 3 tháng/lần )\nTuổi 25 đến 40. Có đồng phục. Quản lý mát tính. Ko soi mói.\nTuần nghỉ 1b. Tháng 4b\nKo cần tiếng Hàn. Biết càng tốt.\nTraining chuyên nghiệp, cv thoải mái.\n- 08 phụ bếp nam/nử : 25 đến 40 tuổi\nGiờ làm việc : 15h~22h ( có thỏa thuận )\n32k/h\nTuần nghỉ 1b. Lễ tết 200% 300% theo quy định.",
-    "media_urls": [],
-    "group_id": "916913466278024",
-    "group_name": "CỘNG ĐỒNG NGƯỜI VIỆT TẠI HÀN QUỐC",
-    "group_url": "https://www.facebook.com/groups/916913466278024/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100012069373759",
-    "author": "Phạm Nguyễn Bảo Thy",
-    "author_url": "https://www.facebook.com/baothy.pham.779",
-    "post_url": "https://www.facebook.com/groups/916913466278024/permalink/1276165673686133/",
-    "time": "2025-01-23 14:13",
-    "message": "Tìm 4 nữ 3 nam làm chung với mình . Lương thanh toán trong ngày . Liên hệ mình nhận việc nhé !",
     "media_urls": [],
     "group_id": "916913466278024",
     "group_name": "CỘNG ĐỒNG NGƯỜI VIỆT TẠI HÀN QUỐC",
@@ -2534,19 +2095,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100015271752811",
-    "author": "Hồ Thanh Ngân",
-    "author_url": "https://www.facebook.com/profile.php?id=100015271752811",
-    "post_url": "https://www.facebook.com/groups/333093109066410/permalink/673360701706314/",
-    "time": "2025-03-14 21:16",
-    "message": "Chào mn\nKhu vực 대구 Cty vợ chồng em đang làm đang cần tuyển thêm 6 bạn nhân viên . \nLương 7.5.k - 9.5.k ngày thanh toán vào cuối ngày .\nMọi người ai có thời gian và thực sự nghiêm túc tìm+Lm việc thì ib em gửi thông tin cho ạ .",
-    "media_urls": [],
-    "group_id": "333093109066410",
-    "group_name": "CỘNG ĐỒNG NGƯỜI VIỆT TẠI HÀN QUỐC",
-    "group_url": "https://www.facebook.com/groups/333093109066410/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100093299120961",
     "author": "Linh Thảo",
     "author_url": "https://www.facebook.com/linh.thao.669373",
@@ -2618,34 +2166,6 @@ window.completePostsData = [
     "group_id": "395584160522248",
     "group_name": "Tim viec korea",
     "group_url": "https://www.facebook.com/groups/395584160522248/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100008337198429",
-    "author": "Kim Areumhai",
-    "author_url": "https://www.facebook.com/kim.areumhai",
-    "post_url": "https://www.facebook.com/groups/395584160522248/permalink/9920667518013817/",
-    "time": "2025-05-12 07:09",
-    "message": "Nhà em cần người làm lê lâu dài ạ\nMôi trường làm việc thoải mái không áp lực công việc ạ . Ưu tiên vui vẻ hòa đồng ạ \nGọi cho em ạ 01030392119",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/504270582_4132996330321566_3437142730980450235_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=EsgylVPN7ekQ7kNvwH8xQup&_nc_oc=AdnpJ6_DnxvWCxQFrbUd31nGMp1hC5xU2TcLQJXhGoLVzdiMhV9Q1B-AGAwSlodQ6Q0&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=QAerc7S7K7CaPxX9WuvolA&oh=00_AfXcXtj5pj-IoMSGRvIBCGxY8U3ThGB9rfhFuNgt8PkBig&oe=68A23B92"
-    ],
-    "group_id": "395584160522248",
-    "group_name": "Tim viec korea",
-    "group_url": "https://www.facebook.com/groups/395584160522248/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100056234130919",
-    "author": "손길석",
-    "author_url": "https://www.facebook.com/songilseog.535042",
-    "post_url": "https://www.facebook.com/groups/251209414588349/permalink/645546601821293/",
-    "time": "2025-05-25 07:39",
-    "message": "một công ty có nhiều việc làm, hơn 4 triệu mỗi tháng\n010-7227-0277 \nVị trí: Bukjeong-dong, Yangsan\nNhững gì bạn làm: lắp ráp, cnc\nGiờ: 8h đến 20h, 20h đến 8h\nLương: 4.000.000-5.000.000\nNgày nhận lương: 31 ngày\nKý túc xá, trợ cấp làm thêm, trợ cấp ban đêm, trợ cấp nghỉ phép hàng tuần,",
-    "media_urls": [],
-    "group_id": "251209414588349",
-    "group_name": "[korea] Người Tìm Việc - Việc Tìm Người",
-    "group_url": "https://www.facebook.com/groups/251209414588349/",
     "group_thumbnail": ""
   },
   {
@@ -2858,21 +2378,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100046256520263",
-    "author": "Huyền Dương",
-    "author_url": "https://www.facebook.com/huyen.duong.874096",
-    "post_url": "https://www.facebook.com/groups/251209414588349/permalink/610821185293835/",
-    "time": "2025-04-09 12:55",
-    "message": "Chào mọi ngừoi ạ\nNgười quen của em nhờ em tìm người làm nông trong mùa hè tới\nThời gian từ tháng 8-10/2025\nCông việc là thu hoạch quả sung Mĩ(hình dưới) ạ\nThời gian làm việc từ 3h sáng-12h trưa(9h)\nLương: 100k/ ngày( có thể thương lượng thêm)\nKhông bao ở nhưng em sẽ thương lượng bao ăn ạ.\nAi có nhu cầu liên hệ em để biết thêm chi tiết ạ.\nBên này sẽ đi đón nếu cần và hết vụ sẽ đưa mọi ngừoi qua lại bến xe ạ.",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/489954801_1234458738105999_7484437791083573332_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=f1AnDqLFB5QQ7kNvwHd5GW0&_nc_oc=AdlaSDlM7MTP8CkipjUMgRo8d9i_ciCsyQvXxHtSqnSpSSgj1qHOVmS6oLoFpi57_l0&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=J3tgqt2T7pEd03o8lGkz8Q&oh=00_AfXvXOnnA9KoHRDJKJ4G2aotFbCRwgA3qWo898fl_Mt8aA&oe=68A2221B"
-    ],
-    "group_id": "251209414588349",
-    "group_name": "[korea] Người Tìm Việc - Việc Tìm Người",
-    "group_url": "https://www.facebook.com/groups/251209414588349/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "625410140190464",
     "author": "Người tham gia ẩn danh",
     "author_url": null,
@@ -3033,19 +2538,6 @@ window.completePostsData = [
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/526555766_624398094041529_1232441325735835907_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=WsnBlJKZTskQ7kNvwEPCSog&_nc_oc=AdnzR3w8sg4PV1TVZIUgsZsAsXlx8D7iNpPlBKCnVvsRfLGjxeICRhKwHtnhI51T_cc&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=BadQO6tCUtws1hsc95kh_A&oh=00_AfUj1oa7UxozbUTWAKZ5y8Lm3d13aJJL3YuQaf9uz1oiqA&oe=68A230A1",
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/527396365_624398000708205_277263558507043513_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=R8JncqmQQ5oQ7kNvwE4tyXB&_nc_oc=AdmedTgMbcVY5YPpHcO6YxhS_MCGZkIo5l4FI2mTI2Bxa5W6-o-0nIZ3KqNIvNWTVP0&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=BadQO6tCUtws1hsc95kh_A&oh=00_AfWFNUi4S6wJOa-zbSUNtk4QO_NDFqMv10jDtBgGN7RzlA&oe=68A223E7"
     ],
-    "group_id": "439768189816501",
-    "group_name": "Cộng đồng người Viet Nam tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/439768189816501/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100012069373759",
-    "author": "Phạm Nguyễn Bảo Thy",
-    "author_url": "https://www.facebook.com/baothy.pham.779",
-    "post_url": "https://www.facebook.com/groups/439768189816501/permalink/2102275970232373/",
-    "time": "2025-02-12 10:56",
-    "message": "Tìm 12 nữ 3 nam làm chung với mình . Lương thanh toán trong ngày 80-90kw . Liên hệ mình nhận việc nhé !",
-    "media_urls": [],
     "group_id": "439768189816501",
     "group_name": "Cộng đồng người Viet Nam tại Hàn Quốc",
     "group_url": "https://www.facebook.com/groups/439768189816501/",
@@ -3517,24 +3009,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100084069247571",
-    "author": "Phạm Thị Huyền Trang",
-    "author_url": "https://www.facebook.com/pham.thi.huyen.trang.419922",
-    "post_url": "https://www.facebook.com/groups/NguoiVNtaiHQ/permalink/3922563107992011/",
-    "time": "2025-05-31 15:54",
-    "message": "- Góc tuyển lao động Chủ doanh nghiệp bảo lãnh tại H.àn Q.uốc \n\n- Xưởng mình đang cần tuyển người làm thực phẩm, nhân sâm , nấm linh chi...,   (  vị trí làm việc  ) như lái xe giao hàng , vệ sinh thực phẩm , kiểm hàng sản xuất và đóng gói ...vv \n\n- Độ tuổi từ 18 - 55  ( Ưu Tiên vk ck ) \n\n- Làm việc ngày 8 tiếng làm giờ hành chính từ 8h sáng đến 5h chiều . \n\n- ngoài 8 tiếng giờ hành chính có thể sẽ tăng ca từ 2-3 tiếng mỗi ngày . Trung bình là 2 tiếng / ngày .\n\n- Làm việc từ thứ hai đến thứ bảy , thứ bảy sẽ tính vào giờ tăng ca 8h/ngày nghỉ , chủ nhật nghỉ",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/502469642_672583878887248_1753870022174482979_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=8pceJ6Gz9EYQ7kNvwGf6p8m&_nc_oc=AdnWINSOPclj80efWTh7ngyaI4l0MEGLjdDSVCitTC_auiyhSravIvIHM6wRaNB1rO8&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TO9GUBWAh2fzrxe5aPC6rA&oh=00_AfWS5wMiNyDB1FxQNVVT-DIGoi9MNG6fwgfv0Nprl2C1YA&oe=68A210B3",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/502489508_672583798887256_150910331627424392_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=eTYHXp4GDjkQ7kNvwEsc77y&_nc_oc=AdntFKLKx2RJ4y0r8Wv4SctZJe_MybzndbypKEKPM1MMcg5o4M1gdF6GfBxd14LKZyg&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TO9GUBWAh2fzrxe5aPC6rA&oh=00_AfW60xlqBYOvDTDIRxNzBk3TEMOFkO4_fGn315gsL4KXcA&oe=68A225BE",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/502529180_672583822220587_351255954387876265_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=BVPLjC675TIQ7kNvwHiPJ-D&_nc_oc=AdlQa_qI7pWutqtl3AUKlPePWtpipaCauYgMx63F1omZ5fs_kSo_4LDZCHimUTUPacU&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TO9GUBWAh2fzrxe5aPC6rA&oh=00_AfWUyZy-RqO6-7MWyLrQTsbVbkgPgTh868oDfmZIh7g89g&oe=68A20E96",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/502575646_672583728887263_1742703342905303879_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=mqoifqsaRW0Q7kNvwFNkudG&_nc_oc=Admb3Xz2lssj6i6Rt_4_eFO6Si_T0RUl1ecA4sGVwLE_Vkn5GYzOojUc2C-Yd7KKdIE&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TO9GUBWAh2fzrxe5aPC6rA&oh=00_AfX1d-wTOJerckI9y2Lhi_I_KxFSZrQa71d3wmbRRAze7A&oe=68A220CE"
-    ],
-    "group_id": "1427420484172965",
-    "group_name": "Người Việt Nam tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/NguoiVNtaiHQ/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "61571520763211",
     "author": "Hà Nguyên",
     "author_url": "https://www.facebook.com/ha.nguyen.154111",
@@ -3641,19 +3115,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100092387130498",
-    "author": "Tuấn Hằng",
-    "author_url": "https://www.facebook.com/profile.php?id=100092387130498",
-    "post_url": "https://www.facebook.com/groups/183432392157266/permalink/2093988417768311/",
-    "time": "2025-05-06 20:46",
-    "message": "Tìm đồng nghiệp công việc nhiều. Nên cô có nhờ mình  tìm  5ld (  ưu tiên cặp Vk, Ck )\n\n-Thời hạn hợp đồng:  5 năm \n\n- Lcb : 2tr1 Won  = 37.000.000 VND\n\n-Tăng ca : Mỗi  ngày tăng ca từ 2- 3 tiếng/1ngày  Thứ 7 và  chủ nhật tăng ca theo quản lý sắp xếp\n\n- Thời gian làm việc : 8h -5h /1 ngày làm 8 tiếng / Tca tính riêng \n\n-Yêu cầu: Sức khỏe tốt , nhanh  nhẹn chăm chỉ, chịu khó, có trách nhiệm trong công việc\n\n- Nuôi ăn ở , có ký túc xá cho ld \n\nAi thiện trí nhắn tin trực tiếp mình trao đổi cv cụ thể !",
-    "media_urls": [],
-    "group_id": "183432392157266",
-    "group_name": "VIỆC LÀM MIỄN PHÍ CHO NGƯỜI VN ,THĂM THÂN TẠI HÀNQUỐC🍓🍐🍅🍆🌶",
-    "group_url": "https://www.facebook.com/groups/183432392157266/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100003654969284",
     "author": "Kim Hải",
     "author_url": "https://www.facebook.com/hai.trinh.359",
@@ -3738,51 +3199,12 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100014690386863",
-    "author": "Trần Tuấn Thi",
-    "author_url": "https://www.facebook.com/aaryatripathi122",
-    "post_url": "https://www.facebook.com/groups/258238807098187/permalink/672580465664017/",
-    "time": "2025-05-04 13:38",
-    "message": "đây là nhóm trao đổi thông tin, 😘  kinh nghiệm-cũng như tâm sự,\nChia sẻ của các anh em  đã=đang làm việc trong lĩnh vực xây dựng tại Hàn Quốc, 🍈  \nHãy cùng tham gia nhóm https://www.facebook.com/groups/1481677535738413\nChia sẻ những thông tin hữu ích cho anh em xây dựng \n13:38:34",
-    "media_urls": [],
-    "group_id": "258238807098187",
-    "group_name": "Cộng đồng người việt tại Hàn quốc korea",
-    "group_url": "https://www.facebook.com/groups/258238807098187/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "61552621286821",
     "author": "Đào Lê",
     "author_url": "https://www.facebook.com/aole.843490",
     "post_url": "https://www.facebook.com/groups/1918713928344586/permalink/4047054778843813/",
     "time": "2025-06-10 21:33",
     "message": "Cửa hàng tuyển thêm nhân viên PHỤ BÁN HÀNG \nTừ 20 tuổi trở lên\nmức lương : 8tr +phụ cấp xăng xe\nHổ trợ chổ ở ,cơm trưa ( nếu nhà xa)\nLàm tại : Quận Tân phú ,Tân bình ,Q6 ,Q10, Q3 ,Q5\nLh:0784198073 (zalo hoặc gọi trực tiếp )",
-    "media_urls": [],
-    "group_id": "1918713928344586",
-    "group_name": "Việc Tìm Người- Người Tìm Việc[Korea]",
-    "group_url": "https://www.facebook.com/groups/1918713928344586/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "61552621286821",
-    "author": "Đào Lê",
-    "author_url": "https://www.facebook.com/aole.843490",
-    "post_url": "https://www.facebook.com/groups/1918713928344586/permalink/4034879863394638/",
-    "time": "2025-05-31 15:31",
-    "message": "Cửa hàng cần tuyển thêm nhân viên PHỤ KHO làm lâu dài\nTừ 20 tuổi trở lên\nmức lương: 8tr + phụ cấp xăng xe ,hổ trợ nhà ở ,cơm trưa\nLàm tại : Q.Tân phú , Q8 ,Q5 ,Huyện Bình chánh\nLh:0783364471 (zalo hoặc gọi trực tiếp )",
-    "media_urls": [],
-    "group_id": "1918713928344586",
-    "group_name": "Việc Tìm Người- Người Tìm Việc[Korea]",
-    "group_url": "https://www.facebook.com/groups/1918713928344586/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "61552621286821",
-    "author": "Đào Lê",
-    "author_url": "https://www.facebook.com/aole.843490",
-    "post_url": "https://www.facebook.com/groups/1918713928344586/permalink/4024774081071883/",
-    "time": "2025-05-20 21:26",
-    "message": "Cửa hàng cần tuyển nhân viên PHỤ BÁN HÀNG ,làm tại chợ TÂN PHÚ , chợ Phạm văn Hai , chợ Bình tây ,từ 22 tuổi -58 tuổi \nLương : 9tr + phụ cấp xăng xe ,chổ ở ,đặc biệt có hổ trợ tiền cơm trưa\nLh : 0328135080 (zalo hoặc gọi trực tiếp )",
     "media_urls": [],
     "group_id": "1918713928344586",
     "group_name": "Việc Tìm Người- Người Tìm Việc[Korea]",
@@ -3826,19 +3248,6 @@ window.completePostsData = [
     "post_url": "https://www.facebook.com/groups/1918713928344586/permalink/4040603636155594/",
     "time": "2025-06-05 11:30",
     "message": "Cty sản xuất Sữa cần tuyển Nữ nhân viên TẠP VỤ ( dọn dẹp,sắp xếp ,lau chùi quầy kệ ) .Từ 25 tuổi đến 58 tuổi\nLương: 9tr + p/c xăng xe ,chổ ở\nĐặc biệt hổ trợ tiền cơm trưa\nLàm tại Quận Tân phú ,Bình tân\nLiên hệ :0783364471 ( zalo hoặc gọi trực tiếp ) ưu tiên nữ lớn tuổi",
-    "media_urls": [],
-    "group_id": "1918713928344586",
-    "group_name": "Việc Tìm Người- Người Tìm Việc[Korea]",
-    "group_url": "https://www.facebook.com/groups/1918713928344586/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "61552621286821",
-    "author": "Đào Lê",
-    "author_url": "https://www.facebook.com/aole.843490",
-    "post_url": "https://www.facebook.com/groups/1918713928344586/permalink/3900895326793093/",
-    "time": "2025-01-05 20:33",
-    "message": "Cần tuyển thêm nhân viên đóng gói hàng ( làm lâu dài ) không cần kinh nghiệm ,làm trong và sau tết\nLương : 8tr + 1 tr phụ cấp\nĐộ tuổi : 22t trở lên ,không giới hạn\nLH: 0784198073 ( zalo hoặc gọi trực tiếp )",
     "media_urls": [],
     "group_id": "1918713928344586",
     "group_name": "Việc Tìm Người- Người Tìm Việc[Korea]",
@@ -3954,19 +3363,6 @@ window.completePostsData = [
     "post_url": "https://www.facebook.com/groups/1137567169756978/permalink/3281689202011420/",
     "time": "2025-08-05 10:26",
     "message": "cần 8nam/ nữ làm phân loại đóng gói xưởng gà  từ 20h30-5h sáng lương 120k/ ngày làm đêm t2-t7 đã làm qua càng tốt cảm ơn mn",
-    "media_urls": [],
-    "group_id": "1137567169756978",
-    "group_name": "KOREA NGƯỜI TÌM VIỆC - VIỆC TÌM NGƯỜI",
-    "group_url": "https://www.facebook.com/groups/1137567169756978/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100040285922540",
-    "author": "Won Hye",
-    "author_url": "https://www.facebook.com/profile.php?id=100040285922540",
-    "post_url": "https://www.facebook.com/groups/1137567169756978/permalink/3055302701316739/",
-    "time": "2025-01-02 15:14",
-    "message": "Xin chào. Tôi đang tìm người có thể làm việc vào thứ bảy và chủ nhật.",
     "media_urls": [],
     "group_id": "1137567169756978",
     "group_name": "KOREA NGƯỜI TÌM VIỆC - VIỆC TÌM NGƯỜI",
@@ -4207,19 +3603,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100031139122356",
-    "author": "Eun Ji",
-    "author_url": "https://www.facebook.com/rahul.pjt.1",
-    "post_url": "https://www.facebook.com/groups/1706032316336148/permalink/3921622428110448/",
-    "time": "2025-01-03 11:45",
-    "message": "Tôi cần người làm việc ngay lập tức Mức lương tốt",
-    "media_urls": [],
-    "group_id": "1706032316336148",
-    "group_name": "[Korea] Việc tìm người - Người tìm việc",
-    "group_url": "https://www.facebook.com/groups/1706032316336148/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100007660531098",
     "author": "Thanh Pham",
     "author_url": "https://www.facebook.com/thanh.pham.519638",
@@ -4240,21 +3623,6 @@ window.completePostsData = [
     "time": "2025-07-15 22:18",
     "message": "Quán gà cần tuyển 1 bạn rửa bát \nTime 18h-23h\nLương 11kwh \nChủ ko yêu cầu tiếng, chỉ yêu cầu nhanh nhẹn, làm việc tốt",
     "media_urls": [],
-    "group_id": "460311817508318",
-    "group_name": "[Korea] Việc Tìm Người - Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/460311817508318/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100004148168083",
-    "author": "Nguyễn Eric",
-    "author_url": "https://www.facebook.com/michael.owen.77864",
-    "post_url": "https://www.facebook.com/groups/460311817508318/permalink/2705101739695970/",
-    "time": "2025-02-27 14:43",
-    "message": "Ben em đang cân nhiêu người làm nông nghiệp \nLằm trái cây hành 🧅 và tỏi \nLương tuy công việc \nLương 120-150 k \nSáng lằm chiều nhận tiền trong ngay \nLàm tốt chủ con bò 10-20 k mot ngay \nCông việc đều quanh năm \nTăng ca một tiếng 15-20 k mot giờ \n01053633999",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/511824585_3273687159446191_2586419480327009496_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=He16X0kOk0QQ7kNvwEw9Jaq&_nc_oc=AdlXuMVYiymTxnufyRVYaAPA1JB8jQXfgmf2HqB2-l6IccK_sH9X7vt0l2I3XTg5r3U&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=aIeveHIAU0-NTXHfe6kcsg&oh=00_AfVGTdcpItNTifaaMYVZTJFp4LQ2R36Mj7md6RXMXuK3rQ&oe=68A23B00"
-    ],
     "group_id": "460311817508318",
     "group_name": "[Korea] Việc Tìm Người - Người Tìm Việc",
     "group_url": "https://www.facebook.com/groups/460311817508318/",
@@ -4453,21 +3821,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100055485867076",
-    "author": "Phùng Trang",
-    "author_url": "https://www.facebook.com/phung.trang.723853",
-    "post_url": "https://www.facebook.com/groups/522605634051326/permalink/674174202227801/",
-    "time": "2025-03-30 19:28",
-    "message": "[TUYỂN DỤNG ALBA LÀM THÊM ỞKANGNAM]\nCông ty WeMade:\n- Chuyên phân phối mỹ phẩm, thực phẩm chức năng, sản phẩm golf của Hàn về thị trường Việt Nam tuyển dụng nhân sự làm part-time tại KangNam như sau:\n- Vị trí: Dịch tài liệu, tìm hiểu thị trường Việt Nam  (alba)\n- Điều kiện:\n+ Tuần làm 2 buổi(full) phù hợp với các bạn dhs muốn làm lấy kinh nghiệm đẹp cv \n+ Ưu tiên có kinh nghiệm về lĩnh vực liên quan\n+ Có thể đăng ký làm thêm\n- Lương và thời gian làm việc: thỏa thuận lúc phỏng vấn\n- Địa chỉ: ga 언주 \n- Môi trường làm việc thoải mái. Sếp cute.\nCông ty có nhân viên Việt Nam.\nCác anh chị em bạn bè quan tâm thì IB mình để trao đổi thêm nhé!\nNộp CV, bằng cấp, chứng chỉ (nếu có) và qua email:\nphungthitrangvta136@gmail.com\nHạn nộp CV: đến khi tuyển được người\nNhận thông báo phỏng vấn qua email sau khi nộp CV.\nCảm ơn mn đã đọc đến đây ạ ^^",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/487302140_1168821574977360_797514983063678918_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=j00PFMc9sIwQ7kNvwFIkK3i&_nc_oc=Adnh4ELUtKJydmmOWYO0Ep6bAWlEp6c_WvNSRTTh95WqVipw9of8qgGbVAPAUcsKvac&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=UuiopoGlLHCgVLmr6E9VPA&oh=00_AfWFTBfDu4CafZGm7UHSrA8GaODTWQx0AS7NyhXxQz18Ig&oe=68A22F35"
-    ],
-    "group_id": "522605634051326",
-    "group_name": "Việc làm thêm cho Du Học Sinh Việt Nam tại Hàn Quốc - VSOK",
-    "group_url": "https://www.facebook.com/groups/522605634051326/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100085643061354",
     "author": "Vũ Ngọc Thành",
     "author_url": "https://www.facebook.com/profile.php?id=100085643061354",
@@ -4581,19 +3934,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100082981932742",
-    "author": "Morela Mai",
-    "author_url": "https://www.facebook.com/hangviet779",
-    "post_url": "https://www.facebook.com/groups/1708561029329134/permalink/2805918142926745/",
-    "time": "2025-05-19 14:31",
-    "message": "Tìm người bóc tỏi tại hàn tại các nông trại,xưởng ạ \n\nNgày/120kw. Sáng 7h-11h Chiều 1h-17h\n\nNhà rộng có kho có thể nhận tỏi về làm !!!\nĐịa chỉ : 13 chi nhánh toàn korea",
-    "media_urls": [],
-    "group_id": "1708561029329134",
-    "group_name": "VIỆC LÀM THÊM TẠI HÀN QUỐC",
-    "group_url": "https://www.facebook.com/groups/1708561029329134/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100091819313172",
     "author": "Quỳnh Nga",
     "author_url": "https://www.facebook.com/profile.php?id=100091819313172",
@@ -4628,21 +3968,6 @@ window.completePostsData = [
     "message": "Bên Em hỗ trợ Ace  BHP làm thẻ ạ ^^\n🇻🇳- Mở sổ Hanabank mở luôn giới hạn 10triệu/ngày  \n🇻🇳- Mở giới hạn ko cần nhận lương  300 triệu~50 triệu\n🇻🇳- Hỗ trợ huỷ tiết kiệm on lai\n       (Ace BHP bị bắt về oki)\n🇻🇳- Hỗ trợ cấp phát lại thẻ check, \n        ( hết hạn, mất ) vvv\n🚘- Dịch vụ xe 7chỗ \n\n🇻🇳 Đưa đón thông dịch",
     "media_urls": [
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/516712046_122158157456790978_8995127188887245809_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=OZDlPOU5ANMQ7kNvwGBIdMj&_nc_oc=AdkF-_W3ollEZ5nvbwTLPoWRQNxqTTgYb0vaoDbyV_3w2Ta65Rq_zcsmfQKR8JliqU0&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=_uldeNuYqdm---BGs59N6Q&oh=00_AfWyEemaRPZcya98e4Cj582oDE7Bfy8cFa-WoC0U1MBjcw&oe=68A21157"
-    ],
-    "group_id": "291440248371452",
-    "group_name": "[Korea] Việc Tìm Người - Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/291440248371452/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100034180634913",
-    "author": "도사너",
-    "author_url": "https://www.facebook.com/profile.php?id=100034180634913",
-    "post_url": "https://www.facebook.com/groups/291440248371452/permalink/1780483772800418/",
-    "time": "2025-01-05 09:49",
-    "message": "■205 cô gái đến Manhae \nđi làm riêng\n09:00~18:00\nXuất hiện phụ tùng thiết bị y tế\n010-7650-6808\n010-7650-6808\n\n■Cô gái lắp ráp vỏ mỹ phẩm\nđi làm riêng\nSasadong424-4 Người có khả năng đi xe/xe buýt\nlương một ngày hiện tại là 95000 won\nBạn nào có thể làm thêm giờ?\n010-7650-6808\n010-7650-6808\n\n■ Người đàn ông 206 Masan-ro\nVui lòng liên hệ với tôi sau khi tìm kiếm vị trí của cây gỗ. \nLắp ráp van điều hòa nhiệt độ và điều hòa.\nĐang thảo luận về mức lương trên 10.500 won/giờ\nPhí giao thông 4.000 won / đỗ xe / xe/ trợ cấp nghỉ hưu\n010-6277-3220\n010-6277-3220\n\n■ Khu công nghiệp Jeonggok\nSử dụng xe buýt đi làm tại Jeongwang-dong / Ga Ansan \nKiểm tra quy trình (nữ) dưới 45 tuổi\n9h - 21h (3 ca)\n010-6277-3220\n010-6277-3220\n\n■ Khu công nghiệp Jeonggok \nSử dụng xe buýt đi làm tại Jeongwang-dong / Ga Ansan \nOP (nam) 3 ca (nam) dưới 40 tuổi\n9 giờ ~ 21 giờ\n010-6277-3220\n010-6277-3220\n\n■Sản xuất phụ tùng thiết bị y tế (nữ) ■\n250 đường Okgucheon-dong (xe đạp)\nchào đón người nước ngoài\nlàm việc tám giờ\nđỗ xe/lượt xe\nBất luận thế nào cũng phải gọi điện cho mình nhé\n010-7650-6808\n\n■ Công ty sản xuất van gỗ (nam) ■\nĐường Masan 206 di chuyển tự động (Nhất định phải tìm kiếm địa chỉ)\nlương giờ:10.200 won\ntiền đỗ xe / tháng / hưu trí\n010-6277-3220\n\n베트남   https://www.utransfer.com/sign_up/referral_code/8888?locale=vi_VN   Miễn phí 100% phí dịch vụ",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/480966909_1340019880480687_5133488471859606446_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=n8btOMErY8EQ7kNvwHpzJh8&_nc_oc=AdkZC35bjfkr718B7K5j5dx7QbyaOEXg_7B0su3f8ovHeX5ijLBh9FV8or6nXIswN2I&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=_uldeNuYqdm---BGs59N6Q&oh=00_AfX_EQ9dhicaLdCZ_nJSS3wQ6XNesLDB0zxUsdf0vo3xzg&oe=68A20FAB"
     ],
     "group_id": "291440248371452",
     "group_name": "[Korea] Việc Tìm Người - Người Tìm Việc",
@@ -4857,19 +4182,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "61573511951036",
-    "author": "Private Vietnam",
-    "author_url": "https://www.facebook.com/privatevietnam",
-    "post_url": "https://www.facebook.com/groups/394677551746909/permalink/1361040391777282/",
-    "time": "2025-05-22 15:39",
-    "message": "🔍 TÌM VIỆC DIGITAL MARKETING\n\nEm có 3 năm kinh nghiệm trong lĩnh vực Digital Marketing:\n• Làm website (chuẩn SEO, WordPress)\n• Chạy Google Ads, Facebook Ads – tối ưu chi phí, tăng hiệu quả\n• Phân tích dữ liệu, cải thiện chuyển đổi\n\n📌 Đã từng làm việc với:\n• Resort, khách sạn, homestay ở Y Tý, Sapa, Hà Giang\n• Tour trekking: Lảo Thẩn, Kỳ Quan San, Nhìu Cồ San…\n• Nhà xe tuyến Mỹ Đình – Hà Giang\n•    Bất động sản\n\n🎯 Em tìm cơ hội làm online, mọi người có nhu cầu có thể ib trực tiếp cho em hoặc qua zalo 0906 508 803.",
-    "media_urls": [],
-    "group_id": "394677551746909",
-    "group_name": "CỘNG ĐỒNG NGƯỜI VIỆT NAM TẠI HÀN QUỐC 🇻🇳🇰🇷",
-    "group_url": "https://www.facebook.com/groups/394677551746909/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "61561585215514",
     "author": "Quynhh Như",
     "author_url": "https://www.facebook.com/quynhh.nhu.396505",
@@ -4928,19 +4240,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100001894702381",
-    "author": "김상현",
-    "author_url": "https://www.facebook.com/gimsanghyeon.958950",
-    "post_url": "https://www.facebook.com/groups/1441597979386245/permalink/3832727463606606/",
-    "time": "2025-01-21 15:01",
-    "message": "Bên em đang cần tuyển bạn nam làm cây cảnh ah,chỉ nhận người ở khu vực chơnchu,isơ,có xe đưa đón.\nTháng đầu ngày 100k\nLàm 1 tháng lên 110k\nSau 3 tháng là 120k và 6 tháng là 130k ah(vừa làm chủ vừa dạy việc cho)\nBên em chỉ cần nhận  người làm việc lâu dài.\nLàm từ 7h sáng đến 6h chiều ah(nhưng thường là đến 5h30 thôi ah)\nCông việc có quanh năm,chỉ trừ chủ nhật và ngày mưa thì nghĩ ah,\nAnh hoặc chú,bác nào quan tâm \n\n전라북도 전주",
-    "media_urls": [],
-    "group_id": "1441597979386245",
-    "group_name": "Việc Làm Thêm Tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/1441597979386245/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100023222341190",
     "author": "박준수",
     "author_url": "https://www.facebook.com/bagjunsu.368355",
@@ -4953,44 +4252,6 @@ window.completePostsData = [
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/509361044_1868730617244332_5368039441611340775_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=O5t9YcJWSyQQ7kNvwGiVz3N&_nc_oc=AdlQI1IV2S67OQ-QnVytGnPEN8XK54IihcRN4B2w45NkZmrOieP-645XcyTitJ26IXk&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Txnx2JsShJliQ03Vadv8wA&oh=00_AfXL5KmQxywHSOmLMnBnCLqL66y12iX9tw7qK4FZMVxinQ&oe=68A215FB",
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/509325280_1868730757244318_3385364860766852536_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=qi5PNcRgx48Q7kNvwGIUxtm&_nc_oc=AdnBUTgZZqTanskaTC6fpfjJI-yhPUH9pj3moFeoOp-PdDrDpLhX0Jz1lkcY73tNB8Y&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Txnx2JsShJliQ03Vadv8wA&oh=00_AfUb_hr-Sk9eQAuGt5zw_5yTxWXwR1k33Y6X1xA8Ey8CMg&oe=68A22541",
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/508342894_1868730847244309_7434449083755512921_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=vCUctat78qoQ7kNvwEfhi3w&_nc_oc=Adl8FIGvjTYhkATlc6Y1mXww--enRiH5XU4uSxD3rbLKEVnq82lQuJDO-vmZLhvPViA&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Txnx2JsShJliQ03Vadv8wA&oh=00_AfUQ7FQWDPtfgXGEd1YKrKOy73w4X3ykJpvkWd_GpROXyQ&oe=68A23087"
-    ],
-    "group_id": "3193461860953823",
-    "group_name": "Korea Việc Tìm Người Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/3193461860953823/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100023222341190",
-    "author": "박준수",
-    "author_url": "https://www.facebook.com/bagjunsu.368355",
-    "post_url": "https://www.facebook.com/groups/3193461860953823/permalink/3721016334865037/",
-    "time": "2025-05-28 20:57",
-    "message": "Hàn Quốc \nChỉ dành cho người lao động dài hạn, vui lòng liên hệ với chúng tôi\nChúng tôi đang tìm người làm việc tại trang trại của chúng tôi.\nĐịa điểm: 전라북도 고창\nChúng tôi sử dụng dưa hấu, dưa lưới, bắp cải, hành tây, khoai lang, gạo, đậu, v.v.\n🧒Nam ₩100.000~130.000\n👧Nữ ₩90.000~110.000\n₩Thanh toán tiền mặt trong ngày₩\nGửi tin nhắn đến 010-4937-0584\nĐừng lo lắng. Tôi có một người bạn Việt Nam.",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/502510556_1852035852247142_977834225479433770_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_wJ4qtzir38Q7kNvwEzhOgT&_nc_oc=AdmUuPFmBTDF9GKj1FNnA44Ad4G5nEVJZtUXxRb37mnBhHvdxH0YjTYnRuVO0J1Xkpk&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Txnx2JsShJliQ03Vadv8wA&oh=00_AfXM0HkE3jemyxLxFi9zngxgGB3dzlUl6bupbhwDludy2g&oe=68A20B0B",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/501429632_1852035822247145_366908644290024438_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=SvbZgL_ugfwQ7kNvwFoWAdJ&_nc_oc=AdnVcqjLLpYEVa1h2hRog7C3y8ki522IqK0kELd-XyAPgKTe6qny7RpT6bJG1Xwiv6k&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Txnx2JsShJliQ03Vadv8wA&oh=00_AfURRDyATgGe6puQDBJdL_XJG9f_RLX9LJ61cidLX-FYKA&oe=68A22283",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500478283_1852035715580489_6996585533542670680_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=x_qnIxIM3FkQ7kNvwGm3XfV&_nc_oc=AdmyIQlgcsDbOGl1IVfLC0AzR7L1nVS-LXXEE69f8z8XVBeU3nzPTMldM2I_NXUU_4c&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Txnx2JsShJliQ03Vadv8wA&oh=00_AfXlgUn7FrVHk7E18w_Rccz0EhEVhNpqt8RU8BCuQbLH_A&oe=68A23DB9",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500419776_1852035778913816_4795795695397154877_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=GlzQFcd_FasQ7kNvwHV2KLe&_nc_oc=Adl36_ZfxElFRvO4efW0lObi_HTEIf8nbIPQ2xaa1RLWtApPlFWCWIKxGliMtZsPMU0&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Txnx2JsShJliQ03Vadv8wA&oh=00_AfXRSJ7ovnJGFPU1unEuAHq9bqmEenjNE49M2_dh6NjWvA&oe=68A21F6F",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500741250_1852035618913832_1958100901175603464_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=nsKVIiWAaAQQ7kNvwE28bzz&_nc_oc=AdlHCM-rzcGyCHqlcrWjP0jICG2TB0KmeD68JUJ5ylMF2T6MHPjOSTQqsS5ryVfwdl0&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Txnx2JsShJliQ03Vadv8wA&oh=00_AfW-rQIl0KCypg22BE56wgkxg5QqsLD1ShmmqIrkCtfhnA&oe=68A239BA"
-    ],
-    "group_id": "3193461860953823",
-    "group_name": "Korea Việc Tìm Người Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/3193461860953823/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100023222341190",
-    "author": "박준수",
-    "author_url": "https://www.facebook.com/bagjunsu.368355",
-    "post_url": "https://www.facebook.com/groups/3193461860953823/permalink/3715129158787088/",
-    "time": "2025-05-22 21:10",
-    "message": "Hàn Quốc\nChúng tôi đang tìm người làm việc tại trang trại.\nĐịa điểm: 전라북도 고창\nChúng tôi sử dụng dưa hấu, dưa lưới, bắp cải, hành tây, khoai lang, gạo, đậu, v.v.\n🧒Nam ₩100.000~130.000\n👧Nữ ₩90.000~110.000\n₩Thanh toán tiền mặt trong ngày₩\nGửi tin nhắn đến 010-4937-0584\nĐừng lo, tôi có bạn người Việt Nam.",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/499491285_1847525346031526_9204595183311990185_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=NGPPwhvCoDgQ7kNvwG-qIOj&_nc_oc=AdnA8XiLXlIXu_o8DxQvSAIUsFRMnGSNQuMqZNHHQLLmd3DeXozQr5VDq9z5-uA44X8&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Txnx2JsShJliQ03Vadv8wA&oh=00_AfUTpsAEqWMlYvHySGe6gOWzkP3A0oPIUj4j2BvR7G-yfQ&oe=68A22FEB",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/499455530_1847525309364863_5784248915883544849_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=AYd8BbZLKS8Q7kNvwEUdsPI&_nc_oc=AdmA56ZSIRpMrIFr59PMXoKqet834TcOd5WQQKRv7eshkwqobTND3wFct45yx2xbXa0&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Txnx2JsShJliQ03Vadv8wA&oh=00_AfW-nzrBr8hJpjoKO79I4GnyElSLa9yN4iXUAHkHsGhu-w&oe=68A209B8",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/499755241_1847525249364869_7765784704127393505_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=e1sQcn7nd4AQ7kNvwHW4VhO&_nc_oc=AdkuZAIO83X5OjQxW5r0a9rTtuU3KNOxJ3Rn7-VvE4ExAx-9hqVJCqatBmqS-8j9ou4&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Txnx2JsShJliQ03Vadv8wA&oh=00_AfX8HaACcexL4OqpGTxQuFyGCx2LJZc8QC9yL_AZHSM_gg&oe=68A23C32",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500707139_1847525179364876_4212126610885515941_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=PEP1nu7xhoAQ7kNvwHIHNRN&_nc_oc=AdkTW1U9qOhB3xa12TU-XLGICB06q23QOGDdjQ8FyXYlAECJ2hxkjwJ1SO90hm-gVxY&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Txnx2JsShJliQ03Vadv8wA&oh=00_AfUAzZo4lyHi9v9ZAQG4uY8PIEyTdPKe0J9IKTGb0kt0Vw&oe=68A222B3",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500295140_1847525409364853_856828783790633736_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=4M6c6SUfTWUQ7kNvwGOWzCk&_nc_oc=AdksBzX34Ble8zYUgMiWNpDcyhoSxkSbjyK2AX8G1gwkVTzG4lRvx6IDDBWE2apyGs4&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Txnx2JsShJliQ03Vadv8wA&oh=00_AfX3MwPlQzaKR1zC7c6GYg6dVRKerru_0VAlOWUk5o2kjw&oe=68A22EBB"
     ],
     "group_id": "3193461860953823",
     "group_name": "Korea Việc Tìm Người Người Tìm Việc",
@@ -5011,21 +4272,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100004021431547",
-    "author": "Thêm Hoà",
-    "author_url": "https://www.facebook.com/bimbim.dony",
-    "post_url": "https://www.facebook.com/groups/3193461860953823/permalink/3587858688180803/",
-    "time": "2025-01-11 15:43",
-    "message": "Tìm người thân tại Hàn Quốc\nXin phép addmin nhóm cho mình đăng bài tìm người thân.Mình đang tìm người bạn thân quần hồng tay cầm hoa ạ đây là ảnh cách đây 10 năm rồi giờ bạn ấy chắc cũng già và khác đi nhiều tên Việt Nam là :Huỳnh thị Trang và tên tiếng Hàn là :한유진 người Cần Thơ.Bạn ấy đã nhập quốc tịch hàn cũng sống bên Hàn cũng được gần 20 năm rồi ạ,mình mất liên lạc với bạn ý cũng 10 năm nay rồi giờ chỉ còn ảnh bạn ý cách đây 10 năm thôi ạ.Bạn nào biết facebook bạn ý hoặc đã từng gặp bạn ý hoặc làm cùng thì cho mình biết với nhé hoặc biết bạn của bạn ý mà chụp ảnh cùng cũng được ạ,mình đang ở Việt Nam mất liên lạc với bạn ý cũng 10 năm nay rồi 😥.Cảm ơn mọi người trước ạ!",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/513864251_4017314035079271_2260440647238289393_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=fP5ngFm9DtkQ7kNvwERmgju&_nc_oc=AdkdkwGfXNFJyTsieq76CMoRD1c0GQvkN24jhoMIkm29O3H45im7LTRqS2kfL_qwAaU&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=UM5NNwADRvjsUazZ8wJsRg&oh=00_AfXcml-KNM4hRPgyEWQwtIn07VFcltwz5Al8N7ScR5--6w&oe=68A2229F"
-    ],
-    "group_id": "3193461860953823",
-    "group_name": "Korea Việc Tìm Người Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/3193461860953823/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "61561585215514",
     "author": "Quynhh Như",
     "author_url": "https://www.facebook.com/quynhh.nhu.396505",
@@ -5040,70 +4286,6 @@ window.completePostsData = [
     "group_id": "1943293755873876",
     "group_name": "Cộng Đồng Người Việt Nam Tại Hàn Quốc Lớn Nhất",
     "group_url": "https://www.facebook.com/groups/nguoivietnamohan/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100080985526558",
-    "author": "Lee Davis",
-    "author_url": "https://www.facebook.com/lee.davis.60168",
-    "post_url": "https://www.facebook.com/groups/nguoivietnamohan/permalink/2586170078252904/",
-    "time": "2025-04-01 00:04",
-    "message": "Mình cần Thêm Thợ Spa -móng mi\n1 nam nữ lễ tân thông thao tiếng anh\nLàm Việc Tại Abu Dhabi Dubai ạ\nMuốn Biết Thêm Thông Tin Ib mình trao đổi ạ",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/487857141_679692818073563_8963571676585908987_n.jpg?stp=cp6_dst-jpg_p720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Co12mPsgYV0Q7kNvwFTJaw2&_nc_oc=Adn-8jf7cDwrbjQsDmPYG4GTCqvKomHp3_aewK94DDNVVM7-YQolNEunSiGe7kEpa_U&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=3SG8CcETjrkuAMt_WkrwpA&oh=00_AfUlJG1BamDhhqx0l08ExnKqc03qRiDGjA9TJ2bfMjqG1g&oe=68A23098",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/487529049_679692718073573_3161649747904287385_n.jpg?stp=cp6_dst-jpg_p960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_banp57QrwsQ7kNvwGzGpo0&_nc_oc=AdkLccDaiu9NLUzjb4pR2mz6a38BQZOFpLqJK2gtBmk9kP2qfk0tX_BLZRtv1aAj1dI&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=3SG8CcETjrkuAMt_WkrwpA&oh=00_AfVWTjGqk_z626SX2jbyemaqEoWoI8a96nadBFqHeg8LYw&oe=68A21342",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/487517087_679692728073572_5394099941845719964_n.jpg?stp=cp6_dst-jpg_p960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=LcuGRNZsvMoQ7kNvwHi8KMb&_nc_oc=AdkkDQ5J8BxTVT5-_ABPKKFY6jR4zHrXN3G82oW0nTAojqHgd74Kts_m75f8pHrtO_4&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=3SG8CcETjrkuAMt_WkrwpA&oh=00_AfXzOkvfI_ot6iorZfmvLcKRF1p4Hxz9An8l56xdr5MUBw&oe=68A22573",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/487436476_679692838073561_8728319945378030884_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Cv7x1FgoNvkQ7kNvwHzQ40C&_nc_oc=Adlzu4_3VSgOmXQoAbzuFWpjN0vA6C7uXUrp5p4rsR-hY7Bg65FW6WDq8md9V9tpsQo&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=3SG8CcETjrkuAMt_WkrwpA&oh=00_AfWWWq1rFaJK0EY_7UeOaPiOXanwC3x2wF2VNY7w_FC9kw&oe=68A24029",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/487507198_679692748073570_981461134586096419_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=8OEiZG-ZYIcQ7kNvwEezSIR&_nc_oc=Adm5qI5sxp1qbvT-rgz5Fk3J6Q3bMiJT_42WgAFOzmG6r-Yrn5-i9JVCACLpcWRp62E&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=3SG8CcETjrkuAMt_WkrwpA&oh=00_AfWyqUgrRcCYic5JQO3j1gnfiQFAf6it-bHjSAknHdR27A&oe=68A22DFC"
-    ],
-    "group_id": "1943293755873876",
-    "group_name": "Cộng Đồng Người Việt Nam Tại Hàn Quốc Lớn Nhất",
-    "group_url": "https://www.facebook.com/groups/nguoivietnamohan/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100036241995700",
-    "author": "Ngô Đức",
-    "author_url": "https://www.facebook.com/ngo.duc.1978",
-    "post_url": "https://www.facebook.com/groups/nguoivietnamohan/permalink/2587974701405775/",
-    "time": "2025-04-02 17:22",
-    "message": "Cần tìm 5-10 bạn làm việc lâu dài tại nông trại , ai cần ib e nhé",
-    "media_urls": [],
-    "group_id": "1943293755873876",
-    "group_name": "Cộng Đồng Người Việt Nam Tại Hàn Quốc Lớn Nhất",
-    "group_url": "https://www.facebook.com/groups/nguoivietnamohan/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100023222341190",
-    "author": "박준수",
-    "author_url": "https://www.facebook.com/bagjunsu.368355",
-    "post_url": "https://www.facebook.com/groups/3078970092236557/permalink/3633922223408005/",
-    "time": "2025-05-23 21:17",
-    "message": "Hàn Quốc\nChúng tôi đang tìm người làm việc tại trang trại.\nĐịa điểm: 전라북도 고창\nChúng tôi sử dụng dưa hấu, dưa lưới, bắp cải, hành tây, khoai lang, gạo, đậu, v.v.\n🧒Nam ₩100.000~130.000\n👧Nữ ₩90.000~110.000\n₩Thanh toán tiền mặt trong ngày₩\nGửi tin nhắn đến 010-4937-0584\nĐừng lo, tôi có bạn người Việt Nam.",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/499544009_1848275812623146_3917882435580806827_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=r6zMw9Ldu0cQ7kNvwEyqkFw&_nc_oc=AdkpLKo7md48OXBdz9AlnscN0ry8KhGCKyE96w28EoZRtU_ROAhSA_lGOA9Nqr1OMro&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Yoq6XPGW9k8ReFNl0AZZWw&oh=00_AfUjScwxvY3SylbMql9QjlMaSFskuelmyQNGi26ZBgTn5A&oe=68A23A96",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500324835_1848275765956484_3806581632375217219_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=rItISk3QWdIQ7kNvwEPp5ul&_nc_oc=AdnynrDmB-H7Xgpl7gIUYrpv4JDjg1cp0VPhWJFuncAwvddlhZaWKtwPHWLJb7vitGI&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Yoq6XPGW9k8ReFNl0AZZWw&oh=00_AfVMD0YR_SfwsPqOBzgWpn_rvwQXJv-Gn_qv2yqvTDuiCQ&oe=68A23ED9",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/499509149_1848276059289788_1714962933918015693_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=UDPDEab4pmMQ7kNvwGF4E4p&_nc_oc=AdkUcpnY5BmAhagYV7iJ6-kldhLML0meRmg70gR4dDP750TjdEgTkMNKMve9t_ll6p8&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Yoq6XPGW9k8ReFNl0AZZWw&oh=00_AfWudL9JX_uBrgc8dzrJBQoPH-G1YQlk6mlGY2_KxczOaQ&oe=68A20D10",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/499606301_1848275872623140_578349811600574826_n.jpg?stp=dst-jpg_p600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=aUCNvjYmNUEQ7kNvwEX4T4w&_nc_oc=Adk9rRj8tZQQuYpNFUf4pA6BksPMbMZ_W0aSZPL1pHnGyOIk9l_NTbN9BGG5BdzsXSI&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Yoq6XPGW9k8ReFNl0AZZWw&oh=00_AfUGa6puOo2zAJrmN9UiWaVRZ5XNfcSW5TCPEvk524rU-w&oe=68A2318F",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/501163416_1848275995956461_6638416903692496388_n.jpg?stp=cp6_dst-jpegr_p960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ZPwOjBV2vyoQ7kNvwFLWtsc&_nc_oc=Adnec2rsMnl7hfi3etGoNDKVkVvWX16T7zV2zGtykTosG-bdguSKA-FOqSX5PzjyZEE&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Yoq6XPGW9k8ReFNl0AZZWw&oh=00_AfVHbOuHs6eFY0IotJ5dJT3xoZ2QU7cA3MI7UXqGCPXnPA&oe=68A21266"
-    ],
-    "group_id": "3078970092236557",
-    "group_name": "Cộng Đồng Người Việt Nam Tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/3078970092236557/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100035041265542",
-    "author": "Quỳnh Diệu",
-    "author_url": "https://www.facebook.com/phuongdieu.huynh.180",
-    "post_url": "https://www.facebook.com/groups/3078970092236557/permalink/3532538886879673/",
-    "time": "2025-03-01 17:22",
-    "message": "VIỆC TÌM NGƯỜI :\n- 02 chạy bàn\nThời gian : 17h~22h lương giờ 25k/h\nLễ tết lương 200% 300% theo quy định nhà nước.\nTăng lương theo năng lực, xét theo quý ( 3 tháng/lần )\nTuổi 2k6 đổ lên. Có đồng phục. Quản lý mát tính. Ko soi mói.\nTuần nghỉ 1b. Tháng 4b\nKo cần tiếng Hàn. Biết càng tốt.\nTraining chuyên nghiệp, cv thoải mái.\n- 02 phụ bếp nam : 2k3 đổ lên.\nGiờ làm việc : 15h~22h ( có thỏa thuận )\n32k/h\nTuần nghỉ 1b. Lễ tết 200% 300% theo quy định.",
-    "media_urls": [],
-    "group_id": "3078970092236557",
-    "group_name": "Cộng Đồng Người Việt Nam Tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/3078970092236557/",
     "group_thumbnail": ""
   },
   {
@@ -5143,21 +4325,6 @@ window.completePostsData = [
     "message": "Đang cần thêm 2 chị hái rau ở vườn không cần biết tiếng , chủ dễ tính , làm cả ngày hoặc theo buổi (trao đổi riêng với chủ )\nĐịa chỉ : Hàn quốc \nBấm vào liên kết  - vào Đoạn chat để trao đổi , xem địa chỉ và lương :\nhttps://m.me/ch/AbaIb3tYuEHqmOeV/\n19 20 05",
     "media_urls": [
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/499406225_673082158687362_7953890288578331170_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=V514k8KIHisQ7kNvwF_jEQJ&_nc_oc=Adm5pnXSCY-NQQESOjJncahpPv1DQLPexAdGKTelZxXB8KPoDmMxn0w5CwhTs5Jz8ZY&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=7aVIUF4arZ0Ged6dPFeJuw&oh=00_AfUmKi7ZJnX0p05bCsLzPjoj7JIb5BT-1w_DZekw9xtT2g&oe=68A21E9E"
-    ],
-    "group_id": "240215258630606",
-    "group_name": "HỘI NGƯỜI VIỆT NAM SỐNG TẠI HÀN QUỐC 🔥",
-    "group_url": "https://www.facebook.com/groups/240215258630606/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "1802677453929905",
-    "author": "Người tham gia ẩn danh",
-    "author_url": null,
-    "post_url": "https://www.facebook.com/groups/240215258630606/permalink/680959171222877/",
-    "time": "2025-05-20 09:20",
-    "message": "Đang cần thêm 2 chị hái rau ở vườn không cần biết tiếng , chủ dễ tính , làm cả ngày hoặc theo buổi (trao đổi riêng với chủ )\nĐịa chỉ : Busan\nBấm vào liên kết  - vào Đoạn chat để trao đổi , xem địa chỉ và lương :\nhttps://m.me/ch/AbaIb3tYuEHqmOeV/\n11 20 05",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/497439067_1041385557454244_7457064104836594983_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=R6pJF6-jDVEQ7kNvwF90DUK&_nc_oc=AdmNoE72CWvp1qKvIsakjl5G-itHXqvxNTqJP0nA6KnfdAdTYCcXEm6_KSZfuvECEa0&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=4IEe56VtGk0GpLTGmCZm6Q&oh=00_AfXgVJyREm0VMh_2t7nEJRRk37eCJ75CsjFEx6oG0_blAQ&oe=68A22C29"
     ],
     "group_id": "240215258630606",
     "group_name": "HỘI NGƯỜI VIỆT NAM SỐNG TẠI HÀN QUỐC 🔥",
@@ -5277,19 +4444,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100091733918219",
-    "author": "Trần Quỳnh",
-    "author_url": "https://www.facebook.com/profile.php?id=100091733918219",
-    "post_url": "https://www.facebook.com/groups/3074456019454942/permalink/4095268100707057/",
-    "time": "2025-02-18 13:19",
-    "message": "cần người làm thêm\nCông việc: Làm về dán tem\nthời gian làm việc\nsáng - chiều - tối - đêm\nlàm T7 CN cũng dc\nKo yêu cầu tiếng. Cty có người việt hướng dẫn.\nLương 800.000krw / tuần (ưu tiên nữ)\nAi làm dc ib trao đổi công việc cụ thể.",
-    "media_urls": [],
-    "group_id": "3074456019454942",
-    "group_name": "Cộng Đồng Người Việt Tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/3074456019454942/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100007407188341",
     "author": "Hoa Hoa",
     "author_url": "https://www.facebook.com/profile.php?id=100007407188341",
@@ -5326,32 +4480,6 @@ window.completePostsData = [
     "group_id": "2052071345112787",
     "group_name": "Việc Tìm Người Người Tìm Việc Korea 2",
     "group_url": "https://www.facebook.com/groups/2052071345112787/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "61550201797323",
-    "author": "Trịnh Kim Minh",
-    "author_url": "https://www.facebook.com/trinh.kim.minh.971950",
-    "post_url": "https://www.facebook.com/groups/vieclamthemtaihanquoc247/permalink/1417087502653680/",
-    "time": "2025-04-25 14:16",
-    "message": "🍨🍨Team tụi mình dịch TRUYỆN TRANH🧊\nYêu cầu:\nBiết T.hàn  cơ bản là được á\nCó thể dùng gg dịch\n🫐Sau khi nộp deadline tụi mình đều góp ý kiến về bản dịch của bạn để bạn rút kinh nghiệm\n🍟Boss dễ tính, nhiệt tình hướng dẫn newbie, những tờ giấy trắng\nDeadline nói chung cũng khá thoáng, bạn nào muốn có kinh nghiệm dịch truyện tranh thì về đội mình\nLương 250k trên ngày",
-    "media_urls": [],
-    "group_id": "405887057107068",
-    "group_name": "VIỆC LÀM THÊM TẠI HÀN QUỐC (KOREA)",
-    "group_url": "https://www.facebook.com/groups/vieclamthemtaihanquoc247/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "1351830162779948",
-    "author": "Người tham gia ẩn danh",
-    "author_url": null,
-    "post_url": "https://www.facebook.com/groups/320866806891553/permalink/883042820673946/",
-    "time": "2025-05-28 18:46",
-    "message": "Em chào mọi người ạ. \n Nhờ mọi người tư vấn giúp em, em dự định sang Hàn để học tập và làm việc, kiểu đi để được sống trong môi trường tiếng Hàn giúp giao tiếp tự nhiên và có cơ hội việc làm hơn ấy ạ, chứ không phải dạng đi du học ạ.\n Vậy thì em cần chuẩn bị gì từ bây giờ ạ?",
-    "media_urls": [],
-    "group_id": "320866806891553",
-    "group_name": "Hội Người Việt Nam Tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/320866806891553/",
     "group_thumbnail": ""
   },
   {
@@ -5491,19 +4619,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100091733918219",
-    "author": "Trần Quỳnh",
-    "author_url": "https://www.facebook.com/profile.php?id=100091733918219",
-    "post_url": "https://www.facebook.com/groups/3412293102416262/permalink/3742522812726621/",
-    "time": "2025-02-18 13:19",
-    "message": "cần người làm thêm\nCông việc: Làm về dán tem\nthời gian làm việc\nsáng - chiều - tối - đêm\nlàm T7 CN cũng dc\nKo yêu cầu tiếng. Cty có người việt hướng dẫn.\nLương 800.000krw / tuần (ưu tiên nữ)\nAi làm dc ib trao đổi công việc cụ thể.",
-    "media_urls": [],
-    "group_id": "3412293102416262",
-    "group_name": "HỘI NGƯỜI VIỆT SỐNG TẠI OSAN ( Hàn Quốc)",
-    "group_url": "https://www.facebook.com/groups/3412293102416262/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100073246356131",
     "author": "Trần Hoạ Mi",
     "author_url": "https://www.facebook.com/profile.php?id=100073246356131",
@@ -5612,45 +4727,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100012069373759",
-    "author": "Phạm Nguyễn Bảo Thy",
-    "author_url": "https://www.facebook.com/baothy.pham.779",
-    "post_url": "https://www.facebook.com/groups/1954798384888294/permalink/2349334845434644/",
-    "time": "2025-01-23 18:23",
-    "message": "Tìm 4 nữ 3 nam làm chung với mình . Lương thanh toán trong ngày . Liên hệ mình nhận việc nhé !",
-    "media_urls": [],
-    "group_id": "1954798384888294",
-    "group_name": "Cộng Đồng Người Việt Tại Hàn Quốc - KOREA ✅",
-    "group_url": "https://www.facebook.com/groups/1954798384888294/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100091733918219",
-    "author": "Trần Quỳnh",
-    "author_url": "https://www.facebook.com/profile.php?id=100091733918219",
-    "post_url": "https://www.facebook.com/groups/3313640272237651/permalink/4021537511447920/",
-    "time": "2025-02-18 13:19",
-    "message": "cần người làm thêm\nCông việc: Làm về dán tem\nthời gian làm việc\nsáng - chiều - tối - đêm\nlàm T7 CN cũng dc\nKo yêu cầu tiếng. Cty có người việt hướng dẫn.\nLương 800.000krw / tuần (ưu tiên nữ)\nAi làm dc ib trao đổi công việc cụ thể.",
-    "media_urls": [],
-    "group_id": "3313640272237651",
-    "group_name": "HỘI NGƯỜI VIỆT NAM 🇻🇳 TẠI KOREA 🇰🇷",
-    "group_url": "https://www.facebook.com/groups/3313640272237651/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100015271752811",
-    "author": "Hồ Thanh Ngân",
-    "author_url": "https://www.facebook.com/profile.php?id=100015271752811",
-    "post_url": "https://www.facebook.com/groups/3313640272237651/permalink/4048207262114278/",
-    "time": "2025-03-14 19:47",
-    "message": "Chào mn\nKhu vực 대구 Cty vợ chồng em đang làm đang cần tuyển thêm 6 bạn nhân viên . \nLương 7.5.k - 9.5.k ngày thanh toán vào cuối ngày .\nMọi người ai có thời gian và thực sự nghiêm túc tìm+Lm việc thì ib em gửi thông tin cho ạ .",
-    "media_urls": [],
-    "group_id": "3313640272237651",
-    "group_name": "HỘI NGƯỜI VIỆT NAM 🇻🇳 TẠI KOREA 🇰🇷",
-    "group_url": "https://www.facebook.com/groups/3313640272237651/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100012195540576",
     "author": "Ánh Ngọc",
     "author_url": "https://www.facebook.com/profile.php?id=100012195540576",
@@ -5703,19 +4779,6 @@ window.completePostsData = [
     "group_id": "1504561799844271",
     "group_name": "Hội Người Việt Nam Tại Hàn Quốc",
     "group_url": "https://www.facebook.com/groups/hoinguoivietnamtaihanquockorea/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100093013767601",
-    "author": "Quế Khuê",
-    "author_url": "https://www.facebook.com/profile.php?id=100093013767601",
-    "post_url": "https://www.facebook.com/groups/849289813369859/permalink/949288030036703/",
-    "time": "2025-01-03 19:59",
-    "message": "**[TUYỂN NHÂN VIÊN KIỂM TRA, XỬ LÝ ĐƠN HÀNG VÀ GIAO HÀNG]**\n* **Làm việc: **풀타임 hoặc alba (có thể làm cuối tuần).\n* **Lương:** Thanh toán ngay, lương thưởng đầy đủ.\n* **Cơ hội: **Làm lâu dài với chế độ hấp dẫn, Có hỗ trợ người mới trong công việc, làm việc trong môi trường năng động và linh hoạt.\n* **Yêu cầu: **Siêng năng, tập trung trong công việc.",
-    "media_urls": [],
-    "group_id": "849289813369859",
-    "group_name": "Hội Người Việt Nam Tại Hàn quốc",
-    "group_url": "https://www.facebook.com/groups/849289813369859/",
     "group_thumbnail": ""
   },
   {
@@ -5907,21 +4970,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100009242149471",
-    "author": "Trần Nhật Tuấn",
-    "author_url": "https://www.facebook.com/tran.nhat.tuan.65027",
-    "post_url": "https://www.facebook.com/groups/1280897333102839/permalink/1485641325961771/",
-    "time": "2025-02-15 17:23",
-    "message": "Góc việc tìm người \nXưởng nhựa 사출 cần tuyển 4 bạn nam nữ k quam trọng ( nữ yêu cầu phải là Hợp Pháp) \nLương bộ 10.030 \n8h-8h có 특근\nLương trả ngày 25 \nCó xe đưa đón ở 시내 중양시장 해동 여고 ... 입실  \nAnh chị e có nhu cầu lh e 010 9750 4333",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/503577563_4013451938972838_3376348637767252290_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=TnpDcD1wy4IQ7kNvwHyplsZ&_nc_oc=Adl62MoTOnUTWko1z1mJq9qn4XFLrXvyUvPS6JmlQ_1qh_OtLBlnwzTIXV_PcoRLtMI&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=EyCgy74KRv_hcoKjBDQjOw&oh=00_AfXP1pmgi3x44RdcbONLFl5iAN_ueRovcXImnMdvdgKcVg&oe=68A2256F"
-    ],
-    "group_id": "1280897333102839",
-    "group_name": "Việc Làm Tại 경주시 Và Khu Vực 경상복도",
-    "group_url": "https://www.facebook.com/groups/1280897333102839/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100093299120961",
     "author": "Linh Thảo",
     "author_url": "https://www.facebook.com/linh.thao.669373",
@@ -5931,21 +4979,6 @@ window.completePostsData = [
     "media_urls": [
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/528171142_649855464801085_6271852706943379157_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=6YoXVCdQaqUQ7kNvwHYd3yg&_nc_oc=AdksX6qap4AqDvdP7pgGxqahBO-Nesxayk-GYoWqKW9PdIkKb1SRYp8HO30uYtZzIpQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=h_SrJFYEcHkYx-HjPjcqBQ&oh=00_AfVIJTUY1WtAbV-C0qgMf4T7r8Kx3fflnCAI5bDp_bykJA&oe=68A228BD",
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/529723273_649855451467753_8477474909134854310_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=FKedLXky24QQ7kNvwH4aR7q&_nc_oc=AdlIGrH0kBF_MJDOa2li1PQnDudEpXcrjjwlP90Ya_GCP5E_RHIAd5a-FCCUyuDytDM&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=h_SrJFYEcHkYx-HjPjcqBQ&oh=00_AfV2_UuM79QmreaZtf25kDH2LmPtY4sWMmSFsbEMyqq9cQ&oe=68A2267E"
-    ],
-    "group_id": "1719572888182248",
-    "group_name": "KOREA NGƯỜI TÌM VIỆC - VIỆC TÌM NGƯỜI",
-    "group_url": "https://www.facebook.com/groups/1719572888182248/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100003891774709",
-    "author": "우재성",
-    "author_url": "https://www.facebook.com/stardust7041",
-    "post_url": "https://www.facebook.com/groups/1719572888182248/permalink/3054160891390101/",
-    "time": "2025-02-05 13:33",
-    "message": "충청북도 충주\n✳️TUYÊN NHÂN VIÊN PHỤC VỤ QUÁN ĂN✳️\n\n✅TUYỂN 1 người phục vụ ( chạy bàn) người phục vụ nói được tiếng hàn \n\n2,500,000won\n\n*NHÀ HÀNG CUNG CẤP CHỔ ĂN Ở GẦN CHỔ LÀM (NHÀ CÓ HAI PHÒNG RẤT THOẢI MÁI)\n✅1 Tháng nghĩ 4 ngày \n\n✅9:30 đi làm đến 8:00 hoặc 8:30 \n\n✅ Break time 3:00~5:00\n \n\n❤️Người làm cùng tốt bụng thân thiện làm cùng người việt nam , vì là quán ở vùng nông thôn nên không có khách nhiều ☺️\n\nHiện tại có 1 nhân viên người Việt đang làm việc ở đó nên sẽ không khó để thích nghi.\nCác nhân viên đều tốt và không khí tốt đẹp.\nNhững người sẽ làm việc chăm chỉ trong thời gian dài\nnhưng tất cả nhân viên ở đây đều hòa đồng thân thiện.\n\nChỉ tuyển dụng phụ nữ vì chỉ có phụ nữ sống trong ký túc xá.\n010-7474-7041",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/510023804_3476686695804355_7323700455030607656_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=SZnDh-Qk6g4Q7kNvwHRsOjQ&_nc_oc=Adk2dFeubN6kiYDHNCHOmbEs8STJnJeGuiZFPIqjmfk43UVntaeXoQ8xphYHJUIsoAU&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=h7vPsjwGPVtwKFMlrHcsNg&oh=00_AfUA5FQskHe149SFQRucdAw43RWXzAwnKsnQaZUrn5my_Q&oe=68A22391"
     ],
     "group_id": "1719572888182248",
     "group_name": "KOREA NGƯỜI TÌM VIỆC - VIỆC TÌM NGƯỜI",
@@ -5992,19 +5025,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100084069247571",
-    "author": "Phạm Thị Huyền Trang",
-    "author_url": "https://www.facebook.com/pham.thi.huyen.trang.419922",
-    "post_url": "https://www.facebook.com/groups/2391515684251347/permalink/9635594333176743/",
-    "time": "2025-05-16 17:03",
-    "message": "- Góc tuyển lao động Chủ doanh nghiệp bảo lãnh tại H.àn Q.uốc \n\n- Xưởng mình đang cần tuyển người làm thực phẩm, nhân sâm , nấm linh chi...,   (  vị trí làm việc  ) như lái xe giao hàng , vệ sinh thực phẩm , kiểm hàng sản xuất và đóng gói ...vv \n\n- Làm việc ngày 8 tiếng làm giờ hành chính từ 8h sáng đến 5h chiều . \n\n- ngoài 8 tiếng giờ hành chính có thể sẽ tăng ca từ 2-3 tiếng mỗi ngày . Trung bình là 2 tiếng / ngày .\n\n- Làm việc từ thứ hai đến thứ bảy , thứ bảy sẽ tính vào giờ tăng ca 8h/ngày nghỉ , chủ nhật nghỉ",
-    "media_urls": [],
-    "group_id": "2391515684251347",
-    "group_name": "Cộng đồng người Việt Nam tại Hàn Quốc",
-    "group_url": "https://www.facebook.com/groups/2391515684251347/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "61563581595502",
     "author": "Vũ Thị Tuyết",
     "author_url": "https://www.facebook.com/Vuthituyet12345",
@@ -6033,41 +5053,12 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "1493683808266545",
-    "author": "Người tham gia ẩn danh",
-    "author_url": null,
-    "post_url": "https://www.facebook.com/groups/534497727236361/permalink/1632789004073889/",
-    "time": "2025-05-27 20:22",
-    "message": "🔥 ở 영주 quán 장어 cần tìm 1 người làm bếp\n   * làm tháng\n      nghỉ thứ 2 ( tháng nghỉ 4ng)\n      từ 10g-10g\n      lương: 2,900\n🔥 Làm lâu dài yc có kinh nghiệm nha \n  — sdt ong chủ : 010 9903 1911 \n  chủ dễ tính môi trường làm việc thoải mái không gò bò ai muốn làm thì ntin cho ông chủ biết tiếng thì gọi trực tiếp với ông chủ nha \n   ( Ở 영주 NHA)",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500215443_1238809544698926_1844975118735241518_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=q0wx2KeoMaMQ7kNvwF9lCib&_nc_oc=Adk-MuJPtR_zI8bTwCc9b3mteXDRLuKvlmT3xqFLo0nK8IyFDyIkou80KabgGFE1C0I&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=f5mg-RBY21HIzwHFQFAQeQ&oh=00_AfV0pcfspa7U8a7W46N8as2bbS_Vc1AOOUTRVxBRYMsUag&oe=68A21C21",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/500432292_1238809561365591_1903760570768513605_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=K8z448K1P-UQ7kNvwEg4qov&_nc_oc=AdlUT7oXu8GFQx_d34JvmuCwMII0lywJZFNjDpVsUwqgUrIHwTNsCje6dniU2aBWp_o&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=f5mg-RBY21HIzwHFQFAQeQ&oh=00_AfWAPXGAQuoo86189v8bHx8S2Wg0nF4yDnppIsmNLh4hJQ&oe=68A20E66"
-    ],
-    "group_id": "534497727236361",
-    "group_name": "Hội người Việt Nam ở 안동 예천 영주",
-    "group_url": "https://www.facebook.com/groups/534497727236361/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "1301234524823947",
     "author": "Người tham gia ẩn danh",
     "author_url": null,
     "post_url": "https://www.facebook.com/groups/534497727236361/permalink/1687233118629477/",
     "time": "2025-08-10 09:14",
     "message": "Dhs muốn kiếm việc làm nông có luôn ktx , ở Yeongju có chỗ nào nhận chỉ e với ạ",
-    "media_urls": [],
-    "group_id": "534497727236361",
-    "group_name": "Hội người Việt Nam ở 안동 예천 영주",
-    "group_url": "https://www.facebook.com/groups/534497727236361/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100025112527225",
-    "author": "Minh Minh Minh",
-    "author_url": "https://www.facebook.com/minh.minh.minh.257657",
-    "post_url": "https://www.facebook.com/groups/534497727236361/permalink/1557501388269318/",
-    "time": "2025-02-08 14:29",
-    "message": "Cần tìm hai người làm bí 애호박 làm việc lâu dài ai cần ib em ạ",
     "media_urls": [],
     "group_id": "534497727236361",
     "group_name": "Hội người Việt Nam ở 안동 예천 영주",
@@ -6102,19 +5093,6 @@ window.completePostsData = [
     "group_id": "340931117481853",
     "group_name": "Hội người Việt tại 경기도 하남시",
     "group_url": "https://www.facebook.com/groups/340931117481853/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "9211353002320158",
-    "author": "Người tham gia ẩn danh",
-    "author_url": null,
-    "post_url": "https://www.facebook.com/groups/25365119333131585/permalink/29330691283241017/",
-    "time": "2025-04-21 12:22",
-    "message": "E nữ hp [공도) đang tìm việc làm 8h ạ .anh chị em ai biết xưởng hay cty nào đang nhận người thì chỉ giúp e với ạ.help me.",
-    "media_urls": [],
-    "group_id": "25365119333131585",
-    "group_name": "Hội người Việt Nam tại 안성 ,평택",
-    "group_url": "https://www.facebook.com/groups/25365119333131585/",
     "group_thumbnail": ""
   },
   {
@@ -6201,21 +5179,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "1398748238",
-    "author": "Giang Sít",
-    "author_url": "https://www.facebook.com/gsytdt",
-    "post_url": "https://www.facebook.com/groups/431667646912464/permalink/9552717371474067/",
-    "time": "2025-04-07 18:42",
-    "message": "Xây Dựng ở Seoul, Cần người đi cẩu sắt. Làm cùng với người Hàn chỉ đứng nhận sắt không cần biết việc, không vất vả, cần 3-4 người nam hoặc nữ đều được vì siêu nhàn.\n\nThời gian làm việc cụ thể từ 7h sáng tới 4h30’ chiều:\n• 6h30: có mặt ăn cơm sáng, không ăn cơm thì lấy bánh sữa\n• 7h-9h: nghỉ giữa giờ uống nước ăn bánh 15’\n• 11h30 ăn trưa nghỉ tới 13h bắt đầu làm\n• 15h: nghỉ 15’ ăn bánh uống nước\n• 16h30 tan làm ra về\n\nViệc rất đều lương 140k/1 ngày. Ai thiện chí thì liên hệ mình tên Giang. Sđt: 010-4214-9839 mình giới thiệu cho số liên lạc. Cảm ơn chủ hội đã duyệt bài.",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/489884547_10227944285578025_8989098477797445178_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=AVoMVDaVbGYQ7kNvwHZYHzb&_nc_oc=AdnphPaQH_Cp-uQHzBzJpA4gDpq4NK8g7uHvMYcD0QhnLAsDzQHaFRxDKXRVAdukeiI&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=E4m5z3enOz9Ph9_ilk7Hdw&oh=00_AfXSD1V0Y0NS6Owgvwbv9tjzfLn6b1osD9l0vA8rjk75rA&oe=68A235BA"
-    ],
-    "group_id": "431667646912464",
-    "group_name": "[Korea] Việc Tìm Người - Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/431667646912464/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100039243224854",
     "author": "Thanh Tú",
     "author_url": "https://www.facebook.com/thanh.tu.781022",
@@ -6226,60 +5189,6 @@ window.completePostsData = [
     "group_id": "1004695973672255",
     "group_name": "HỘI TÌM VIỆC LÀM TẠI HÀN QUỐC",
     "group_url": "https://www.facebook.com/groups/1004695973672255/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100001203278682",
-    "author": "Hạ Nguyễn",
-    "author_url": "https://www.facebook.com/ha.nguyen.2902",
-    "post_url": "https://www.facebook.com/groups/1004695973672255/permalink/1939933020148541/",
-    "time": "2025-04-04 19:09",
-    "message": "🌈 🌸🌸🌸 Vẫn là em với chuyên mục tìm người hộ hàng xóm 🌸🌸🌸🌈\n\n👉 경기도 양주 포천, 양주( kiêng ki- jang ju - pho chon miền bắc) \n\n👉 House làm dưa chuột, bí ngòi, cà chua bi cần tìm người làm. Lương theo tháng  (tầm ~50 tuổi)  \n\n👉 E tìm hộ hàng xóm nên ai có nhu cầu thì inbox nhắn tin liên hệ e cho sđt chủ r trực tiếp gọi điện nc ( Chủ ng Hàn)",
-    "media_urls": [],
-    "group_id": "1004695973672255",
-    "group_name": "HỘI TÌM VIỆC LÀM TẠI HÀN QUỐC",
-    "group_url": "https://www.facebook.com/groups/1004695973672255/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100001203278682",
-    "author": "Hạ Nguyễn",
-    "author_url": "https://www.facebook.com/ha.nguyen.2902",
-    "post_url": "https://www.facebook.com/groups/1004695973672255/permalink/1905379076937269/",
-    "time": "2025-02-22 08:42",
-    "message": "🧚‍♂️🧚‍♂️🧚‍♂️Vẫn là em ngoi lên để tìm người. Nay e tìm thêm cho hàng xóm nhà e nữa ạ.\n\n🧚‍♂️🧚‍♂️🧚‍♂️\n경기도 양주시 (Miền Bắc- cách seoul tầm 1 tiếng đi xe)\n\n👉 House nhà e  đang  cần  tìm cặp vợ chồng( ~50 tuổi)  làm  nông  trong  house dưa chuột (dưa leo)\n\n👉  Tìm  người  làm  lâu  dài. \n\n👉  Nếu  làm tốt,  chăm  chỉ  sẽ  tăng lương\n\n👉  Bao  nhà  ở. Gạo.  Ga.  Điện.  Nước. \n\n👉 Thời gian làm việc từ 6h-6h. Nghỉ trưa 1tiếng. Nắng nóng thì thời gian làm linh động. \n👉  E  tìm  người  cho  nhà  e  nên  MIỄN PHÍ.\n🍀 Em là người Việt nên có thể thoải mái trao đổi , quan tâm thì liên hệ sđt 01047376529 (Hạ -sn 91)",
-    "media_urls": [],
-    "group_id": "1004695973672255",
-    "group_name": "HỘI TÌM VIỆC LÀM TẠI HÀN QUỐC",
-    "group_url": "https://www.facebook.com/groups/1004695973672255/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100093147824562",
-    "author": "Kim Hye Jeong",
-    "author_url": "https://www.facebook.com/profile.php?id=100093147824562",
-    "post_url": "https://www.facebook.com/groups/2768624169923475/permalink/8887557038030127/",
-    "time": "2025-01-21 10:24",
-    "message": "Chỗ mình đang làm có đang cần người làm, Làm từ giờ đến tết luôn việc nhiều lắm, Chị em đang tìm việc thì nhắn em vào làm cùng em.",
-    "media_urls": [],
-    "group_id": "2768624169923475",
-    "group_name": "NGƯỜI  TÌM VIỆC — VIỆC TÌM NGƯỜI TẠI HÀN QUỐC",
-    "group_url": "https://www.facebook.com/groups/2768624169923475/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100003891774709",
-    "author": "우재성",
-    "author_url": "https://www.facebook.com/stardust7041",
-    "post_url": "https://www.facebook.com/groups/1718116645133239/permalink/4033474646930749/",
-    "time": "2025-05-15 10:07",
-    "message": "충청북도 충주\n✳️TUYÊN NHÂN VIÊN PHỤC VỤ QUÁN ĂN✳️\n\n✅TUYỂN 1 người phục vụ ( chạy bàn) người phục vụ nói được tiếng hàn \n\n2,700,000won\n\n*NHÀ HÀNG CUNG CẤP CHỔ ĂN Ở GẦN CHỔ LÀM (NHÀ CÓ HAI PHÒNG RẤT THOẢI MÁI)\n✅1 Tháng nghĩ 4 ngày \n\n✅9:30 đi làm đến 8:00 hoặc 8:30 \n\n✅ Break time 3:00~5:00\n \n\n❤️Người làm cùng tốt bụng thân thiện làm cùng người việt nam , vì là quán ở vùng nông thôn nên không có khách nhiều ☺️\n\nHiện tại có 1 nhân viên người Việt đang làm việc ở đó nên sẽ không khó để thích nghi.\nCác nhân viên đều tốt và không khí tốt đẹp.\nNhững người sẽ làm việc chăm chỉ trong thời gian dài\nnhưng tất cả nhân viên ở đây đều hòa đồng thân thiện.\n\nChỉ tuyển dụng phụ nữ vì chỉ có phụ nữ sống trong ký túc xá.\n010-7474-7041",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/510618593_3476928425780182_5827235616458235988_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=t75zWJRiaU4Q7kNvwEqtKiL&_nc_oc=AdmH3d2ZHlk_C2n1Qs_Q1nSoPIVxI7t1AdoJSZss77pfY7KNTBB8R_HiJtWuejXbqeM&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=WPvqasvfdbuHewpnaCcr4Q&oh=00_AfVsW9c59ZwqfiGK5JXYVnI1WJz1Kcme0RVSwBPkzu2GMg&oe=68A2386C"
-    ],
-    "group_id": "1718116645133239",
-    "group_name": "( Korea ) Người Tìm Việc / Việc Tìm Người",
-    "group_url": "https://www.facebook.com/groups/1718116645133239/",
     "group_thumbnail": ""
   },
   {
@@ -6337,19 +5246,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100031139122356",
-    "author": "Eun Ji",
-    "author_url": "https://www.facebook.com/rahul.pjt.1",
-    "post_url": "https://www.facebook.com/groups/638054477110764/permalink/1660973348152200/",
-    "time": "2025-01-01 12:01",
-    "message": "Xin chào. Tôi đang tìm người có thể làm việc vào thứ bảy và chủ nhật.",
-    "media_urls": [],
-    "group_id": "638054477110764",
-    "group_name": "[korea] Việc Tìm Người- Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/638054477110764/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100007660531098",
     "author": "Thanh Pham",
     "author_url": "https://www.facebook.com/thanh.pham.519638",
@@ -6357,21 +5253,6 @@ window.completePostsData = [
     "time": "2025-07-30 13:02",
     "message": "Em cần thêm 1 người (nữ) nữa  làm tại nhà hàng tại pocheon (k dành cho e9 và bhp)\n\nCông việc : nấu cơm(bằng nồi điện nhỏ chuyên dụng -điện tự động - của bếp nhà hàng) \nSố lượng : 1 nữ (dưới 60 tuổi, càng trẻ càng tốt) \nLương : 3tr14 ( có 4대보험)\nGiờ làm: 10h sáng ~9h tối \nĐược nghĩ 4 ngày /tháng \n\nTư vấn : 010 -8123-8918 .",
     "media_urls": [],
-    "group_id": "303645987334400",
-    "group_name": "[KOREA] Việc tìm người--Người tìm việc :))",
-    "group_url": "https://www.facebook.com/groups/303645987334400/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "61552065026265",
-    "author": "Hoa Hoa",
-    "author_url": "https://www.facebook.com/hoa.hoa.18287",
-    "post_url": "https://www.facebook.com/groups/303645987334400/permalink/1402294307469557/",
-    "time": "2025-05-19 19:10",
-    "message": "Xin phép chủ trang ạ♡♡♡\n\nGấp Gấp Gấp\n\nChi nhánh 강남  cần tuyển kĩ thuật viên gội đầu dưỡng sinh và massage.\n\n1.Tuyển 2 bạn cuối tuần và lịch đỏ\n   ( Ưu tiên các em dhs)\n2.Tuyển 2 bạn ca ngày , hoặc 24h. \n  (Ưu tiên các bạn quốc tịch, F5, F6)\n\n- Tiêu chuẩn: Có tay nghề hoặc chưa có tay nghề đều được ạ\n\nMô tả công việc:\n- Dịch vụ: Gội đầu dưỡng sinh, cạo râu, lấy ráy tai, Massage body, vật lý trị liệu.\n-  Đào tạo 1~2 ngày ra nghề( miễn phí)\n- Tuổi từ 18~37, \n- Có khả năng làm fun ngày hoặc ăn ngủ nghỉ tại quán, hoặc làm theo ca, \n- Lương 50% cho các sét ạ\n-Môi trường lành mạnh, sạch sẽ\n-Xin nghỉ hẳn cũng dễ dàng, trả lương ngay trong ngày khi xin nghỉ hẳn...cam kết ko giữ lại lương khi thôi việc.\n-Trả lương theo ngày, tuần, tháng đều ok\n-Quán rộng , ngủ nghỉ tại quán hay đi đi về về đều ok\n-Có quần áo đồng phục của quán, hoặc mặc váy của bạn đều ok\n\nSđt liên lạc: 010 3313 6869",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/498934069_122235537164068834_2277227420299038400_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Yculs8BdMXIQ7kNvwE7Ng60&_nc_oc=AdmOOJ3RRXRFDYqOO5Th3StWue-fIALboAKSohVnGXZ3kAMpVE3U1JvCh3mNweaCydc&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=aRq6i_i-4jo2H77plYkwlQ&oh=00_AfXtWBP6DLQuQ9gZmIzIzOgql2GofjT53VGUUenbk_4kPQ&oe=68A21FEE"
-    ],
     "group_id": "303645987334400",
     "group_name": "[KOREA] Việc tìm người--Người tìm việc :))",
     "group_url": "https://www.facebook.com/groups/303645987334400/",
@@ -6416,19 +5297,6 @@ window.completePostsData = [
     "post_url": "https://www.facebook.com/groups/551009906669083/permalink/1082721876831214/",
     "time": "2025-08-10 10:21",
     "message": "[Do chưa tìm đc ng nên mình đăng lại]\nQuán thịt cừu cần tuyển nam làm bếp ạ.\n(T3-t5, cn):03:30~12:00\n(T6,t7):03:30~02:00\nĐc: 경기 안산시 단원구 초지동 734-4\nNt cho mình(010 7657 3210)",
-    "media_urls": [],
-    "group_id": "551009906669083",
-    "group_name": "정왕-시흥-안산 Hội Người Việt Nam Mua Bán- Trao Đổi- Tìm Việc- Tìm Nhà",
-    "group_url": "https://www.facebook.com/groups/551009906669083/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "650117380693183",
-    "author": "Người tham gia ẩn danh",
-    "author_url": null,
-    "post_url": "https://www.facebook.com/groups/551009906669083/permalink/961572375612832/",
-    "time": "2025-02-11 11:20",
-    "message": "Nữ 32 tuổi cần tìm việc gấp làm rửa bát quán ăn , cty. Ai có việc làm chỉ giúp e với ạ. Làm tuần ngày, tuần đêm đều dc ạ. Mọi người giúp e với. E xin chân thành cảm ơn☺️☺️☺️",
     "media_urls": [],
     "group_id": "551009906669083",
     "group_name": "정왕-시흥-안산 Hội Người Việt Nam Mua Bán- Trao Đổi- Tìm Việc- Tìm Nhà",
@@ -6505,21 +5373,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "61575304435470",
-    "author": "이에라",
-    "author_url": "https://www.facebook.com/iela.894557",
-    "post_url": "https://www.facebook.com/groups/8835869916518368/permalink/9190427987729224/",
-    "time": "2025-04-17 23:01",
-    "message": "QUÁN HÁT Ở 일산\n-Tuyển nhân viên làm rót bia bấm bài 60kw/1h\n- Độ tuổi 20-35t\n- ngày làm trung bình 5-10 tiếng tùy sức và năng lực mỗi người\n-Tiền nhận theo ngày \n-Quán có ktx và xe đưa đón nv đi làm mỗi ngày.\n- Chủ người Hàn tốt tính, thân thiện, dễ gần.\n-Liên hệ: 010-9960-5448",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/491837853_122098073360843481_2720979638792980444_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=5cA7oMkl_MAQ7kNvwFEPMR2&_nc_oc=AdnFFmGHljAJXziUHfFtPGXyprYxOE9TU_xwhusUjEXw_4VsB0uV_G2ksjqCHM_N6XY&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=C0CZRWaFJm5VvKOj8VXJvQ&oh=00_AfVRDK7SFY-BvPesM0qaqXpfnK7YSRTphqRLMEjtJCr9RA&oe=68A223AD"
-    ],
-    "group_id": "8835869916518368",
-    "group_name": "VIỆC TÌM NGUỜI- NGỪƠI TÌM VIỆC TẠI KOREA",
-    "group_url": "https://www.facebook.com/groups/8835869916518368/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100005961376889",
     "author": "Vũ Minh Tuấn",
     "author_url": "https://www.facebook.com/vmt228",
@@ -6543,32 +5396,6 @@ window.completePostsData = [
     "group_id": "404562617230209",
     "group_name": "HỘI TÌM VIỆC LÀM TẠI 천안시-아산시",
     "group_url": "https://www.facebook.com/groups/404562617230209/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100089040349827",
-    "author": "DesignerNBA",
-    "author_url": "https://www.facebook.com/designernba",
-    "post_url": "https://www.facebook.com/groups/404562617230209/permalink/1374953056857822/",
-    "time": "2025-04-12 12:01",
-    "message": "Cần 2 Nam làm nông ( làm nhà bạt) \nkhu an song ( 안성)\n*Công việc đơn giản, thoải mái , chủ tốt, lương theo ngày theo thoả thuận. \n *Yêu cầu : \n1. có thể làm lâu dài FULL TUẦN ( không nhận làm cuối tuần hay ngày thường ) có ngày nghỉ nếu muốn\n 2.chăm chỉ, nhanh tay chút.\n * Bao nhà ở cơm ăn or cho tiền ăn \n ==> Thực sự muốn làm việc hãy ib mình.\nĐọc kỹ để tránh mất time của mình nhé!",
-    "media_urls": [],
-    "group_id": "404562617230209",
-    "group_name": "HỘI TÌM VIỆC LÀM TẠI 천안시-아산시",
-    "group_url": "https://www.facebook.com/groups/404562617230209/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100040285922540",
-    "author": "Won Hye",
-    "author_url": "https://www.facebook.com/profile.php?id=100040285922540",
-    "post_url": "https://www.facebook.com/groups/150984229559780/permalink/1116852822972911/",
-    "time": "2025-01-05 10:19",
-    "message": "Xin chào. Tôi đang tìm người có thể làm việc vào thứ bảy và chủ nhật.",
-    "media_urls": [],
-    "group_id": "150984229559780",
-    "group_name": "의성군 (Uiseong) Việc Tìm Người_ Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/150984229559780/",
     "group_thumbnail": ""
   },
   {
@@ -6738,21 +5565,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100003891774709",
-    "author": "우재성",
-    "author_url": "https://www.facebook.com/stardust7041",
-    "post_url": "https://www.facebook.com/groups/644919806415520/permalink/1618124465761711/",
-    "time": "2025-02-05 13:32",
-    "message": "충청북도 충주\n✳️TUYÊN NHÂN VIÊN PHỤC VỤ QUÁN ĂN✳️\n\n✅TUYỂN 1 người phục vụ ( chạy bàn) người phục vụ nói được tiếng hàn \n\n2,500,000won\n\n*NHÀ HÀNG CUNG CẤP CHỔ ĂN Ở GẦN CHỔ LÀM (NHÀ CÓ HAI PHÒNG RẤT THOẢI MÁI)\n✅1 Tháng nghĩ 4 ngày \n\n✅9:30 đi làm đến 8:00 hoặc 8:30 \n\n✅ Break time 3:00~5:00\n \n\n❤️Người làm cùng tốt bụng thân thiện làm cùng người việt nam , vì là quán ở vùng nông thôn nên không có khách nhiều ☺️\n\nHiện tại có 1 nhân viên người Việt đang làm việc ở đó nên sẽ không khó để thích nghi.\nCác nhân viên đều tốt và không khí tốt đẹp.\nNhững người sẽ làm việc chăm chỉ trong thời gian dài\nnhưng tất cả nhân viên ở đây đều hòa đồng thân thiện.\n\nChỉ tuyển dụng phụ nữ vì chỉ có phụ nữ sống trong ký túc xá.\n010-7474-7041",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/508882323_3476686602471031_2212469888051832152_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=oUWBvvkB9y8Q7kNvwEzVl9D&_nc_oc=AdkmCqsh-j70W9TUFlkg1vD9Cqrfm4_Fmw8dZrnp67uVz3U8t4Nexwt_r2qlIaupU1E&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=QvezDg5QDFRkI4Ff1u24gg&oh=00_AfXEdgVDotZREbDT5MhMF_qszX0JOdIWbkaFZ0oIw_DIaQ&oe=68A22D99"
-    ],
-    "group_id": "644919806415520",
-    "group_name": "Korea - Việc tìm người - Người tìm việc",
-    "group_url": "https://www.facebook.com/groups/644919806415520/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "1937943116972968",
     "author": "Người tham gia ẩn danh",
     "author_url": null,
@@ -6875,47 +5687,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "61562281156876",
-    "author": "Trần An Nhiên",
-    "author_url": "https://www.facebook.com/tran.an.nhien.724895",
-    "post_url": "https://www.facebook.com/groups/1865125103789049/permalink/3014463218855226/",
-    "time": "2025-05-16 13:35",
-    "message": "Xin ad duyệt bài ạh. E cảm ơn. 😊\nGẤP, GẤP, GẤP..\nQuán hát ( MINA 노래방) tại theann( 태안) cần tuyển gấp quầy phục vụ nam . Làm việc từ 5h chiều mở quán tới hết khách được nghỉ.\n🍀Cviệc là: dọn dẹp phòng hát, đón khách vào phòng, coi camera,  nấu ăn cho nvien, những cviec lien quan chăm sóc khách hàng khi khách đến..\n🍀Lương, thưởng khi liên hệ thì thoả thuận ạh. \n🍀Được bao ăn , bao ở tại quán.\n🍀Tháng được nghỉ 2 ngày.\n🍀Công việc thoải mái không gò bó.\n🍀Không biết việc được đào tạo thêm.\n🍀Không giới hạn visa\n🍀biết tiếng hàn là một lợi thế. \n🌸🌸Ib trực tiếp: mina: 010-6441-2668\nCó thể tới làm luôn. Mong các bạn thiện chí làm việc liên lạc ạh. \n🌸🌸Vui lòng liên hệ sau 8giờ tối. \nE cảm ơn ạh 😊😊😊",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/498173063_122138998604409371_3033782767672851629_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=UbitsZImktoQ7kNvwHIRAMY&_nc_oc=AdlbVEB_Z57Abck7l-zwqT6M8QJs36a3e2qXHLqi2FmSB51Hvvun_ZHiU_aAixBNvrU&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=5fhDp7F3Z2G4l6bmUfC4Rg&oh=00_AfWhyv2X05Dpj6AMIHyrRC5uhRb4OVDUwUNanKRar6tKLg&oe=68A219D0"
-    ],
-    "group_id": "1865125103789049",
-    "group_name": "Cộng đồng người Việt tại 보령시  ( Tìm việc-Tìm Nhà - Mua bán hàng hoá)",
-    "group_url": "https://www.facebook.com/groups/1865125103789049/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100009470057520",
-    "author": "이효정",
-    "author_url": "https://www.facebook.com/ihyojeong.295337",
-    "post_url": "https://www.facebook.com/groups/656728149200959/permalink/1244048060468962/",
-    "time": "2025-05-09 14:55",
-    "message": "Việc tìm người(인천서구)\nCông việc : nhập nguyên liệu, settings máy tiến hành công việc \nSố lượng: 2 người \nTgian : ca ngày 8h30~19h30\n             Ca đêm 19h30~8h30(1 tuấn đổi ca 1 lần)\nYêu cầu : dưới 35t và có kinh nghiệm phun nhựa\n- có ktx \nLương : theo bộ(tăng theo tay nghề sau 3 tháng, giáo động từ 3~4tr.",
-    "media_urls": [],
-    "group_id": "656728149200959",
-    "group_name": "Tìm Nhà - Nhượng Nhà - Tìm Việc Khu Vực 오산 - 수원 - 평택 ( Chuyển Nhà )",
-    "group_url": "https://www.facebook.com/groups/656728149200959/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "991179729820397",
-    "author": "Người tham gia ẩn danh",
-    "author_url": null,
-    "post_url": "https://www.facebook.com/groups/588529298721173/permalink/1685007992406626/",
-    "time": "2025-03-28 21:38",
-    "message": "E cần tìm việc làm\n7-8h tối đến 12h trưa \nT7-cn full ạ \nTiếng em kh giỏi lắm ac nào có việc cho e làm với ạ 🥺",
-    "media_urls": [],
-    "group_id": "588529298721173",
-    "group_name": "NGƯỜI VIỆT NAM TẠI 수원( người tìm việc -việc tìm người tại 인계 ,권선, 아주연무,…)",
-    "group_url": "https://www.facebook.com/groups/588529298721173/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100005434441765",
     "author": "채원",
     "author_url": "https://www.facebook.com/won.ah.130287",
@@ -6966,19 +5737,6 @@ window.completePostsData = [
     "media_urls": [
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/506289600_646212038472746_5271681678149994648_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=1lVIEhKbcxQQ7kNvwGS0qvV&_nc_oc=AdnfSXT0c22qv2m6nin4wnM_HWrs8ZONctT6wAga_Ah1g30amjn3_c7VTJDe8g8BkMI&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=MWgCsiOO4-4y_oyD3wk7Pw&oh=00_AfVnifKhq16p97RNpG1l6kLNb9y1gBEn3V0S-E6aC7numA&oe=68A22C0C"
     ],
-    "group_id": "825018419685716",
-    "group_name": "Tìm việc làm và tìm nhà khu vực 경산시-영남대",
-    "group_url": "https://www.facebook.com/groups/825018419685716/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "898347822105796",
-    "author": "Người tham gia ẩn danh",
-    "author_url": null,
-    "post_url": "https://www.facebook.com/groups/825018419685716/permalink/977044774483079/",
-    "time": "2025-01-01 13:19",
-    "message": "quán mình cần tuyển người làm thay từ ngày 15/1 -4/2 \nđịa chỉ ở ga 정평 \ntime từ 3h-10h lương 10k/1h  \ncông việc là cắt thịt và rửa bát \n( chỉ tuyển nam )\nyêu cầu : tiếng nghe hiểu ( không tuyển bạn mới sang )",
-    "media_urls": [],
     "group_id": "825018419685716",
     "group_name": "Tìm việc làm và tìm nhà khu vực 경산시-영남대",
     "group_url": "https://www.facebook.com/groups/825018419685716/",
@@ -7117,21 +5875,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100003891774709",
-    "author": "우재성",
-    "author_url": "https://www.facebook.com/stardust7041",
-    "post_url": "https://www.facebook.com/groups/1824798414437934/permalink/3870372366547185/",
-    "time": "2025-02-05 13:35",
-    "message": "충청북도 충주\n✳️TUYÊN NHÂN VIÊN PHỤC VỤ QUÁN ĂN✳️\n\n✅TUYỂN 1 người phục vụ ( chạy bàn) người phục vụ nói được tiếng hàn \n\n2,500,000won\n\n*NHÀ HÀNG CUNG CẤP CHỔ ĂN Ở GẦN CHỔ LÀM (NHÀ CÓ HAI PHÒNG RẤT THOẢI MÁI)\n✅1 Tháng nghĩ 4 ngày \n\n✅9:30 đi làm đến 8:00 hoặc 8:30 \n\n✅ Break time 3:00~5:00\n \n\n❤️Người làm cùng tốt bụng thân thiện làm cùng người việt nam , vì là quán ở vùng nông thôn nên không có khách nhiều ☺️\n\nHiện tại có 1 nhân viên người Việt đang làm việc ở đó nên sẽ không khó để thích nghi.\nCác nhân viên đều tốt và không khí tốt đẹp.\nNhững người sẽ làm việc chăm chỉ trong thời gian dài\nnhưng tất cả nhân viên ở đây đều hòa đồng thân thiện.\n\nChỉ tuyển dụng phụ nữ vì chỉ có phụ nữ sống trong ký túc xá.\n010-7474-7041",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/508971707_3476686875804337_4099668498779377154_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=FncgeVFQUCsQ7kNvwHcmVe4&_nc_oc=AdmqbSp19--kMFg8MC-012UppGLV-MxFZCErTGFRRSTnixk0OwSFl58LuomanvGLC7Y&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=TVlsxQiKNzZudzgJXTIaAg&oh=00_AfU36zda2knGWDEyqTgafx6uHfdTZZcjHQBZ8-RB_qRHZQ&oe=68A23722"
-    ],
-    "group_id": "1824798414437934",
-    "group_name": "[Korea] Người Tìm Việc — Việc Tìm Người",
-    "group_url": "https://www.facebook.com/groups/1824798414437934/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "4263267013954189",
     "author": "Người tham gia ẩn danh",
     "author_url": null,
@@ -7259,19 +6002,6 @@ window.completePostsData = [
     "post_url": "https://www.facebook.com/groups/809188892981791/permalink/1888652778368725/",
     "time": "2025-07-17 18:23",
     "message": "Tuyển nữ !\n\nCo‌ng vie‌‌c: đóng gói, check mã hàng điện tử gia dụng. \n\nlàm T7 CN cũng dc\n\nKo yêu cầu tiếng. Cty có người việt hướng dẫn.\n\nYêu cầu trên 23 tuổi \n\nAi làm dc ib trao đổi công việc cụ thể \n\ncảm ơn đã đọc bài viết.",
-    "media_urls": [],
-    "group_id": "809188892981791",
-    "group_name": "Tìm việc làm khu vực 경산시-영남대- 대구",
-    "group_url": "https://www.facebook.com/groups/809188892981791/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "61556884030485",
-    "author": "DREAM",
-    "author_url": "https://www.facebook.com/dream0304v",
-    "post_url": "https://www.facebook.com/groups/809188892981791/permalink/1823318351568835/",
-    "time": "2025-04-22 07:58",
-    "message": "👉 Ca làm việc ban ngày\n • Địa điểm làm việc: Jinryang\n • Công việc: Lắp ráp & vận hành máy CNC (phụ tùng ô tô)\n • Thời gian làm việc: 08:30 ~ 17:30 (tăng ca 2 tiếng)\n • Lương theo giờ: 10.030₩\n • Tuyển: Nam và Nữ\n • Xe đưa đón: Xuất phát từ Đại học Yeungnam\n • Yêu cầu: Có thể giao tiếp bằng tiếng Hàn\n\nLiên hệ: 010‑2395‑1447\n\n(^▽^)/★☆♪\n#Bắt buộc biết tiếng Hàn!\n\nㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ\n\n👉 Ca làm việc ban ngày\n • Địa điểm làm việc: Yeongcheon\n • Công việc: Kiểm tra phụ tùng ô tô\n • Thời gian làm việc: Ca ngày 07:50–16:30 (tăng ca 2 giờ)\n • Mức lương: 10.030 ₩/giờ\n • Tuyển dụng: Nữ\n • Xe đưa đón: Đi từ ĐH Yeungnam\n • Liên hệ: 010‑2395‑1447",
     "media_urls": [],
     "group_id": "809188892981791",
     "group_name": "Tìm việc làm khu vực 경산시-영남대- 대구",
@@ -7521,19 +6251,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "1655788785312380",
-    "author": "Người tham gia ẩn danh",
-    "author_url": null,
-    "post_url": "https://www.facebook.com/groups/335377627274237/permalink/1585804698898184/",
-    "time": "2025-03-31 15:04",
-    "message": "❌ông môi giới nhờ em tìm người hộ ạ ! \n❌ cần 5 người làm từ 7giờ sáng đến khoảng 7h \n❌❌ lương 10030xu \nđịa chỉ công ty ông môi giớ bảo gặp ở Emax 중앙동 ông ấy chở đi ạ \n❌ số đt ông môi giới : 010-7454-8211\n em gt việc miễn phí ạ",
-    "media_urls": [],
-    "group_id": "335377627274237",
-    "group_name": "Hội tìm việc lam tại 마산 창원",
-    "group_url": "https://www.facebook.com/groups/335377627274237/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "1085271456835690",
     "author": "Người tham gia ẩn danh",
     "author_url": null,
@@ -7726,32 +6443,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100085471148853",
-    "author": "Ruby Nguyễn",
-    "author_url": "https://www.facebook.com/ruby.nguyen.421320",
-    "post_url": "https://www.facebook.com/groups/489348511469257/permalink/1930493827354711/",
-    "time": "2025-04-25 18:32",
-    "message": "# Nhà Hàng Hải Yến Cần Tuyển gấp nhân viên tuổi từ 16 đến 58\n# +2 tạp vụ nhặt rau và rửa bát : Lương khởi điểm 7 triệu\n# +6 Bạn nam/ nữ Bưng Bê: Lương 7tr - 8 triệu + tip + thưởng + doanh thu\n# +3 Bạn Phụ Bếp : Lương 8tr-10tr\n# +2 Bảo Vệ Trông Xe: Lương 7tr\n# -Hỗ trợ tiền xe cho người ở xa\n# -Tháng nghỉ 3 ngày, lương trả ngày 5 hàng tháng\n# -Được Nhà Hàng Bao ăn ở toàn bộ , có phòng riêng cho nhân viên\n# -Thời Gian Làm việc : Sáng 9h đến 13h , Chiều 16h đến 22h\n# --> LH trực tiếp sdt/zl: 0986.159.427",
-    "media_urls": [],
-    "group_id": "489348511469257",
-    "group_name": "Tìm việc và tuyển dụng việc làm nhanh Hải Dương",
-    "group_url": "https://www.facebook.com/groups/489348511469257/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100016493949186",
-    "author": "Hồng Trà Hải Dương",
-    "author_url": "https://www.facebook.com/hongtrahaiduong84",
-    "post_url": "https://www.facebook.com/groups/489348511469257/permalink/1955805698156857/",
-    "time": "2025-05-29 11:03",
-    "message": "Hồng Trà tuyển dụng nhân sự làm việc tại quán trà (địa chỉ : 64 Hải Hưng, KĐT Ecorivers, Hải Dương)\n\n  Vị trí:\n\n1. Phục vụ nữ: Ca sáng (6h30–15h) & Ca chiều (14h–22h30) : lương 6tr + thưởng\n\n2. Pha chế: Ca chiều (14h–22h30) : lương 6,5tr + thưởng\n\n- Không yêu cầu kinh nghiệm, được đào tạo\n\n- Yêu cầu từ 18–30 tuổi, gắn bó tối thiểu 6 tháng\n\n- Môi trường làm việc sạch sẽ, chỉn chu, phù hợp người yêu sự tỉ mỉ và tinh tế\n\nChi tiết liên hệ : 0977 077 691",
-    "media_urls": [],
-    "group_id": "489348511469257",
-    "group_name": "Tìm việc và tuyển dụng việc làm nhanh Hải Dương",
-    "group_url": "https://www.facebook.com/groups/489348511469257/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100008696527940",
     "author": "Vương Đạo Nghĩa",
     "author_url": "https://www.facebook.com/vuong.ao.nghia",
@@ -7778,23 +6469,6 @@ window.completePostsData = [
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/527593831_700050879700614_1822493784499972973_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=OJFgG6Y_qBwQ7kNvwFCx4cb&_nc_oc=AdkDtlaPpyU6K-5q7UHXaKm4yqq-4EiaaXy7SR2cZkAXzte5JL1ktcpzpUZA6PzUUoY&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=AxsZGdTU_hZmhH5UNAzXJw&oh=00_AfW7QFmekfII8_LKVyZ1rkSmcSFNMpaBc5wFSTBxUFo9_g&oe=68A24A66",
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/527267902_700050856367283_4524498060247728189_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=xMQtnkzPWGwQ7kNvwFdm7M2&_nc_oc=Adnd-JE7IXLjQH9i1ZjjH5W00QAODOb1fG813cc3T4fkOz12I8_b1VCU5WIx2q17Y70&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=AxsZGdTU_hZmhH5UNAzXJw&oh=00_AfXlvSrQepgtX8bVS8vHlZjPTLk27bjL-h04-mQQ_a0tCQ&oe=68A22C6E",
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/527306194_700050849700617_5234125189396108967_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=DW-u_0DnGcwQ7kNvwFvOje7&_nc_oc=AdnFU4eh0BuZ7A3RzvaICoZih3okZM1fk8j9eM7NrQZYBEhEMlWPfvytM3VU4G3rmI0&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=AxsZGdTU_hZmhH5UNAzXJw&oh=00_AfWqtZSrbNaVCYWmfW81P896uFJCVGv4JpuoDLL44puVyw&oe=68A237D8"
-    ],
-    "group_id": "654676711590508",
-    "group_name": "Tuyển Thợ Sửa Chữa Xe Máy TPHCM ( Việc tìm thợ - Thợ tìm việc )",
-    "group_url": "https://www.facebook.com/groups/654676711590508/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100035670425899",
-    "author": "Bảo Đăng",
-    "author_url": "https://www.facebook.com/bao.ang.454199",
-    "post_url": "https://www.facebook.com/groups/654676711590508/permalink/2589540984770728/",
-    "time": "2025-04-14 07:35",
-    "message": "🧚Tuyển Thợ lương cứng 11t-> 15t có chỗ ở, Tháng đc nghỉ 3 ngày. Thưởng thêm, đã làm sửa xe biết cơ bản\nKinh nghiệm đã làm Xe Ga, số 2 năm\n🧚Chỗ ở rộng rãi, lương thưởng thêm Tết, Ưu tiên: thợ tỉnh xa, chăm chỉ, có chỗ ăn ở riêng, điện nước, sạch sẽ\n🧚Làm viêc tại Thủ Đức Hồ Chí Minh, Liên hệ 0938.0706.88",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/490407557_1379955543203447_8748630342719901647_n.jpg?stp=cp6_dst-jpg_p960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=k6yPrJtXwOAQ7kNvwHtBC4E&_nc_oc=AdmhyP9hpLVS8eRa18afeyifCgMEitWrFHjChYSWP30WJMxsJ3UW1-E9JWLJko8EvFA&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=AxsZGdTU_hZmhH5UNAzXJw&oh=00_AfWRludZbGTltlEu82AfMxFZ0ActJ755IFec-TgYGcljqA&oe=68A23A42",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/490425152_1379955523203449_1159543196251689364_n.jpg?stp=cp6_dst-jpg_p960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=5DFw0m7sj2cQ7kNvwGQ2Izr&_nc_oc=AdmUws1SjwbbxtjNjc1iJABgkzoJqr8f2rnx3INVGGqi3msYeL5AYKugVAeBHSdV2Zg&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=AxsZGdTU_hZmhH5UNAzXJw&oh=00_AfVor4vqlma-D23VPrvf19ds0CEQ6KddyA_Ijwtnhi-_8Q&oe=68A2480E",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/491842011_1379955513203450_6298379499034789145_n.jpg?stp=cp6_dst-jpg_p960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=l_0lJuuO6eUQ7kNvwFpablu&_nc_oc=Adk6cEFOSoMMjclWpay0Vtz3uEzZKX9fn_jUBKQslDC3EYpLVL0n3v4i77FKOAe1MEc&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=AxsZGdTU_hZmhH5UNAzXJw&oh=00_AfVjPLqlFXLULxN93j6Pf8MBO4GXt8w-KeiL6gtV7-h1ug&oe=68A22F52"
     ],
     "group_id": "654676711590508",
     "group_name": "Tuyển Thợ Sửa Chữa Xe Máy TPHCM ( Việc tìm thợ - Thợ tìm việc )",
@@ -8006,19 +6680,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100093541816023",
-    "author": "Chu Van Hanh",
-    "author_url": "https://www.facebook.com/profile.php?id=100093541816023",
-    "post_url": "https://www.facebook.com/groups/1487155115491515/permalink/1630827911124234/",
-    "time": "2025-01-03 21:46",
-    "message": "Việc tìm người:\nQuán chúng tôi ở bang Bayern đang cần tìm:\n1x sushiman đứng chính \n1x thợ phụ sushi\nYêu cầu:\n- Có giấy tờ được phép làm việc tại Đức\n- Sushiman: Có kinh nghiệm và bao quát công việc \n- Thợ phụ sushi: có kinh nghiệm và có tinh thần học hỏi \nĐiều kiện làm việc:\n- Lương, tiền bo cao\n- Moi trường làm việc trẻ trung, vui vẻ \n- Có chỗ ở cho người làm \nThông tin thêm hãy gọi cho chúng tôi theo số:\n015114394226 \n( Không có giấy tờ xin đừng gọi làm mất thời gian của cả 2 bên. Xin cảm ơn!)",
-    "media_urls": [],
-    "group_id": "1487155115491515",
-    "group_name": "Người Tìm Việc Việc Tìm Người tại Đức",
-    "group_url": "https://www.facebook.com/groups/1487155115491515/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100012031741634",
     "author": "Dũng Nguyệt",
     "author_url": "https://www.facebook.com/ngo.anhdung.73",
@@ -8092,32 +6753,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100000579558102",
-    "author": "Van Nam Le",
-    "author_url": "https://www.facebook.com/karel.levan.3",
-    "post_url": "https://www.facebook.com/groups/274561957714453/permalink/1152520859918554/",
-    "time": "2025-02-05 20:05",
-    "message": "( Việc tìm người ) 📍📍📍\n - Quán České Budějovice - kasa \n\n🟢Quyền lợi:\n    ✅ Môi trường làm việc thoải mái\n    ✅ Không biết việc sẽ đào tạo ra nghề\n    ✅ Trả bảo hiểm xh, yt\n    ✅ Lương tháng 13\n- Ai có nhu cầu hoặc có người cần tìm việc. Liên hệ sdt 777 558 088 hoặc inbox.\nCảm ơn mọi người.",
-    "media_urls": [],
-    "group_id": "274561957714453",
-    "group_name": "Người tìm việc/Việc tìm người tại Séc",
-    "group_url": "https://www.facebook.com/groups/274561957714453/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "61562213766896",
-    "author": "Công Khanh Bùi",
-    "author_url": "https://www.facebook.com/cong.khanh.bui.958415",
-    "post_url": "https://www.facebook.com/groups/585419289858147/permalink/1239124824487587/",
-    "time": "2025-05-20 15:45",
-    "message": "Tìm người làm ca ngày xưởng bánh orion lương bộ.",
-    "media_urls": [],
-    "group_id": "585419289858147",
-    "group_name": "HỘI TÌM VIỆC 익산,전주,논산,완주군",
-    "group_url": "https://www.facebook.com/groups/585419289858147/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100023222341190",
     "author": "박준수",
     "author_url": "https://www.facebook.com/bagjunsu.368355",
@@ -8155,21 +6790,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100016427707467",
-    "author": "Cẩm Hà",
-    "author_url": "https://www.facebook.com/yakumy.ha.3",
-    "post_url": "https://www.facebook.com/groups/585419289858147/permalink/1236016214798448/",
-    "time": "2025-05-16 08:06",
-    "message": "Chủ mình nhờ tìm người làm bếp \n1 người từ 7h sáng- 2h chiều.\n1 người từ 6h chiều đến 3h đêm.\nTháng đầu 10500원, sau lm tốt tăng lương ạ.\nQuán ở #군산, mn liên hệ sđt chủ: 01028872972",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/497905003_1842038523020387_1367547571884897483_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=cPZnRnGL3K8Q7kNvwEhucmL&_nc_oc=AdngUPZEuSwIoOy05FxvE_9L4lcxi6esmjWvbCEf4iRUqfc7Xn9FNO7tcRLSz95FTaQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=vtZ5Jmg3fqFWvp-CJsHLbw&oh=00_AfV7ZWWSqqu0_HDOcsK-jwQ631J6nM4HB-C44CuXg_HxKg&oe=68A22193"
-    ],
-    "group_id": "585419289858147",
-    "group_name": "HỘI TÌM VIỆC 익산,전주,논산,완주군",
-    "group_url": "https://www.facebook.com/groups/585419289858147/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100007392373696",
     "author": "Jang Hae Seon",
     "author_url": "https://www.facebook.com/jang.hae.seon.932010",
@@ -8196,32 +6816,6 @@ window.completePostsData = [
     "group_id": "585419289858147",
     "group_name": "HỘI TÌM VIỆC 익산,전주,논산,완주군",
     "group_url": "https://www.facebook.com/groups/585419289858147/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100082981932742",
-    "author": "Morela Mai",
-    "author_url": "https://www.facebook.com/hangviet779",
-    "post_url": "https://www.facebook.com/groups/398652454346147/permalink/1694427518101961/",
-    "time": "2025-05-19 14:34",
-    "message": "Tìm người bóc tỏi tại hàn tại các nông trại,xưởng ạ \n\nNgày/120kw. Sáng 7h-11h Chiều 1h-17h\n\nNhà rộng có kho có thể nhận tỏi về làm !!!\nĐịa chỉ : 13 chi nhánh toàn korea",
-    "media_urls": [],
-    "group_id": "398652454346147",
-    "group_name": "[korea] Việc Tìm Người - Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/398652454346147/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100012069373759",
-    "author": "Phạm Nguyễn Bảo Thy",
-    "author_url": "https://www.facebook.com/baothy.pham.779",
-    "post_url": "https://www.facebook.com/groups/398652454346147/permalink/1628956357982411/",
-    "time": "2025-02-23 12:30",
-    "message": "Alo gấp gấp CTY tuyển người làm từ 10h sáng đến 22h đêm . Ai thiện chí đi làm nhắn tin mình . Ưu tiên cho mẹ bĩm sữa . Có thưởng + hoa hồng cuối ngày nhé !!!",
-    "media_urls": [],
-    "group_id": "398652454346147",
-    "group_name": "[korea] Việc Tìm Người - Người Tìm Việc",
-    "group_url": "https://www.facebook.com/groups/398652454346147/",
     "group_thumbnail": ""
   },
   {
@@ -8439,19 +7033,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "1202898584645446",
-    "author": "Người tham gia ẩn danh",
-    "author_url": null,
-    "post_url": "https://www.facebook.com/groups/857905902049848/permalink/1421765942330505/",
-    "time": "2025-05-22 21:07",
-    "message": "Quán thịt nướng mình làm cần tuyển bạn làm hol thgian làm từ 4h -10h30,11h \nLương đến thương lượng với chủ ạ\nÔb chủ hiền dễ tính lắm ạ\nSdt chủ 010-3520-7177\nDchi: 대구시 동구 해동로 201",
-    "media_urls": [],
-    "group_id": "857905902049848",
-    "group_name": "Tìm việc làm tại 영남대 대구한의대 대구대 경산시",
-    "group_url": "https://www.facebook.com/groups/857905902049848/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "61556704512437",
     "author": "Phương Nguyễn",
     "author_url": "https://www.facebook.com/phuong.nguyen.753702",
@@ -8471,19 +7052,6 @@ window.completePostsData = [
     "post_url": "https://www.facebook.com/groups/1145579217170536/permalink/1254742319587558/",
     "time": "2025-07-02 19:25",
     "message": "Quán mình cần tuyển 1 bạn nam làm an ba từ 4h chiều tới ma cam tầm 9 10h tối nhanh nhẹn là 1 lợi thế 🤣🤣🤣 ai chưa có vc h đó ib mình nha",
-    "media_urls": [],
-    "group_id": "1145579217170536",
-    "group_name": "TÌM KIẾM VÀ GIỚI THIỆU VIỆC LÀM TẠI 익산 - Trường Wonkwang",
-    "group_url": "https://www.facebook.com/groups/1145579217170536/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "1759311601462951",
-    "author": "Người tham gia ẩn danh",
-    "author_url": null,
-    "post_url": "https://www.facebook.com/groups/1145579217170536/permalink/1224143639314093/",
-    "time": "2025-05-22 17:39",
-    "message": "Đầu tháng 8 e cầntìm người làm thay 1 tháng ạ \nLương 2tr3 ăn ở quán 9h30 đến 21h ạ\n\nLàm bếp có người Việt làm cùng \n\nTuần nghỉ 2b ạ",
     "media_urls": [],
     "group_id": "1145579217170536",
     "group_name": "TÌM KIẾM VÀ GIỚI THIỆU VIỆC LÀM TẠI 익산 - Trường Wonkwang",
@@ -8513,21 +7081,6 @@ window.completePostsData = [
     "time": "2025-07-20 14:17",
     "message": "Em cần tìm một bạn làm thay bếp từ 16h-4h khoảng 1-2 tháng \nLương 2tr7 \nLương hơi thấp nên anh chị cân nhắc hãy nhắn tin cho em đỡ mất tgian của đôi bên ạ",
     "media_urls": [],
-    "group_id": "1145579217170536",
-    "group_name": "TÌM KIẾM VÀ GIỚI THIỆU VIỆC LÀM TẠI 익산 - Trường Wonkwang",
-    "group_url": "https://www.facebook.com/groups/1145579217170536/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100016427707467",
-    "author": "Cẩm Hà",
-    "author_url": "https://www.facebook.com/yakumy.ha.3",
-    "post_url": "https://www.facebook.com/groups/1145579217170536/permalink/1219885783073212/",
-    "time": "2025-05-16 14:51",
-    "message": "Chủ mình nhờ tìm người làm bếp \n1 người từ 7h sáng- 2h chiều.\n1 người từ 6h chiều đến 3h đêm.\nTháng đầu 10500원, sau lm tốt tăng lương ạ.\nQuán ở #군산, mn liên hệ sđt chủ: 01028872972",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/497647922_1842215939669312_595200212319765884_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ELEBT8V6H6kQ7kNvwEzSp2m&_nc_oc=AdnimzDSGMUzPYjyl7Hq7d62DE0w80WWZs5NSoPjfEDsOobiy1tH3yoDO0Ga_ZJXUE4&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=pL_b1NLfvc_KdYE2OqOUoA&oh=00_AfWP3OGWNJPjz7pzNt-SB2oWjG35Rsg0ilwqXxPHaAJQCQ&oe=68A23243"
-    ],
     "group_id": "1145579217170536",
     "group_name": "TÌM KIẾM VÀ GIỚI THIỆU VIỆC LÀM TẠI 익산 - Trường Wonkwang",
     "group_url": "https://www.facebook.com/groups/1145579217170536/",
@@ -8566,19 +7119,6 @@ window.completePostsData = [
     "post_url": "https://www.facebook.com/groups/187439390492875/permalink/636474805589329/",
     "time": "2025-07-23 15:57",
     "message": "Cần tìm người làm theo ca  RỬA BÁT Sáng: 8h đến 11h Chiều: 14h đến 17h Tối: 19h đến 22h  (Rảnh có thể làm 3ca) Ai làm được ib em…",
-    "media_urls": [],
-    "group_id": "187439390492875",
-    "group_name": "Hội việc làm 대전-세종-금산 (tìm Việc Vô Nhóm Nhé)",
-    "group_url": "https://www.facebook.com/groups/187439390492875/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100033410880979",
-    "author": "Dương Hữu Giáp",
-    "author_url": "https://www.facebook.com/dhgiap2410",
-    "post_url": "https://www.facebook.com/groups/187439390492875/permalink/589602176943259/",
-    "time": "2025-05-13 16:42",
-    "message": "Quán pizza mở cửa vào cuối tháng 5 cần tìm 2 bạn\nThời gian :3-3h hoặc 5-3h\nLương: 10k\nĐc: 세종시 다솜로7 (어진동)\nMn cần nhắn mk mk gửi sđt chủ rồi đến pvan ạ",
     "media_urls": [],
     "group_id": "187439390492875",
     "group_name": "Hội việc làm 대전-세종-금산 (tìm Việc Vô Nhóm Nhé)",
@@ -8990,19 +7530,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100095041595892",
-    "author": "Thuý Hằng",
-    "author_url": "https://www.facebook.com/profile.php?id=100095041595892",
-    "post_url": "https://www.facebook.com/groups/251985691342493/permalink/600789953128730/",
-    "time": "2025-05-31 16:41",
-    "message": "Bạn nào rảnh một trong các ca sau phụ mình đánh văn bản của cty partime và fulltime :\nSáng: 7h- 10h. (300k)\n\nChiều: 13h – 17h. (300k)\n\nTối: 19h – 23h. (300k)\n\nLương bank luôn hết mỗi ca làm  \n\n📱 Liên hệ zalo: 0994128196",
-    "media_urls": [],
-    "group_id": "251985691342493",
-    "group_name": "Tìm Kiếm Việc Làm Thêm Tại Hà Nội",
-    "group_url": "https://www.facebook.com/groups/251985691342493/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "100048833897414",
     "author": "Thảo Quyên",
     "author_url": "https://www.facebook.com/quyen.thii.7965",
@@ -9012,21 +7539,6 @@ window.completePostsData = [
     "media_urls": [
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/528048563_1284360426535075_1665759068825116161_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=LjjfZloAjk8Q7kNvwGo34gH&_nc_oc=Adn6kOxds-0FPS4nbHhCouQ0dDH3G_eGrqT_1jlUtNEFVwxJ3cxuaZg0fHqmvE1Su7c&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=7cZUowE3fL_TI09Kde3Q0g&oh=00_AfW9b1OXcJF5eO07efYVROSPhOeV9liqQ05eHoNEdUDpjA&oe=68A2345C",
       "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/527466995_1284360443201740_4792583977244911798_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Qx5aBHP6cpAQ7kNvwG8vHx0&_nc_oc=AdmlJeeujzJ_IDbcpYtLJYCwtPmq2Ksp-8pVP3U9Vy8HH5o_cdSlHZzm36uin5pV5Dk&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=7cZUowE3fL_TI09Kde3Q0g&oh=00_AfWQxFVJEghop7ygcXakZCghP9TFg7cl3_kd0kYYQYgItg&oe=68A24CF7"
-    ],
-    "group_id": "251985691342493",
-    "group_name": "Tìm Kiếm Việc Làm Thêm Tại Hà Nội",
-    "group_url": "https://www.facebook.com/groups/251985691342493/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100002845009592",
-    "author": "Ngọc Hiền",
-    "author_url": "https://www.facebook.com/ngochien.windy",
-    "post_url": "https://www.facebook.com/groups/251985691342493/permalink/545934745280918/",
-    "time": "2025-04-03 16:38",
-    "message": "[Đống Đa - Hà Nội]\n\nTuyển dụng nhân viên trực page - Part-time ca chiều (Đảo ca linh hoạt)\n* Công việc: Trực fanpage FB, trả lời tin nhắn khách hàng\n* Mức lương: 23k/giờ + Phụ cấp chuyên cần 150k/ tháng + thưởng\n* Thời gian làm việc: 13h00 - 18h00, có thể đảo ca linh hoạt, hoặc điều chỉnh thời gian\n* Địa điểm làm việc: Văn phòng 97 Đặng Tiến Đông, Đống Đa, Hà Nội\n* Yêu cầu: Nữ, thông minh, giao tiếp tốt, EQ cao. Có laptop để làm việc\n* Đãi ngộ: Môi trường làm việc vui vẻ, yêu thương, mua hàng chính sách nội bộ, được đào tạo kỹ lưỡng\n\nỨng tuyển: Inbox trực tiếp hoặc Zalo Ms. Sam 0904554929",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/505411569_9411513032286770_4576133530748942305_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=9_z9E7uHa2YQ7kNvwHwVzgu&_nc_oc=AdntL-bUsLU0_3uvQw8lMVAZ0ngIi5gAHe0Sb5dPg6M0Aekwylk76lhPNc8Pu3u4um8&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=dNbOQw2SGl1xXekuX5nZMw&oh=00_AfX7CNh-Ps0fvUuztabJxq6D9Wqv33KjxztLM6CMOV5k4g&oe=68A23EC9"
     ],
     "group_id": "251985691342493",
     "group_name": "Tìm Kiếm Việc Làm Thêm Tại Hà Nội",
@@ -9080,21 +7592,6 @@ window.completePostsData = [
     "time": "2025-08-12 15:06",
     "message": "Quán thịt nướng em ở 연산 \nCần tuyển 1 anh/chị ạ\nChủ yêu cầu tiếng nghe hiểu\nQua hàn trên 2 năm ạ\n11h-5h chiều ạ\nHoặc 5h-10,11h\nNếu được thì hôm nay đến pvan luôn ạ",
     "media_urls": [],
-    "group_id": "507551816603634",
-    "group_name": "Busan Kimhe - Hỗ trợ, tìm kiếm việc làm",
-    "group_url": "https://www.facebook.com/groups/507551816603634/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "950812236634067",
-    "author": "Người tham gia ẩn danh",
-    "author_url": null,
-    "post_url": "https://www.facebook.com/groups/507551816603634/permalink/1505213473504125/",
-    "time": "2025-01-03 13:20",
-    "message": "📌góc tìm 알바 \nQuán nướng ở 서면 tìm người làm \n시급: 10k/h\nNếu đc ngày mai có thể đến trực tiếp để pv\nYc: tiếng nghe hiểu giao tiếp đc càng tốt, rửa bát nhanh \n(Chưa tìm được người nên đăng lại nhaaa) \nSđt: 01093689319\nĐc như trong ảnh vui lòng liên hệ qua sđt mình chỉ kiếm hộ nên sẽ kh rep tn nhaaaa",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/472089331_950812316634059_3805801375696820045_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ZjZyzFYyy9QQ7kNvwEfnF5J&_nc_oc=AdmNl1A8vj0CUwUZv7j7MLG4Y9UDZHOZ5iw9InfI-3bIRgcZVxcWwHtrapn1gAriJ6Q&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=Y1dxT6gtfoPghcVaJS3gvA&oh=00_AfVjCXyJ2bOzegtV8rTjb4R3zu9RIzEYZhtzKa0zK3QbVg&oe=68A227B3"
-    ],
     "group_id": "507551816603634",
     "group_name": "Busan Kimhe - Hỗ trợ, tìm kiếm việc làm",
     "group_url": "https://www.facebook.com/groups/507551816603634/",
@@ -9589,21 +8086,6 @@ window.completePostsData = [
     "group_thumbnail": ""
   },
   {
-    "author_id": "100000059300590",
-    "author": "Nguyễn Hòa",
-    "author_url": "https://www.facebook.com/nguyen.hoa.476733",
-    "post_url": "https://www.facebook.com/groups/332132496566997/permalink/576622505451327/",
-    "time": "2025-04-26 12:27",
-    "message": "📢📢 KOALA PHOTO tuyển nhân viên làm việc tại VINCOM PLAZA CÀ MAU \n\n🎯 Số lượng: 06 nhân viên\n\n🎯 Yêu cầu:\n\n- Giới tính: Nữ\n\n- Độ tuổi: 16-25 tuổi\n\n- Nhanh nhẹn, trung thực, chăm chỉ\n\n🎯 Quyền lợi:\n\n- Mức lương thỏa thuận khi phỏng vấn\n\n- Nhận thưởng theo doanh thu của chi nhánh\n\n- Môi trường làm việc năng động, vui vẻ\n\n🎯 Thời gian làm việc:\n\n- Ca sáng: 9h00-15h00\n\n- Ca chiều: 15h00 - 22h00\n\n🏠Địa điểm làm việc: Tầng 3, Vincom Plaza Cà Mau\n\n☎️ Liên hệ 0965.078.806 hoặc ib trực tiếp để nhận thông tin chi tiết",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/516239573_30734751636110077_2345459855463902668_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=uvPTND4l4ZQQ7kNvwF9JQ2s&_nc_oc=AdkKxiwmT4Mpe8wFNeScz_foogLohIc5-GeMoymp26VnXcpe0NPIB5bRb9C7tVpsDvo&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=YoT6UY6_-6wma6NLAxTEtA&oh=00_AfVUj1VxjRcGlWeuvcnoPSW3s-EJwVgZ7Q-h0H5kfxrb5Q&oe=68A23376"
-    ],
-    "group_id": "332132496566997",
-    "group_name": "TÌM KIẾM VIỆC LÀM CÀ MAU ✅",
-    "group_url": "https://www.facebook.com/groups/332132496566997/",
-    "group_thumbnail": ""
-  },
-  {
     "author_id": "61557636850093",
     "author": "Điện Tử HT CàMau",
     "author_url": "https://www.facebook.com/ientuhtcamau",
@@ -9883,13 +8365,97 @@ window.completePostsData = [
     "group_name": "Tìm Kiếm Việc Làm Hà Nội, Việc Làm thêm Hà Nội, việc làm sinh viên hà nội",
     "group_url": "https://www.facebook.com/groups/vieclamhanoilamtien/",
     "group_thumbnail": ""
+  },
+  {
+    "author_id": "100053835106513",
+    "author": "Hoa Bỉ Ngạn",
+    "author_url": "https://www.facebook.com/kimyen.tranthi.313924",
+    "post_url": "https://www.facebook.com/groups/145657285153907/permalink/743471095372520/",
+    "time": "2025-08-13 01:12",
+    "message": "Chủ cty kim ở 보령 nhờ e tìm ng giúp cty làm từ 8h30-6h trưa nghỉ từ 11h -12h. lương nhận vào ngày 10 hàng thág. Ktx phòng 300k/1 phòng níu ở 2 ng thì chia ra. Ktx cách cty khoảng 20-30p đi xe bus. Ai càn việc nt trực tiếp cho e. Cty K nhận bhp ạ",
+    "media_urls": [],
+    "group_id": "145657285153907",
+    "group_name": "KOREA VIỆC TÌM NGƯỜI - NGƯỜI TÌM VIỆC",
+    "group_url": "https://www.facebook.com/groups/145657285153907/",
+    "group_thumbnail": ""
+  },
+  {
+    "author_id": "100091004203044",
+    "author": "Nguyễn Thị Phượng",
+    "author_url": "https://www.facebook.com/profile.php?id=100091004203044",
+    "post_url": "https://www.facebook.com/groups/431667646912464/permalink/24279805685005326/",
+    "time": "2025-08-13 20:56",
+    "message": "**TÌM LAO ĐỘNG SANG HÀN QUỐC**\n\n**Cần Tuyển 2 lái xe nâng 2 lái xe tải 6 người làm nông nghiệp**\n\n**Ko yêu cầu tiếng .ko cần cọc**\n\n**Yêu cầu : Cần người cần cù chịu khó tích cực với công việc**\n\n**_ Ai thiện trí liên hệ mình trao đổi công việc cụ thể nhé**",
+    "media_urls": [],
+    "group_id": "431667646912464",
+    "group_name": "[Korea] Việc Tìm Người - Người Tìm Việc",
+    "group_url": "https://www.facebook.com/groups/431667646912464/",
+    "group_thumbnail": ""
+  },
+  {
+    "author_id": "100056234130919",
+    "author": "손길석",
+    "author_url": "https://www.facebook.com/songilseog.535042",
+    "post_url": "https://www.facebook.com/groups/431667646912464/permalink/10051688048243661/",
+    "time": "2025-06-14 16:24",
+    "message": "Làm ca ngày cố định – Lương cố định hàng tháng: Từ 3,000,000 KRW trở lên\n📞 Liên hệ: 010-8563-7624\n\n📍 Địa điểm: Oedong, Gyeongju\n🛠️ Công việc: Đóng gói\n📅 Thời gian làm việc: Thứ Hai đến Thứ Sáu (Thứ Bảy làm thêm nếu có)\n🕗 Giờ làm việc: 08:00 – 20:00\n💰 Lương tháng: 3,000,000 KRW\n💳 Ngày trả lương: Ngày 15 hàng tháng\n\n✅ Phúc lợi:\n\nTrợ cấp thôi việc\n\nKý túc xá: 150,000 KRW/tháng\n\nCó xe đưa đón",
+    "media_urls": [],
+    "group_id": "431667646912464",
+    "group_name": "[Korea] Việc Tìm Người - Người Tìm Việc",
+    "group_url": "https://www.facebook.com/groups/431667646912464/",
+    "group_thumbnail": ""
+  },
+  {
+    "author_id": "100007660531098",
+    "author": "Thanh Pham",
+    "author_url": "https://www.facebook.com/thanh.pham.519638",
+    "post_url": "https://www.facebook.com/groups/6848636458529625/permalink/24296820729951261/",
+    "time": "2025-07-25 13:16",
+    "message": "Em cần thêm 1 người (nữ) nữa  làm tại nhà hàng tại pocheon (k dành cho e9 và bhp)\n\nCông việc : nấu cơm(bằng nồi điện nhỏ chuyên dụng -điện tự động - của bếp nhà hàng) \nSố lượng : 1 nữ (dưới 60 tuổi, càng trẻ càng tốt) \nLương : 3tr14 ( có 4대보험)\nGiờ làm: 10h sáng ~9h tối \nĐược nghĩ 4 ngày /tháng \n\nTư vấn : 010 -8123-8918 .",
+    "media_urls": [],
+    "group_id": "6848636458529625",
+    "group_name": "Korea Việc Tìm Người - Người Tìm Việc",
+    "group_url": "https://www.facebook.com/groups/6848636458529625/",
+    "group_thumbnail": ""
+  },
+  {
+    "author_id": "100051212292659",
+    "author": "Trần Thị Khánh Linh",
+    "author_url": "https://www.facebook.com/khanhlinh.tranthi.1804109",
+    "post_url": "https://www.facebook.com/groups/234370038123990/permalink/1251059093121741/",
+    "time": "2025-07-25 12:25",
+    "message": "cần tuyển ng làm xưởng ớt cách 구암역 8phút \ntừ 9h30-16h30 có thể làm thêm giờ \nlương 12k/h làm lâu dài ạ",
+    "media_urls": [],
+    "group_id": "234370038123990",
+    "group_name": "Người Tìm Việc - Việc Tìm Người 대전",
+    "group_url": "https://www.facebook.com/groups/234370038123990/",
+    "group_thumbnail": ""
+  },
+  {
+    "author_id": "61575798000609",
+    "author": "Hong Hoa",
+    "author_url": "https://www.facebook.com/phi.nguyen.806634",
+    "post_url": "https://www.facebook.com/groups/8835869916518368/permalink/9968758239896191/",
+    "time": "2025-07-30 19:57",
+    "message": "부산 강서구 Cần 1 nam hợp pháp. Biết phay,tiện hàng như trong ảnh \nKo nhận bhp\nKo nhận học việc \nLuong cao hơn bộ\nCty có thưởng. Cviec thoả mái.  Giám đốc dễ tính\nLien he 01040664387\n01066538784",
+    "media_urls": [
+      "https://scontent-ssn1-1.xx.fbcdn.net/v/t15.5256-10/525420379_747653331289873_277236893913249654_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=117846&_nc_ohc=t_IILuy2F-sQ7kNvwHx5a4K&_nc_oc=AdnHD0sAhJhyxQr0_8QXRT4vMC19nqaI264QcB4SaqnGjkebQcBEIFIFAnnRp1WyKWA&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=YMVoOMiHrjiwHZv-jFh05w&oh=00_AfWM70G9RdWW2XxnlGLNR2VdwrCMG9dBUmhDygOZMlDwJg&oe=68A31843",
+      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/526494110_122132105654859933_1887231492384210711_n.jpg?stp=cp6_dst-jpg_p960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=BCLcYeESvDAQ7kNvwEbPFX5&_nc_oc=AdleWklfFpfPQjLHo5UWOds68Y81ozi_vaf305lrn5WMVdTuHO6ae85SyhCNPgVmwR4&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=YMVoOMiHrjiwHZv-jFh05w&oh=00_AfVESL9paQOGFB0YBqdgmXu_GMY-wcx1gI8FQcmaHUfDug&oe=68A30BA7",
+      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/526466993_122132105624859933_8471777506762683154_n.jpg?stp=cp6_dst-jpg_p960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=UDZ_o6nBicMQ7kNvwFj4iU0&_nc_oc=AdnN-ArPgbS9gcfJojZfLV4tF7py2k9gvbOMZqvq8eQE12fTOarJPKihK0LSuA4XJTk&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=YMVoOMiHrjiwHZv-jFh05w&oh=00_AfV6A4CNXgJczISmFUzko_Hi_Ex-DmcgFcuPMnUbknikmA&oe=68A2F033",
+      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/526344398_122132105612859933_235171078142412914_n.jpg?stp=cp6_dst-jpg_p960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=mUzalSa3vXMQ7kNvwH0Zb6o&_nc_oc=AdlG_fuxN-DNRnKes6k9XQ9SmNwNNCxvnosgMp8wBay9hDMAq4lh6cDDgv7dMDAE6to&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=YMVoOMiHrjiwHZv-jFh05w&oh=00_AfUe4A0UON7rcTb3-MFfjZX3Dd7YNEbgx429mp279h8rfA&oe=68A31A74",
+      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/525728377_122132105600859933_8231122961830169587_n.jpg?stp=cp6_dst-jpg_p960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=mJL6XL2g_EgQ7kNvwGbIhby&_nc_oc=AdlTrs48pkrWsEZ_Ko_NGDEpC6e9uR3whWnVkmUgHjvJZ1b_voR5iP91PydTockjs6Q&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=YMVoOMiHrjiwHZv-jFh05w&oh=00_AfW01EVDAbI1BgbGCCE69m2dFh2lqWg_IPHT-36pK--xFA&oe=68A3040E"
+    ],
+    "group_id": "8835869916518368",
+    "group_name": "VIỆC TÌM NGUỜI- NGỪƠI TÌM VIỆC TẠI KOREA",
+    "group_url": "https://www.facebook.com/groups/8835869916518368/",
+    "group_thumbnail": ""
   }
 ];
 
 // Metadata
 window.vietnamMeta = {
-    totalPosts: 702,
-    generatedAt: "2025-08-14T00:00:55.966621",
+    totalPosts: 601,
+    generatedAt: "2025-08-14T00:56:56.910589",
     dataType: "complete"
 };
 
