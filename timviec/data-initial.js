@@ -1,5 +1,5 @@
 // Vietnam Posts Data - Initial Loading (50 posts)
-// Generated on 2025-08-14T00:56:56.905763
+// Generated on 2025-08-14T01:39:58.555245
 // Fast loading for immediate display
 
 window.initialPostsData = [

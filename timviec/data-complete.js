@@ -1,5 +1,5 @@
 // Vietnam Posts Data - Complete Dataset (601 posts)
-// Generated on 2025-08-14T00:56:56.906419
+// Generated on 2025-08-14T01:39:58.555873
 // Complete data for full functionality
 
 window.completePostsData = [
@@ -8455,7 +8455,7 @@ window.completePostsData = [
 // Metadata
 window.vietnamMeta = {
     totalPosts: 601,
-    generatedAt: "2025-08-14T00:56:56.910589",
+    generatedAt: "2025-08-14T01:39:58.561892",
     dataType: "complete"
 };
 
