@@ -1,5 +1,5 @@
 // Vietnam Posts Data - Initial Loading (50 posts)
-// Generated on 2025-08-14T01:39:58.555245
+// Generated on 2025-08-14T01:52:07.333957
 // Fast loading for immediate display
 
 window.initialPostsData = [
@@ -229,6 +229,21 @@ window.initialPostsData = [
     "group_thumbnail": ""
   },
   {
+    "author_id": "3873592122879915",
+    "author": "Người tham gia ẩn danh",
+    "author_url": null,
+    "post_url": "https://www.facebook.com/groups/431667646912464/permalink/24277259538593274/",
+    "time": "2025-08-13 13:03",
+    "message": "Tìm đội xử lý won 3+ 7+ cá nhân, đảm bảo lượng 365 ngày/năm\nMua tất cả thẻ Hàn Quốc + app với giá cao (hoặc chia sẻ lợi nhuận)\nHỗ trợ thu mua tận nơi, giao dịch nhanh gọn\nLiên hệ Tele @Jihun28",
+    "media_urls": [
+      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530903406_3255730924575450_8420333711886296470_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=KLQMPru9tuAQ7kNvwF8y7E_&_nc_oc=AdmcEu6Yiz5oo1STkJWUm3_v63WUfRg_hbxEMSS-m-bAsO6DmBoqAf5G4KFaShabhH0&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=eX5aJzZbb_N38WQhbgFCgg&oh=00_AfUNnCe3Iyw6aVAioWm7TOIYuFphFPf62fBcRIP5q-W3Iw&oe=68A2167D"
+    ],
+    "group_id": "431667646912464",
+    "group_name": "[Korea] Việc Tìm Người - Người Tìm Việc",
+    "group_url": "https://www.facebook.com/groups/431667646912464/",
+    "group_thumbnail": ""
+  },
+  {
     "author_id": "1696320277682944",
     "author": "Ẩnn danhhhh",
     "author_url": null,
@@ -439,6 +454,21 @@ window.initialPostsData = [
     "group_thumbnail": ""
   },
   {
+    "author_id": "100002081443450",
+    "author": "Mạnh Hùng",
+    "author_url": "https://www.facebook.com/tommy.cat.391",
+    "post_url": "https://www.facebook.com/groups/vietconnect/permalink/1908427106570673/",
+    "time": "2025-06-12 08:20",
+    "message": "E đang cần 2 người cắt cỏ đồi về làm khoán ạ( nếu công thì 170k/n). Ae có nhu cầu alo e ạ.(e ở 충주)\n01057346668",
+    "media_urls": [
+      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/506215309_23907365538916160_1169522339283224024_n.jpg?stp=cp6_dst-jpegr_tt6&_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=kzsrkoS-vJYQ7kNvwHCAmBJ&_nc_oc=AdlBS5RqvYKYc5q_MG0yZpLJ4JpgKt4REYsmoiitGQxg7IVjOPU0LCLjwpZVZN854F0&_nc_zt=23&se=-1&_nc_ht=scontent-ssn1-1.xx&_nc_gid=l6IrTf0rZXcppZgc1FpZig&oh=00_AfWx0eDChsZs5Cr5p0uS-W26aklaFEUwY6-_sNYnGEP7vQ&oe=68A20EED"
+    ],
+    "group_id": "1238732566873467",
+    "group_name": "TÌM VIỆC TẠI HÀN QUỐC - VIET CONNECT",
+    "group_url": "https://www.facebook.com/groups/vietconnect/",
+    "group_thumbnail": ""
+  },
+  {
     "author_id": "100083377359441",
     "author": "Nguyễn Văn Tùng",
     "author_url": "https://www.facebook.com/profile.php?id=100083377359441",
@@ -543,6 +573,19 @@ window.initialPostsData = [
     "group_thumbnail": ""
   },
   {
+    "author_id": "741285531693301",
+    "author": "Người tham gia ẩn danh",
+    "author_url": null,
+    "post_url": "https://www.facebook.com/groups/362602132259413/permalink/1316966183489665/",
+    "time": "2025-08-13 11:27",
+    "message": "Em cầm tìm vc làm ạ ai ạ",
+    "media_urls": [],
+    "group_id": "362602132259413",
+    "group_name": "HỘI NGƯỜI VIỆT NAM TAI HÀN QUỐC - KOREA ✈️",
+    "group_url": "https://www.facebook.com/groups/362602132259413/",
+    "group_thumbnail": ""
+  },
+  {
     "author_id": "100091411282108",
     "author": "Phạm Mai Linh",
     "author_url": "https://www.facebook.com/profile.php?id=100091411282108",
@@ -636,51 +679,6 @@ window.initialPostsData = [
     "group_id": "2768624169923475",
     "group_name": "NGƯỜI  TÌM VIỆC — VIỆC TÌM NGƯỜI TẠI HÀN QUỐC",
     "group_url": "https://www.facebook.com/groups/2768624169923475/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "61557959666044",
-    "author": "Hà Ngoc",
-    "author_url": "https://www.facebook.com/ha.ngoc.647978",
-    "post_url": "https://www.facebook.com/groups/1546935132093211/permalink/10058638727589433/",
-    "time": "2025-06-26 15:18",
-    "message": "em cần tìm người có quốc tịch Hàn, đi khảo sát lương thanh toán ngay khi xong công việc tại Hà Nội.",
-    "media_urls": [],
-    "group_id": "1546935132093211",
-    "group_name": "Việc Làm Cho Người Hàn Quốc ở Việt Nam",
-    "group_url": "https://www.facebook.com/groups/1546935132093211/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100014377682589",
-    "author": "Hằng Nga",
-    "author_url": "https://www.facebook.com/hang.nga.841813",
-    "post_url": "https://www.facebook.com/groups/1546935132093211/permalink/9850860395033935/",
-    "time": "2025-06-17 17:18",
-    "message": "NGƯỜI TÌM VIỆC\nNGƯỜI HÀN QUỐC CẦN TÌM VIỆC TẠI VIỆT NAM\nGIỚI TÍNH : NAM\nSINH NĂM 1968\nKINH NGHIỆM:  QUẢN LÝ VÀ ĐIỀU HÀNH HOẠT ĐỘNG CỦA NHÀ MÁY VỀ LINH KIỆN ĐIỆN TỬ, LINH KIỆN NHỰA.\nTIẾNG VIỆT: GIAO TIẾP CƠ BẢN\nĐƠN VỊ NÀO CẦN XIN KẾT NỐI SỐ ĐIỆN THOẠI 0963356134",
-    "media_urls": [],
-    "group_id": "1546935132093211",
-    "group_name": "Việc Làm Cho Người Hàn Quốc ở Việt Nam",
-    "group_url": "https://www.facebook.com/groups/1546935132093211/",
-    "group_thumbnail": ""
-  },
-  {
-    "author_id": "100022170210703",
-    "author": "Thảo Nhi",
-    "author_url": "https://www.facebook.com/thao.nhi.76581",
-    "post_url": "https://www.facebook.com/groups/nguoitimviecviectimnguoikorea/permalink/1274737424445175/",
-    "time": "2025-08-13 06:32",
-    "message": "✅✅   Tb làm việc ngày cuối, nghỉ lễ rồi các chế ơi. Ăn gì lên đơn e gửi ạ\n\n   Rau của nhà #3kg e btb rồi. #5k...6k/1kg thôi ạ, bao tươi ngon nhé.\n\n  Ib dc , đặt rau ăn lễ đi ạ.",
-    "media_urls": [
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530913265_2114182499330737_4621901454388627021_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=CNHRz-GiOggQ7kNvwGXerlR&_nc_oc=Adn9e1XIwjOw27Guo5SjNlqYvoFHz5AH8AgDCPFsO8x-_euM8rqHoWafsH3A2RC2DNU&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=fQa4Gd7qQU6Pbum5kOjNxA&oh=00_AfWhighqI3Yu3-JS3I4YOdWXRm-k2uZKCFzUeyhnxNFxMQ&oe=68A208CD",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530743627_2114182429330744_1459238328966831199_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=0rCOpQHQ4VcQ7kNvwHq_XRl&_nc_oc=AdktXNO-61t9laiKVhMK4IpWAAKZsG-o9_14-u7CiDILuV8t645iUJpr-LPGtjMnrB0&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=fQa4Gd7qQU6Pbum5kOjNxA&oh=00_AfUKdSG7LguZBJMuLTEmWvWKpJOngBbeGEQxBcOlXmiYXw&oe=68A20A2C",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/532070599_2114182169330770_4427268791570965601_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=korQFRbBiE4Q7kNvwE0jmpt&_nc_oc=Adm2oFBER5HhwKJ-uIF9RN_E73e9bbHLoxexbDrpA9axitiz7pkfpNHNX3RT-OMFgRY&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=fQa4Gd7qQU6Pbum5kOjNxA&oh=00_AfV1v6toXuWGj6XxIiJBrx3lsq4hCHPIm_zzC1xVvsNQhg&oe=68A230EA",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/530828605_2114182069330780_1009469986990803256_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=EiOG7DzqqwgQ7kNvwG0MrJ-&_nc_oc=Adlgd3U34Ee8BpM9RWEMEBAwl6QjDPiU8IntJnNnuj2VBrDeex2HfA_kA99U4cTzgmw&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=fQa4Gd7qQU6Pbum5kOjNxA&oh=00_AfU1nc0hBPwvzi03INCv0A3PvvaDWdfshquLEMLm16hBAA&oe=68A217AE",
-      "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/532026259_2114182219330765_1269910836154292913_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=Jh60bPi1OmcQ7kNvwH5CTzL&_nc_oc=AdlpDGPsNzRgOkKpgEFHqeC8zaQTwdH92bv8A-2VW4JVaPIDp5CplzwIUQ5bzsLuUoA&_nc_zt=23&_nc_ht=scontent-ssn1-1.xx&_nc_gid=fQa4Gd7qQU6Pbum5kOjNxA&oh=00_AfWQKLtEhcfgrp6nwkvObg27G7jeXmESqMAMjlR9mzhh9g&oe=68A21B0B"
-    ],
-    "group_id": "300833791835548",
-    "group_name": "Korea Người Tìm Việc - Việc Tìm Người",
-    "group_url": "https://www.facebook.com/groups/nguoitimviecviectimnguoikorea/",
     "group_thumbnail": ""
   }
 ];
